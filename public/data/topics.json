@@ -1,0 +1,65 @@
+{
+  "categories": [
+    {
+      "id": "gross-anatomy",
+      "name": "Gross Anatomy",
+      "topics": [
+        {
+          "id": "gross-anatomy",
+          "name": "Gross Anatomy",
+          "sourceFile": "pharm bricks",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "lab-diagnostics",
+      "name": "Lab & Diagnostics",
+      "topics": [
+        {
+          "id": "lab-diagnostics",
+          "name": "Lab & Diagnostics",
+          "sourceFile": "pharm bricks",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "pathology",
+      "name": "Pathology",
+      "topics": [
+        {
+          "id": "pathology",
+          "name": "Pathology",
+          "sourceFile": "pharm bricks",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "pharmacology",
+      "name": "Pharmacology",
+      "topics": [
+        {
+          "id": "pharmacology",
+          "name": "Pharmacology",
+          "sourceFile": "pharm bricks",
+          "questionCount": 31
+        }
+      ]
+    },
+    {
+      "id": "physiology-mechanisms",
+      "name": "Physiology & Mechanisms",
+      "topics": [
+        {
+          "id": "physiology-mechanisms",
+          "name": "Physiology & Mechanisms",
+          "sourceFile": "pharm bricks",
+          "questionCount": 17
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 52
+}

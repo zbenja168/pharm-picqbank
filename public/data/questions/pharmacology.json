@@ -1,0 +1,1215 @@
+{
+  "categoryId": "pharmacology",
+  "categoryName": "Pharmacology",
+  "questions": [
+    {
+      "id": "phpic-005",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This diagram depicts acetaminophen metabolism. During overdose, the reactive intermediate that accumulates causes hepatotoxicity primarily through which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complement activation leading to immune complex deposition"
+        },
+        {
+          "label": "B",
+          "text": "Covalent binding to hepatocyte proteins producing oxidative injury and centrilobular necrosis"
+        },
+        {
+          "label": "C",
+          "text": "Direct mutation of mitochondrial DNA in periportal cells"
+        },
+        {
+          "label": "D",
+          "text": "Mechanical obstruction of intrahepatic bile canaliculi"
+        },
+        {
+          "label": "E",
+          "text": "IgE-mediated hypersensitivity against hepatocyte membranes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A minor fraction of acetaminophen is oxidized by cytochrome P450 to NAPQI, normally detoxified by glutathione conjugation. When glucuronidation and sulfation are saturated and glutathione is depleted, NAPQI accumulates and binds covalently to hepatic proteins, causing oxidative and mitochondrial injury and centrilobular necrosis. N-acetylcysteine replenishes glutathione.",
+        "whyCorrect": "A minor fraction of acetaminophen is oxidized by cytochrome P450 to NAPQI, normally detoxified by glutathione conjugation. When glucuronidation and sulfation are saturated and glutathione is depleted, NAPQI accumulates and binds covalently to hepatic proteins, causing oxidative and mitochondrial injury and centrilobular necrosis. N-acetylcysteine replenishes glutathione.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-005_ph001_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-006",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This schematic classifies the adrenergic receptor family into its major branches and subtypes. Which intracellular signaling change results from activation of the beta-receptor branch shown here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased cGMP via guanylyl cyclase"
+        },
+        {
+          "label": "B",
+          "text": "Increased cAMP via Gs coupling"
+        },
+        {
+          "label": "C",
+          "text": "Direct opening of a ligand-gated ion channel"
+        },
+        {
+          "label": "D",
+          "text": "Decreased cAMP via Gi coupling"
+        },
+        {
+          "label": "E",
+          "text": "Increased IP3 and DAG via Gq coupling"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The beta-adrenergic receptors (beta1, beta2, beta3) are Gs-coupled GPCRs; activation stimulates adenylyl cyclase and raises intracellular cAMP, whereas alpha1 uses Gq (IP3/DAG) and alpha2 uses Gi (lowers cAMP).",
+        "whyCorrect": "The beta-adrenergic receptors (beta1, beta2, beta3) are Gs-coupled GPCRs; activation stimulates adenylyl cyclase and raises intracellular cAMP, whereas alpha1 uses Gq (IP3/DAG) and alpha2 uses Gi (lowers cAMP).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-006_ph002_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-007",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This figure organizes the cholinergic receptors and their associated G proteins. Which class of receptor shown functions as a ligand-gated ion channel rather than a G-protein-coupled receptor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "M2 muscarinic receptors"
+        },
+        {
+          "label": "B",
+          "text": "M1 muscarinic receptors"
+        },
+        {
+          "label": "C",
+          "text": "M3 muscarinic receptors"
+        },
+        {
+          "label": "D",
+          "text": "M4 muscarinic receptors"
+        },
+        {
+          "label": "E",
+          "text": "Nicotinic receptors"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Nicotinic receptors (nM in muscle, nN in neurons) are ionotropic ligand-gated cation channels activated by ACh, while all muscarinic subtypes (M1-M5) are metabotropic GPCRs coupling to Gq or Gi.",
+        "whyCorrect": "Nicotinic receptors (nM in muscle, nN in neurons) are ionotropic ligand-gated cation channels activated by ACh, while all muscarinic subtypes (M1-M5) are metabotropic GPCRs coupling to Gq or Gi.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-007_ph002_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-008",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This diagram links adrenergic receptor subtypes to their coupled G proteins. Activation of the beta1 receptors in the heart, indicated in this figure, produces which physiological effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vasoconstriction of cutaneous vessels"
+        },
+        {
+          "label": "B",
+          "text": "Bronchoconstriction of airway smooth muscle"
+        },
+        {
+          "label": "C",
+          "text": "Increased heart rate and contractility"
+        },
+        {
+          "label": "D",
+          "text": "Decreased heart rate and contractility"
+        },
+        {
+          "label": "E",
+          "text": "Increased gastrointestinal motility"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Beta1 receptors are Gs-coupled; cardiac beta1 activation raises cAMP, increasing sinoatrial rate (positive chronotropy) and myocardial contractility (positive inotropy).",
+        "whyCorrect": "Beta1 receptors are Gs-coupled; cardiac beta1 activation raises cAMP, increasing sinoatrial rate (positive chronotropy) and myocardial contractility (positive inotropy).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-008_ph002_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-009",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This classification tree organizes one autonomic receptor family into alpha and beta branches with numbered subtypes. Which endogenous ligands primarily activate these receptors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetylcholine"
+        },
+        {
+          "label": "B",
+          "text": "Norepinephrine and epinephrine (catecholamines)"
+        },
+        {
+          "label": "C",
+          "text": "Histamine"
+        },
+        {
+          "label": "D",
+          "text": "Serotonin"
+        },
+        {
+          "label": "E",
+          "text": "Glutamate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The tree depicts adrenergic receptors (alpha1, alpha2, beta1-3), which are the receptors for the catecholamines norepinephrine and epinephrine.",
+        "whyCorrect": "The tree depicts adrenergic receptors (alpha1, alpha2, beta1-3), which are the receptors for the catecholamines norepinephrine and epinephrine.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-009_ph004_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-010",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This schematic assigns a G-protein class to each adrenergic subtype. What second-messenger change results from activation of the Gs-coupled beta receptors shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased cAMP through stimulation of adenylyl cyclase"
+        },
+        {
+          "label": "B",
+          "text": "Decreased cAMP through inhibition of adenylyl cyclase"
+        },
+        {
+          "label": "C",
+          "text": "Increased IP3 and intracellular calcium via phospholipase C"
+        },
+        {
+          "label": "D",
+          "text": "Direct opening of a ligand-gated sodium channel"
+        },
+        {
+          "label": "E",
+          "text": "Increased cGMP via guanylyl cyclase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Beta-adrenergic receptors are Gs-coupled; their activation stimulates adenylyl cyclase, raising cAMP to produce effects such as increased cardiac contractility and rate.",
+        "whyCorrect": "Beta-adrenergic receptors are Gs-coupled; their activation stimulates adenylyl cyclase, raising cAMP to produce effects such as increased cardiac contractility and rate.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-010_ph004_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-011",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This paired diagram contrasts the prostatic urethra in the left panel with the right panel, where smooth muscle has relaxed to widen the urethral lumen and improve urine flow. Which drug produces the change shown in the right panel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tamsulosin"
+        },
+        {
+          "label": "B",
+          "text": "Finasteride"
+        },
+        {
+          "label": "C",
+          "text": "Phenylephrine"
+        },
+        {
+          "label": "D",
+          "text": "Propranolol"
+        },
+        {
+          "label": "E",
+          "text": "Sildenafil"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The right panel shows relaxation of prostatic and bladder-neck smooth muscle with a dilated urethra, the effect of a selective alpha-1 (alpha-1A) receptor antagonist. Tamsulosin is the uroselective alpha-1A blocker used to relieve the obstructive urinary symptoms of benign prostatic hyperplasia. Finasteride shrinks the gland by a different (5-alpha-reductase) mechanism, sildenafil is a PDE-5 inhibitor, phenylephrine is an alpha-1 agonist that would worsen obstruction, and propranolol is a beta-blocker.",
+        "whyCorrect": "The right panel shows relaxation of prostatic and bladder-neck smooth muscle with a dilated urethra, the effect of a selective alpha-1 (alpha-1A) receptor antagonist. Tamsulosin is the uroselective alpha-1A blocker used to relieve the obstructive urinary symptoms of benign prostatic hyperplasia. Finasteride shrinks the gland by a different (5-alpha-reductase) mechanism, sildenafil is a PDE-5 inhibitor, phenylephrine is an alpha-1 agonist that would worsen obstruction, and propranolol is a beta-blocker.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-011_ph007_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-012",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This classification tree branches a single receptor family into an alpha limb and a beta limb, each with numbered subtypes. Which pair of endogenous ligands physiologically activates the entire receptor family shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dopamine and GABA"
+        },
+        {
+          "label": "B",
+          "text": "Acetylcholine and choline"
+        },
+        {
+          "label": "C",
+          "text": "Glutamate and glycine"
+        },
+        {
+          "label": "D",
+          "text": "Norepinephrine and epinephrine"
+        },
+        {
+          "label": "E",
+          "text": "Histamine and serotonin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The tree depicts the adrenergic (catecholaminergic) receptor family, split into alpha (alpha1, alpha2) and beta (beta1, beta2, beta3) subtypes. All of these receptors are activated by the endogenous catecholamines norepinephrine and epinephrine, which is why they are the targets of adrenergic agonists (sympathomimetics).",
+        "whyCorrect": "The tree depicts the adrenergic (catecholaminergic) receptor family, split into alpha (alpha1, alpha2) and beta (beta1, beta2, beta3) subtypes. All of these receptors are activated by the endogenous catecholamines norepinephrine and epinephrine, which is why they are the targets of adrenergic agonists (sympathomimetics).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-012_ph008_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-013",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This schematic divides cholinergic receptors into a muscarinic branch (each subtype tagged with a G-protein) and a nicotinic branch (muscle and neuronal types shown without any G-protein tag). By what signaling mechanism do the nicotinic receptors in this branch transmit their signal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Through Gq-coupled activation of phospholipase C"
+        },
+        {
+          "label": "B",
+          "text": "Through Gs-coupled stimulation of adenylyl cyclase"
+        },
+        {
+          "label": "C",
+          "text": "Through Gi-coupled inhibition of adenylyl cyclase"
+        },
+        {
+          "label": "D",
+          "text": "Through intracellular steroid-hormone receptors"
+        },
+        {
+          "label": "E",
+          "text": "Directly as ligand-gated ion channels"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Unlike the muscarinic subtypes, which are G-protein-coupled receptors (hence the Gq/Gi tags in the figure), nicotinic receptors are ligand-gated ion channels that open directly on acetylcholine binding, allowing rapid cation influx and depolarization. The absence of a G-protein label on the nicotinic branch reflects this ionotropic mechanism.",
+        "whyCorrect": "Unlike the muscarinic subtypes, which are G-protein-coupled receptors (hence the Gq/Gi tags in the figure), nicotinic receptors are ligand-gated ion channels that open directly on acetylcholine binding, allowing rapid cation influx and depolarization. The absence of a G-protein label on the nicotinic branch reflects this ionotropic mechanism.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-013_ph008_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-014",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "In this adrenergic receptor tree, each subtype is paired with its coupled G protein. Activation of the alpha1 branch shown here produces which principal physiological effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased renal blood flow via vasodilation"
+        },
+        {
+          "label": "B",
+          "text": "Relaxation of bronchial smooth muscle (bronchodilation)"
+        },
+        {
+          "label": "C",
+          "text": "Contraction of vascular smooth muscle (vasoconstriction)"
+        },
+        {
+          "label": "D",
+          "text": "Reduced norepinephrine release from nerve terminals"
+        },
+        {
+          "label": "E",
+          "text": "Increased cardiac contractility and heart rate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The alpha1 subtype couples to Gq, activating phospholipase C, generating IP3/DAG and raising intracellular calcium, which drives vascular smooth-muscle contraction and vasoconstriction. Bronchodilation and increased contractility are beta effects, and presynaptic inhibition of norepinephrine release is an alpha2 effect.",
+        "whyCorrect": "The alpha1 subtype couples to Gq, activating phospholipase C, generating IP3/DAG and raising intracellular calcium, which drives vascular smooth-muscle contraction and vasoconstriction. Bronchodilation and increased contractility are beta effects, and presynaptic inhibition of norepinephrine release is an alpha2 effect.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-014_ph008_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-015",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "In this schematic of a parietal cell, one drug class is shown binding the histamine H2 receptor while another is shown acting directly at the pump. What is the mechanism by which the H2 receptor antagonist reduces acid output?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antagonism of the gastrin/CCK-B receptor"
+        },
+        {
+          "label": "B",
+          "text": "Neutralization of luminal gastric acid"
+        },
+        {
+          "label": "C",
+          "text": "Reversible blockade of the H2 receptor, lowering cAMP-dependent pump activation"
+        },
+        {
+          "label": "D",
+          "text": "Irreversible covalent inhibition of the H+/K+-ATPase"
+        },
+        {
+          "label": "E",
+          "text": "Blockade of the muscarinic M3 receptor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "H2 receptor antagonists reversibly block histamine at the H2 receptor, reducing the cAMP-dependent pathway that activates the proton pump. This is less complete than PPIs, which irreversibly inhibit the H+/K+-ATPase itself, the final common pathway.",
+        "whyCorrect": "H2 receptor antagonists reversibly block histamine at the H2 receptor, reducing the cAMP-dependent pathway that activates the proton pump. This is less complete than PPIs, which irreversibly inhibit the H+/K+-ATPase itself, the final common pathway.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-015_ph009_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-016",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This figure summarizes categories of harm linked to chronic use of the drug class named at top left. Grouping the listed effects (low Ca2+/Mg2+/Fe2+, osteoporosis, B12 deficiency; C. difficile colitis and pneumonia), what underlying pharmacologic change best explains most of these long-term risks?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stimulation of parietal cell apoptosis"
+        },
+        {
+          "label": "B",
+          "text": "Inhibition of hepatic CYP3A4 metabolism"
+        },
+        {
+          "label": "C",
+          "text": "Sustained elevation of gastric pH from proton pump inhibition"
+        },
+        {
+          "label": "D",
+          "text": "Direct chelation of dietary cations"
+        },
+        {
+          "label": "E",
+          "text": "Reversible H2 receptor blockade"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "PPIs irreversibly inhibit the H+/K+-ATPase, raising gastric pH. The persistently low acidity impairs absorption of Ca2+, Mg2+, Fe2+ and vitamin B12 and removes the acid barrier to enteric pathogens, driving increased risk of malabsorption, osteoporosis, C. difficile infection, and pneumonia.",
+        "whyCorrect": "PPIs irreversibly inhibit the H+/K+-ATPase, raising gastric pH. The persistently low acidity impairs absorption of Ca2+, Mg2+, Fe2+ and vitamin B12 and removes the acid barrier to enteric pathogens, driving increased risk of malabsorption, osteoporosis, C. difficile infection, and pneumonia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-016_ph009_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-017",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This illustration contrasts two broad classes of drug administration routes based on where the drug is delivered relative to the gastrointestinal tract. Which route class is depicted by the pathways that deliver drug directly into the bloodstream, bypassing the GI tract?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transdermal routes"
+        },
+        {
+          "label": "B",
+          "text": "Inhalational routes"
+        },
+        {
+          "label": "C",
+          "text": "Enteral routes"
+        },
+        {
+          "label": "D",
+          "text": "Topical routes"
+        },
+        {
+          "label": "E",
+          "text": "Parenteral routes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Parenteral routes (e.g., intravenous, intramuscular, subcutaneous) deliver drug outside of and bypassing the gastrointestinal tract, entering the systemic circulation directly through vascular access, in contrast to enteral routes that use the GI tract.",
+        "whyCorrect": "Parenteral routes (e.g., intravenous, intramuscular, subcutaneous) deliver drug outside of and bypassing the gastrointestinal tract, entering the systemic circulation directly through vascular access, in contrast to enteral routes that use the GI tract.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-017_ph010_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-018",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This schematic traces an orally absorbed drug from the gut wall through the portal vein to the liver before it reaches the systemic circulation. What phenomenon does this pathway illustrate that reduces the fraction of active drug reaching the bloodstream?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterohepatic recirculation"
+        },
+        {
+          "label": "B",
+          "text": "First-pass metabolism"
+        },
+        {
+          "label": "C",
+          "text": "Renal first-pass clearance"
+        },
+        {
+          "label": "D",
+          "text": "Zero-order absorption kinetics"
+        },
+        {
+          "label": "E",
+          "text": "Plasma protein binding"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Orally absorbed drug travels via the portal vein to the liver, where hepatic (and gut wall) enzymes metabolize a portion before it enters the systemic circulation. This first-pass metabolism lowers oral bioavailability compared with routes that bypass the portal circulation.",
+        "whyCorrect": "Orally absorbed drug travels via the portal vein to the liver, where hepatic (and gut wall) enzymes metabolize a portion before it enters the systemic circulation. This first-pass metabolism lowers oral bioavailability compared with routes that bypass the portal circulation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-018_ph010_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-019",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This schematic depicts a drug blocking the L-type membrane channel, preventing ion entry that would otherwise initiate processes such as muscle contraction, insulin secretion, and gene transcription. In vascular tissue, which therapeutic effect is a direct consequence of this drug action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vascular smooth muscle relaxation (vasodilation)"
+        },
+        {
+          "label": "B",
+          "text": "Increased cardiac contractility"
+        },
+        {
+          "label": "C",
+          "text": "Bronchoconstriction"
+        },
+        {
+          "label": "D",
+          "text": "Increased platelet aggregation"
+        },
+        {
+          "label": "E",
+          "text": "Enhanced insulin secretion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Blocking the L-type Ca2+ channel lowers intracellular calcium in vascular smooth muscle, reducing myosin light-chain phosphorylation and causing relaxation and vasodilation. The other options are the opposite of, or unrelated to, reduced calcium influx.",
+        "whyCorrect": "Blocking the L-type Ca2+ channel lowers intracellular calcium in vascular smooth muscle, reducing myosin light-chain phosphorylation and causing relaxation and vasodilation. The other options are the opposite of, or unrelated to, reduced calcium influx.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-019_ph015_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-020",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "These are the chemical structures of several calcium channel blockers grouped by structural class. Pharmacologically, the two non-dihydropyridine agents shown differ from the dihydropyridines by having a greater effect on which tissue?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Renal tubular epithelium"
+        },
+        {
+          "label": "B",
+          "text": "Bronchial smooth muscle"
+        },
+        {
+          "label": "C",
+          "text": "Arteriolar smooth muscle"
+        },
+        {
+          "label": "D",
+          "text": "Skeletal muscle"
+        },
+        {
+          "label": "E",
+          "text": "The cardiac conduction system (SA and AV nodes)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Non-dihydropyridines (verapamil, diltiazem) act more strongly on cardiac conduction tissue, slowing SA/AV nodal firing (negative chronotropic/dromotropic effect), whereas dihydropyridines are relatively selective arterial vasodilators.",
+        "whyCorrect": "Non-dihydropyridines (verapamil, diltiazem) act more strongly on cardiac conduction tissue, slowing SA/AV nodal firing (negative chronotropic/dromotropic effect), whereas dihydropyridines are relatively selective arterial vasodilators.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-020_ph015_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-021",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "A patient presents with the constellation of findings depicted here (blind as a bat, dry as a bone, red as a beet, hot as a hare, mad as a hatter). Which agent is used to reverse this toxidrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atropine"
+        },
+        {
+          "label": "B",
+          "text": "Physostigmine"
+        },
+        {
+          "label": "C",
+          "text": "Flumazenil"
+        },
+        {
+          "label": "D",
+          "text": "Naloxone"
+        },
+        {
+          "label": "E",
+          "text": "Pralidoxime"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The illustration depicts the anticholinergic (antimuscarinic) toxidrome. Physostigmine, a centrally acting acetylcholinesterase inhibitor, raises synaptic acetylcholine to overcome muscarinic blockade and is the antidote. Atropine would worsen it, pralidoxime treats organophosphate poisoning, naloxone reverses opioids, and flumazenil reverses benzodiazepines.",
+        "whyCorrect": "The illustration depicts the anticholinergic (antimuscarinic) toxidrome. Physostigmine, a centrally acting acetylcholinesterase inhibitor, raises synaptic acetylcholine to overcome muscarinic blockade and is the antidote. Atropine would worsen it, pralidoxime treats organophosphate poisoning, naloxone reverses opioids, and flumazenil reverses benzodiazepines.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-021_ph017_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-022",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This general chemical structure has a tetrahedral phosphorus center. Its shape is pharmacologically significant because it resembles what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The oxime reactivator (2-PAM) structure"
+        },
+        {
+          "label": "B",
+          "text": "The acetylcholine molecule itself"
+        },
+        {
+          "label": "C",
+          "text": "The transition state of carboxyl ester hydrolysis"
+        },
+        {
+          "label": "D",
+          "text": "The muscarinic receptor binding pocket"
+        },
+        {
+          "label": "E",
+          "text": "The carbamate ester reaction intermediate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Organophosphorus inhibitors are tetrahedral, mimicking the transition state formed during carboxyl ester hydrolysis at the enzyme's active site, which allows them to bind acetylcholinesterase and phosphorylate it.",
+        "whyCorrect": "Organophosphorus inhibitors are tetrahedral, mimicking the transition state formed during carboxyl ester hydrolysis at the enzyme's active site, which allows them to bind acetylcholinesterase and phosphorylate it.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-022_ph019_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-023",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This figure maps the distribution of the three primary opioid receptor subtypes across CNS regions such as the thalamus, caudate, putamen, hippocampus, amygdala, and nucleus accumbens. Which receptor subtype is primarily responsible for the analgesic and euphoric effects of most clinically used opioid agonists?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nociceptin (NOP) receptor"
+        },
+        {
+          "label": "B",
+          "text": "Kappa (κ) receptor"
+        },
+        {
+          "label": "C",
+          "text": "Sigma (σ) receptor"
+        },
+        {
+          "label": "D",
+          "text": "Mu (μ) receptor"
+        },
+        {
+          "label": "E",
+          "text": "Delta (δ) receptor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Most clinically used opioid agonists act primarily at mu (μ) receptors, which mediate analgesia, euphoria, respiratory depression, and dependence. Kappa and delta receptors modulate these effects and contribute to other actions but are not the main analgesic target.",
+        "whyCorrect": "Most clinically used opioid agonists act primarily at mu (μ) receptors, which mediate analgesia, euphoria, respiratory depression, and dependence. Kappa and delta receptors modulate these effects and contribute to other actions but are not the main analgesic target.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-023_ph022_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-024",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This schematic shows sites of opioid receptor action along the neuraxis, including the dorsal horn of the spinal cord. What is the primary mechanism by which opioid receptor activation at the dorsal horn produces analgesia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of voltage-gated sodium channels on motor neurons"
+        },
+        {
+          "label": "B",
+          "text": "Increased substance P release from primary afferents"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of nociceptive neurotransmitter release from primary afferent terminals"
+        },
+        {
+          "label": "D",
+          "text": "Enhancement of glutamate release onto second-order neurons"
+        },
+        {
+          "label": "E",
+          "text": "Activation of descending serotonergic excitation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In the dorsal horn, presynaptic opioid receptors reduce calcium influx and inhibit release of excitatory neurotransmitters (e.g., substance P, glutamate) from primary afferents, while postsynaptic hyperpolarization decreases transmission of nociceptive signals, producing analgesia.",
+        "whyCorrect": "In the dorsal horn, presynaptic opioid receptors reduce calcium influx and inhibit release of excitatory neurotransmitters (e.g., substance P, glutamate) from primary afferents, while postsynaptic hyperpolarization decreases transmission of nociceptive signals, producing analgesia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-024_ph022_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-025",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This figure maps the multi-organ actions of a first-line biguanide acting on liver, intestine, and skeletal muscle. Which cellular energy-sensing pathway does it activate in skeletal muscle to enhance glucose uptake?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Protein kinase A (PKA)"
+        },
+        {
+          "label": "B",
+          "text": "Sodium-glucose cotransporter 2 (SGLT2)"
+        },
+        {
+          "label": "C",
+          "text": "mTOR complex 1 (mTORC1)"
+        },
+        {
+          "label": "D",
+          "text": "Cyclic GMP-dependent protein kinase (PKG)"
+        },
+        {
+          "label": "E",
+          "text": "AMP-activated protein kinase (AMPK)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The agent depicted is metformin. In skeletal muscle it activates AMPK, the cellular sensor of AMP:ATP and ADP:ATP ratios, which drives GLUT-4 translocation to the membrane and increases insulin-mediated glucose uptake. Metformin also decreases hepatic gluconeogenesis and glycogenolysis and reduces intestinal glucose absorption, together improving insulin sensitivity.",
+        "whyCorrect": "The agent depicted is metformin. In skeletal muscle it activates AMPK, the cellular sensor of AMP:ATP and ADP:ATP ratios, which drives GLUT-4 translocation to the membrane and increases insulin-mediated glucose uptake. Metformin also decreases hepatic gluconeogenesis and glycogenolysis and reduces intestinal glucose absorption, together improving insulin sensitivity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-025_ph024_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-026",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This schematic contrasts two forms of a drug at a lipid bilayer, one blocked by a red X and one passing through. What property of the drug determines whether it can passively cross the membrane?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The surrounding temperature"
+        },
+        {
+          "label": "B",
+          "text": "Its molecular weight"
+        },
+        {
+          "label": "C",
+          "text": "Its ionization (charge) state"
+        },
+        {
+          "label": "D",
+          "text": "The total number of drug molecules present"
+        },
+        {
+          "label": "E",
+          "text": "The thickness of the lipid bilayer"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The neutral, uncharged (unionized) form of a drug is lipophilic and diffuses freely through the fatty acyl core of the lipid bilayer, whereas the charged (ionized) form is hydrophilic and is repelled, as shown by the blocked pathway. Passive crossing is therefore governed primarily by the drug's ionization state.",
+        "whyCorrect": "The neutral, uncharged (unionized) form of a drug is lipophilic and diffuses freely through the fatty acyl core of the lipid bilayer, whereas the charged (ionized) form is hydrophilic and is repelled, as shown by the blocked pathway. Passive crossing is therefore governed primarily by the drug's ionization state.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-026_ph025_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-027",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This illustration maps where weakly acidic versus weakly basic drugs are best absorbed along the GI tract. What is the underlying reason a weak acid is preferentially absorbed in the proximal duodenum?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The acidic pH ionizes the weak acid, boosting its absorption"
+        },
+        {
+          "label": "B",
+          "text": "The duodenum expresses active transporters specific for acids"
+        },
+        {
+          "label": "C",
+          "text": "Weak acids are chemically destroyed in alkaline segments"
+        },
+        {
+          "label": "D",
+          "text": "In the more acidic environment it stays unionized and lipophilic, so it can cross membranes"
+        },
+        {
+          "label": "E",
+          "text": "Acidic pH increases mucosal blood flow to speed absorption"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A weak acid in an acidic environment (pH below its pKa) remains protonated and unionized, making it lipophilic and able to diffuse across the enterocyte membrane. Weak bases behave oppositely, staying unionized in the more alkaline distal ileum. Absorption is thus driven by pH-dependent ionization, not by transporters, blood flow, or drug destruction.",
+        "whyCorrect": "A weak acid in an acidic environment (pH below its pKa) remains protonated and unionized, making it lipophilic and able to diffuse across the enterocyte membrane. Weak bases behave oppositely, staying unionized in the more alkaline distal ileum. Absorption is thus driven by pH-dependent ionization, not by transporters, blood flow, or drug destruction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-027_ph025_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-028",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This figure classifies common NSAIDs by their COX selectivity (panel A) and plasma half-life (panel B), with the most COX-2 selective agents grouped at the bottom of panel A. A drug from that highly COX-2 selective group would be expected to carry the greatest risk of which adverse outcome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aplastic anemia"
+        },
+        {
+          "label": "B",
+          "text": "Gastric ulceration and GI bleeding"
+        },
+        {
+          "label": "C",
+          "text": "Cardiovascular thrombotic events"
+        },
+        {
+          "label": "D",
+          "text": "Bronchospasm"
+        },
+        {
+          "label": "E",
+          "text": "Hepatic failure"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Highly COX-2 selective agents reduce endothelial prostacyclin (PGI2) while leaving platelet-derived thromboxane A2 relatively intact, shifting the balance toward platelet aggregation and vasoconstriction. This underlies the increased risk of myocardial infarction and stroke that led to withdrawal of several coxibs.",
+        "whyCorrect": "Highly COX-2 selective agents reduce endothelial prostacyclin (PGI2) while leaving platelet-derived thromboxane A2 relatively intact, shifting the balance toward platelet aggregation and vasoconstriction. This underlies the increased risk of myocardial infarction and stroke that led to withdrawal of several coxibs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-028_ph026_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-029",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "In this schematic, three drugs bind the same membrane receptor: the middle molecule triggers a cellular 'Effect' while the rightmost molecule occupies the receptor but produces 'No effect.' What best explains the mechanism of the rightmost drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It binds and fully activates the receptor to trigger signaling"
+        },
+        {
+          "label": "B",
+          "text": "It reduces the receptor's baseline constitutive activity below normal"
+        },
+        {
+          "label": "C",
+          "text": "It partially activates the receptor to give a submaximal response"
+        },
+        {
+          "label": "D",
+          "text": "It is the endogenous ligand that normally activates the receptor"
+        },
+        {
+          "label": "E",
+          "text": "It binds the receptor without activating it, blocking agonist access"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "An antagonist occupies the receptor and prevents agonist binding/activation, producing no downstream effect, in contrast to the agonist which activates signaling.",
+        "whyCorrect": "An antagonist occupies the receptor and prevents agonist binding/activation, producing no downstream effect, in contrast to the agonist which activates signaling.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-029_ph027_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-030",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This diagram shows aspirin acetylating a serine residue on two related enzymes. Acetylation permanently inactivates the upper enzyme, but for the lower enzyme it does not abolish function — it switches the enzyme to a new catalytic activity. What new activity does the acetylated lower enzyme acquire?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enhanced cyclooxygenase activity"
+        },
+        {
+          "label": "B",
+          "text": "Phospholipase A2 activity"
+        },
+        {
+          "label": "C",
+          "text": "Lipoxygenase activity (producing lipoxins)"
+        },
+        {
+          "label": "D",
+          "text": "Thromboxane synthase activity"
+        },
+        {
+          "label": "E",
+          "text": "Peroxidase-only activity with no lipid product"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Aspirin irreversibly acetylates a serine in the active site of COX-1, fully inactivating it. For COX-2, the same acetylation does not stop the enzyme but converts its cyclooxygenase activity into a lipoxygenase (LOX) activity, generating anti-inflammatory lipoxins rather than prostaglandins.",
+        "whyCorrect": "Aspirin irreversibly acetylates a serine in the active site of COX-1, fully inactivating it. For COX-2, the same acetylation does not stop the enzyme but converts its cyclooxygenase activity into a lipoxygenase (LOX) activity, generating anti-inflammatory lipoxins rather than prostaglandins.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-030_ph029_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-031",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This plasma drug concentration versus time plot is a straight, linearly declining line. What elimination kinetics does this pattern represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "First-order elimination"
+        },
+        {
+          "label": "B",
+          "text": "Zero-order elimination"
+        },
+        {
+          "label": "C",
+          "text": "Enterohepatic recirculation"
+        },
+        {
+          "label": "D",
+          "text": "Flow-limited elimination"
+        },
+        {
+          "label": "E",
+          "text": "Concentration-independent absorption"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A constant absolute amount of drug removed per unit time, independent of concentration, yields a straight line on a linear plot, characteristic of zero-order kinetics.",
+        "whyCorrect": "A constant absolute amount of drug removed per unit time, independent of concentration, yields a straight line on a linear plot, characteristic of zero-order kinetics.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-031_ph030_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-032",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This schematic shows a constant 2.5 units/h of drug removed at every concentration step. Which drug is a classic clinical example of this saturable elimination pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Penicillin"
+        },
+        {
+          "label": "B",
+          "text": "Metoprolol"
+        },
+        {
+          "label": "C",
+          "text": "Ethanol"
+        },
+        {
+          "label": "D",
+          "text": "Gentamicin"
+        },
+        {
+          "label": "E",
+          "text": "Digoxin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ethanol (along with phenytoin and aspirin at high doses) is eliminated at a constant amount per unit time because its metabolic pathway is saturated, defining zero-order kinetics.",
+        "whyCorrect": "Ethanol (along with phenytoin and aspirin at high doses) is eliminated at a constant amount per unit time because its metabolic pathway is saturated, defining zero-order kinetics.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-032_ph030_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-033",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "On a linear y-axis, this plasma concentration versus time curve declines exponentially rather than as a straight line. What does the exponential shape indicate about elimination?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An increasing fraction is eliminated as concentration falls"
+        },
+        {
+          "label": "B",
+          "text": "Drug is eliminated only above a threshold concentration"
+        },
+        {
+          "label": "C",
+          "text": "Elimination stops once concentration reaches half the peak"
+        },
+        {
+          "label": "D",
+          "text": "A constant fraction of drug is eliminated per unit time"
+        },
+        {
+          "label": "E",
+          "text": "A constant absolute amount of drug is eliminated per unit time"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "First-order kinetics removes a constant proportion of drug per unit time, so the elimination rate is proportional to concentration and the curve decays exponentially on a linear scale.",
+        "whyCorrect": "First-order kinetics removes a constant proportion of drug per unit time, so the elimination rate is proportional to concentration and the curve decays exponentially on a linear scale.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-033_ph030_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-034",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "In this schematic the elimination rate halves as concentration halves (5 to 2.5 to 1.25 units/h). What quantity remains constant across all concentrations for such a drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The half-life"
+        },
+        {
+          "label": "B",
+          "text": "The maximum metabolic elimination capacity"
+        },
+        {
+          "label": "C",
+          "text": "The absolute amount of drug eliminated per hour"
+        },
+        {
+          "label": "D",
+          "text": "The fraction of drug bound to plasma protein"
+        },
+        {
+          "label": "E",
+          "text": "The time required to eliminate the entire dose"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Because a constant proportion is removed per unit time, the time for concentration to fall by half is fixed regardless of the starting concentration, so half-life is constant in first-order kinetics.",
+        "whyCorrect": "Because a constant proportion is removed per unit time, the time for concentration to fall by half is fixed regardless of the starting concentration, so half-life is constant in first-order kinetics.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-034_ph030_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-035",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This graph compares steady-state acetaminophen concentrations for three formulations. The intravenous curve is nearly flat while the oral curves oscillate between peaks and troughs. What best explains the flat intravenous profile?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intravenous drug bypasses steady state entirely"
+        },
+        {
+          "label": "B",
+          "text": "Intravenous dosing uses a far larger total dose"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous drug is not subject to first-order elimination"
+        },
+        {
+          "label": "D",
+          "text": "Continuous infusion delivers drug at a rate matching elimination"
+        },
+        {
+          "label": "E",
+          "text": "Intravenous drug has a much shorter half-life"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A continuous IV infusion inputs drug at a constant rate equal to the elimination rate at steady state, so concentration plateaus without the peak-trough swings seen with intermittent oral dosing.",
+        "whyCorrect": "A continuous IV infusion inputs drug at a constant rate equal to the elimination rate at steady state, so concentration plateaus without the peak-trough swings seen with intermittent oral dosing.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-035_ph030_f07.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

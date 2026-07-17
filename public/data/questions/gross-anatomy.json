@@ -1,0 +1,84 @@
+{
+  "categoryId": "gross-anatomy",
+  "categoryName": "Gross Anatomy",
+  "questions": [
+    {
+      "id": "phpic-001",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This diagram maps autonomic innervation onto the visceral organs lying below the diaphragm. The parasympathetic input to these organs generally promotes which overall functional state?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Digestion and elimination (rest-and-digest activity)"
+        },
+        {
+          "label": "B",
+          "text": "Increased heart rate and contractility"
+        },
+        {
+          "label": "C",
+          "text": "Vasoconstriction and raised blood pressure"
+        },
+        {
+          "label": "D",
+          "text": "Glycogenolysis and mobilization of glucose"
+        },
+        {
+          "label": "E",
+          "text": "Bronchodilation and pupil dilation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The organs illustrated (stomach, intestines, bladder, reproductive structures) receive parasympathetic innervation that promotes rest-and-digest functions: increased GI motility and secretion, and elimination of waste. The listed distractors are sympathetic (fight-or-flight) responses.",
+        "whyCorrect": "The organs illustrated (stomach, intestines, bladder, reproductive structures) receive parasympathetic innervation that promotes rest-and-digest functions: increased GI motility and secretion, and elimination of waste. The listed distractors are sympathetic (fight-or-flight) responses.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-001_ph008_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-002",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This diagram depicts the paired spongy erectile columns that run the length of the penis. During normal sexual arousal, what event directly causes these structures to become rigid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Venous constriction traps lymphatic fluid within the tissue"
+        },
+        {
+          "label": "B",
+          "text": "Contraction of the surrounding skeletal muscle compresses the shaft"
+        },
+        {
+          "label": "C",
+          "text": "Smooth muscle relaxation allows blood to fill the sinusoidal spaces"
+        },
+        {
+          "label": "D",
+          "text": "Accumulation of interstitial edema stiffens the connective tissue"
+        },
+        {
+          "label": "E",
+          "text": "Increased sympathetic tone drives arterial vasoconstriction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Erection results from nitric oxide-driven relaxation of the arterial and trabecular smooth muscle within the corpora cavernosa, which increases arterial inflow and fills the sinusoidal spaces with blood, producing rigidity. This is the target pathway of PDE-5 inhibitors.",
+        "whyCorrect": "Erection results from nitric oxide-driven relaxation of the arterial and trabecular smooth muscle within the corpora cavernosa, which increases arterial inflow and fills the sinusoidal spaces with blood, producing rigidity. This is the target pathway of PDE-5 inhibitors.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-002_ph013_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "categoryId": "pathology",
+  "categoryName": "Pathology",
+  "questions": [
+    {
+      "id": "phpic-004",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This illustration summarizes the long-term effects of chronic corticosteroid excess, including central obesity, a rounded face, a dorsocervical fat pad, and purple abdominal striae. What is the primary mechanism producing the purple striae and thin, fragile skin shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucocorticoid-induced inhibition of collagen synthesis and increased protein catabolism in the dermis"
+        },
+        {
+          "label": "B",
+          "text": "Dermal edema from sodium and water retention"
+        },
+        {
+          "label": "C",
+          "text": "Subcutaneous fat necrosis and calcification"
+        },
+        {
+          "label": "D",
+          "text": "Chronic venous congestion of dermal vessels"
+        },
+        {
+          "label": "E",
+          "text": "Increased melanocyte-stimulating hormone and melanin deposition"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic glucocorticoid exposure suppresses fibroblast activity and collagen synthesis while promoting protein breakdown, thinning the dermis. The weakened, thin skin stretches over expanding central fat and tears, exposing dermal vasculature as the characteristic wide purple striae seen in iatrogenic Cushing syndrome.",
+        "whyCorrect": "Chronic glucocorticoid exposure suppresses fibroblast activity and collagen synthesis while promoting protein breakdown, thinning the dermis. The weakened, thin skin stretches over expanding central fat and tears, exposing dermal vasculature as the characteristic wide purple striae seen in iatrogenic Cushing syndrome.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-004_ph003_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
