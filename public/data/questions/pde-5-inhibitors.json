@@ -1,0 +1,45 @@
+{
+  "categoryId": "pde-5-inhibitors",
+  "categoryName": "PDE-5 Inhibitors",
+  "questions": [
+    {
+      "id": "phpic-002",
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors",
+      "stem": "This diagram depicts the paired spongy erectile columns that run the length of the penis. During normal sexual arousal, what event directly causes these structures to become rigid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Venous constriction traps lymphatic fluid within the tissue"
+        },
+        {
+          "label": "B",
+          "text": "Contraction of the surrounding skeletal muscle compresses the shaft"
+        },
+        {
+          "label": "C",
+          "text": "Smooth muscle relaxation allows blood to fill the sinusoidal spaces"
+        },
+        {
+          "label": "D",
+          "text": "Accumulation of interstitial edema stiffens the connective tissue"
+        },
+        {
+          "label": "E",
+          "text": "Increased sympathetic tone drives arterial vasoconstriction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Erection results from nitric oxide-driven relaxation of the arterial and trabecular smooth muscle within the corpora cavernosa, which increases arterial inflow and fills the sinusoidal spaces with blood, producing rigidity. This is the target pathway of PDE-5 inhibitors.",
+        "whyCorrect": "Erection results from nitric oxide-driven relaxation of the arterial and trabecular smooth muscle within the corpora cavernosa, which increases arterial inflow and fills the sinusoidal spaces with blood, producing rigidity. This is the target pathway of PDE-5 inhibitors.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-002_ph013_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

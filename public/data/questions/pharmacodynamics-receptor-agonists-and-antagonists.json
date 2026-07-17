@@ -1,0 +1,45 @@
+{
+  "categoryId": "pharmacodynamics-receptor-agonists-and-antagonists",
+  "categoryName": "Pharmacodynamics: Receptor Agonists and Antagonists",
+  "questions": [
+    {
+      "id": "phpic-029",
+      "topicId": "pharmacodynamics-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics: Receptor Agonists and Antagonists",
+      "stem": "In this schematic, three drugs bind the same membrane receptor: the middle molecule triggers a cellular 'Effect' while the rightmost molecule occupies the receptor but produces 'No effect.' What best explains the mechanism of the rightmost drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It binds and fully activates the receptor to trigger signaling"
+        },
+        {
+          "label": "B",
+          "text": "It reduces the receptor's baseline constitutive activity below normal"
+        },
+        {
+          "label": "C",
+          "text": "It partially activates the receptor to give a submaximal response"
+        },
+        {
+          "label": "D",
+          "text": "It is the endogenous ligand that normally activates the receptor"
+        },
+        {
+          "label": "E",
+          "text": "It binds the receptor without activating it, blocking agonist access"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "An antagonist occupies the receptor and prevents agonist binding/activation, producing no downstream effect, in contrast to the agonist which activates signaling.",
+        "whyCorrect": "An antagonist occupies the receptor and prevents agonist binding/activation, producing no downstream effect, in contrast to the agonist which activates signaling.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-029_ph027_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

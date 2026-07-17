@@ -1,0 +1,45 @@
+{
+  "categoryId": "metformin-glp-1-ra-and-sglt2-inhibitors",
+  "categoryName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+  "questions": [
+    {
+      "id": "phpic-025",
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "stem": "This figure maps the multi-organ actions of a first-line biguanide acting on liver, intestine, and skeletal muscle. Which cellular energy-sensing pathway does it activate in skeletal muscle to enhance glucose uptake?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Protein kinase A (PKA)"
+        },
+        {
+          "label": "B",
+          "text": "Sodium-glucose cotransporter 2 (SGLT2)"
+        },
+        {
+          "label": "C",
+          "text": "mTOR complex 1 (mTORC1)"
+        },
+        {
+          "label": "D",
+          "text": "Cyclic GMP-dependent protein kinase (PKG)"
+        },
+        {
+          "label": "E",
+          "text": "AMP-activated protein kinase (AMPK)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The agent depicted is metformin. In skeletal muscle it activates AMPK, the cellular sensor of AMP:ATP and ADP:ATP ratios, which drives GLUT-4 translocation to the membrane and increases insulin-mediated glucose uptake. Metformin also decreases hepatic gluconeogenesis and glycogenolysis and reduces intestinal glucose absorption, together improving insulin sensitivity.",
+        "whyCorrect": "The agent depicted is metformin. In skeletal muscle it activates AMPK, the cellular sensor of AMP:ATP and ADP:ATP ratios, which drives GLUT-4 translocation to the membrane and increases insulin-mediated glucose uptake. Metformin also decreases hepatic gluconeogenesis and glycogenolysis and reduces intestinal glucose absorption, together improving insulin sensitivity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-025_ph024_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

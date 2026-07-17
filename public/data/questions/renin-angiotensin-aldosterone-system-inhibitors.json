@@ -1,0 +1,123 @@
+{
+  "categoryId": "renin-angiotensin-aldosterone-system-inhibitors",
+  "categoryName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+  "questions": [
+    {
+      "id": "phpic-045",
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "stem": "This schematic traces the sequence of hormones and enzymes shown moving from the kidney to the lung and adrenal gland. Which physiologic system is being depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sympathetic baroreceptor reflex"
+        },
+        {
+          "label": "B",
+          "text": "Hypothalamic-pituitary-adrenal axis"
+        },
+        {
+          "label": "C",
+          "text": "Kallikrein-kinin bradykinin cascade"
+        },
+        {
+          "label": "D",
+          "text": "Atrial natriuretic peptide pathway"
+        },
+        {
+          "label": "E",
+          "text": "Renin-angiotensin-aldosterone system"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The diagram shows renin acting on angiotensinogen to form angiotensin I, ACE converting it to angiotensin II, and downstream aldosterone secretion, which is the classic renin-angiotensin-aldosterone system (RAAS) that regulates blood pressure and volume.",
+        "whyCorrect": "The diagram shows renin acting on angiotensinogen to form angiotensin I, ACE converting it to angiotensin II, and downstream aldosterone secretion, which is the classic renin-angiotensin-aldosterone system (RAAS) that regulates blood pressure and volume.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-045_ph023_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-046",
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "stem": "Comparing the left and right glomeruli in this figure, the right one shows a dilated efferent arteriole after RAAS blockade. What is the direct consequence of losing angiotensin II-mediated efferent arteriolar tone shown here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased glomerular hydrostatic pressure"
+        },
+        {
+          "label": "B",
+          "text": "Constriction of the afferent arteriole"
+        },
+        {
+          "label": "C",
+          "text": "Increased sodium reabsorption in Bowman capsule"
+        },
+        {
+          "label": "D",
+          "text": "Rupture of the glomerular capillary tuft"
+        },
+        {
+          "label": "E",
+          "text": "Decreased glomerular filtration rate"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Angiotensin II normally constricts the efferent arteriole to maintain glomerular pressure and filtration. When RAAS inhibitors dilate the efferent arteriole, glomerular hydrostatic pressure and GFR fall, which can precipitate prerenal acute kidney injury in low-flow states.",
+        "whyCorrect": "Angiotensin II normally constricts the efferent arteriole to maintain glomerular pressure and filtration. When RAAS inhibitors dilate the efferent arteriole, glomerular hydrostatic pressure and GFR fall, which can precipitate prerenal acute kidney injury in low-flow states.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-046_ph023_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-047",
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "stem": "This diagram of a glomerulus shows a second drug class acting on the afferent arteriole by reducing vasodilator prostaglandins, compounding the efferent effect of RAAS inhibitors. Which drug class produces the afferent effect shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Angiotensin receptor blockers"
+        },
+        {
+          "label": "B",
+          "text": "Potassium-sparing diuretics"
+        },
+        {
+          "label": "C",
+          "text": "Direct renin inhibitors"
+        },
+        {
+          "label": "D",
+          "text": "Mineralocorticoid receptor antagonists"
+        },
+        {
+          "label": "E",
+          "text": "NSAIDs"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "NSAIDs inhibit prostaglandin synthesis, constricting the afferent arteriole and reducing renal blood flow. Combined with RAAS inhibitors that dilate the efferent arteriole, this greatly increases the risk of acute kidney injury.",
+        "whyCorrect": "NSAIDs inhibit prostaglandin synthesis, constricting the afferent arteriole and reducing renal blood flow. Combined with RAAS inhibitors that dilate the efferent arteriole, this greatly increases the risk of acute kidney injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-047_ph023_f05.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

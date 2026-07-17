@@ -1,0 +1,84 @@
+{
+  "categoryId": "opioid-agonists",
+  "categoryName": "Opioid Agonists",
+  "questions": [
+    {
+      "id": "phpic-023",
+      "topicId": "opioid-agonists",
+      "topicName": "Opioid Agonists",
+      "stem": "This figure maps the distribution of the three primary opioid receptor subtypes across CNS regions such as the thalamus, caudate, putamen, hippocampus, amygdala, and nucleus accumbens. Which receptor subtype is primarily responsible for the analgesic and euphoric effects of most clinically used opioid agonists?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nociceptin (NOP) receptor"
+        },
+        {
+          "label": "B",
+          "text": "Kappa (κ) receptor"
+        },
+        {
+          "label": "C",
+          "text": "Sigma (σ) receptor"
+        },
+        {
+          "label": "D",
+          "text": "Mu (μ) receptor"
+        },
+        {
+          "label": "E",
+          "text": "Delta (δ) receptor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Most clinically used opioid agonists act primarily at mu (μ) receptors, which mediate analgesia, euphoria, respiratory depression, and dependence. Kappa and delta receptors modulate these effects and contribute to other actions but are not the main analgesic target.",
+        "whyCorrect": "Most clinically used opioid agonists act primarily at mu (μ) receptors, which mediate analgesia, euphoria, respiratory depression, and dependence. Kappa and delta receptors modulate these effects and contribute to other actions but are not the main analgesic target.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-023_ph022_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-024",
+      "topicId": "opioid-agonists",
+      "topicName": "Opioid Agonists",
+      "stem": "This schematic shows sites of opioid receptor action along the neuraxis, including the dorsal horn of the spinal cord. What is the primary mechanism by which opioid receptor activation at the dorsal horn produces analgesia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of voltage-gated sodium channels on motor neurons"
+        },
+        {
+          "label": "B",
+          "text": "Increased substance P release from primary afferents"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of nociceptive neurotransmitter release from primary afferent terminals"
+        },
+        {
+          "label": "D",
+          "text": "Enhancement of glutamate release onto second-order neurons"
+        },
+        {
+          "label": "E",
+          "text": "Activation of descending serotonergic excitation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In the dorsal horn, presynaptic opioid receptors reduce calcium influx and inhibit release of excitatory neurotransmitters (e.g., substance P, glutamate) from primary afferents, while postsynaptic hyperpolarization decreases transmission of nociceptive signals, producing analgesia.",
+        "whyCorrect": "In the dorsal horn, presynaptic opioid receptors reduce calcium influx and inhibit release of excitatory neurotransmitters (e.g., substance P, glutamate) from primary afferents, while postsynaptic hyperpolarization decreases transmission of nociceptive signals, producing analgesia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-024_ph022_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

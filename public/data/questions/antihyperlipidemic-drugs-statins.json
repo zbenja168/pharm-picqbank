@@ -1,0 +1,45 @@
+{
+  "categoryId": "antihyperlipidemic-drugs-statins",
+  "categoryName": "Antihyperlipidemic Drugs: Statins",
+  "questions": [
+    {
+      "id": "phpic-038",
+      "topicId": "antihyperlipidemic-drugs-statins",
+      "topicName": "Antihyperlipidemic Drugs: Statins",
+      "stem": "This integrated schematic is used to review the pathway that statins ultimately modulate, spanning the liver, blood, enterocyte, and intestinal lumen. Which overall physiological process does it depict?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilirubin conjugation and excretion"
+        },
+        {
+          "label": "B",
+          "text": "Lipoprotein synthesis, transport, and clearance"
+        },
+        {
+          "label": "C",
+          "text": "Renal handling of sodium and water"
+        },
+        {
+          "label": "D",
+          "text": "The coagulation cascade"
+        },
+        {
+          "label": "E",
+          "text": "The urea cycle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The diagram traces cholesterol and triglyceride handling across hepatic synthesis, VLDL/LDL/HDL trafficking in blood, and intestinal absorption/reabsorption of cholesterol and bile acids, i.e., integrated lipoprotein metabolism, the pathway statins act on.",
+        "whyCorrect": "The diagram traces cholesterol and triglyceride handling across hepatic synthesis, VLDL/LDL/HDL trafficking in blood, and intestinal absorption/reabsorption of cholesterol and bile acids, i.e., integrated lipoprotein metabolism, the pathway statins act on.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-038_ph005_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

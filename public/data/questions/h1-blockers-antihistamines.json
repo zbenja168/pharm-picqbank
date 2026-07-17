@@ -1,0 +1,45 @@
+{
+  "categoryId": "h1-blockers-antihistamines",
+  "categoryName": "H1 Blockers: Antihistamines",
+  "questions": [
+    {
+      "id": "phpic-044",
+      "topicId": "h1-blockers-antihistamines",
+      "topicName": "H1 Blockers: Antihistamines",
+      "stem": "The schematic contrasts the normal action of the labeled mediator on its receptor (left) with drug therapy that occupies the same receptor (right). To which receptor superfamily does the receptor depicted in this diagram belong?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "G protein-coupled receptor"
+        },
+        {
+          "label": "B",
+          "text": "Receptor tyrosine kinase"
+        },
+        {
+          "label": "C",
+          "text": "Ligand-gated ion channel"
+        },
+        {
+          "label": "D",
+          "text": "Intracellular nuclear hormone receptor"
+        },
+        {
+          "label": "E",
+          "text": "Guanylyl cyclase-linked receptor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The diagram depicts the H1 histamine receptor, a seven-transmembrane G protein-coupled receptor. Histamine released from the activated mast cell binds this GPCR to trigger downstream effects (itching, swelling, inflammation); an H1 antagonist occupies the receptor and leaves it inactive, preventing signaling. H1 receptors are not ion channels, kinase receptors, or nuclear receptors.",
+        "whyCorrect": "The diagram depicts the H1 histamine receptor, a seven-transmembrane G protein-coupled receptor. Histamine released from the activated mast cell binds this GPCR to trigger downstream effects (itching, swelling, inflammation); an H1 antagonist occupies the receptor and leaves it inactive, preventing signaling. H1 receptors are not ion channels, kinase receptors, or nuclear receptors.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-044_ph018_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

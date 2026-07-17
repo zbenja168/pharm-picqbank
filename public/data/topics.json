@@ -1,62 +1,266 @@
 {
   "categories": [
     {
-      "id": "gross-anatomy",
-      "name": "Gross Anatomy",
+      "id": "acid-suppression-drugs-ppis-and-h2-blockers",
+      "name": "Acid Suppression Drugs: PPIs and H2 Blockers",
       "topics": [
         {
-          "id": "gross-anatomy",
-          "name": "Gross Anatomy",
-          "sourceFile": "pharm bricks",
+          "id": "acid-suppression-drugs-ppis-and-h2-blockers",
+          "name": "Acid Suppression Drugs: PPIs and H2 Blockers",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "alpha-1-adrenergic-blockers",
+      "name": "Alpha-1 Adrenergic Blockers",
+      "topics": [
+        {
+          "id": "alpha-1-adrenergic-blockers",
+          "name": "Alpha-1 Adrenergic Blockers",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "antihyperlipidemic-drugs-statins",
+      "name": "Antihyperlipidemic Drugs: Statins",
+      "topics": [
+        {
+          "id": "antihyperlipidemic-drugs-statins",
+          "name": "Antihyperlipidemic Drugs: Statins",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "beta-agonists",
+      "name": "Beta-Agonists",
+      "topics": [
+        {
+          "id": "beta-agonists",
+          "name": "Beta-Agonists",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "calcium-channel-blockers",
+      "name": "Calcium Channel Blockers",
+      "topics": [
+        {
+          "id": "calcium-channel-blockers",
+          "name": "Calcium Channel Blockers",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "cholinergics-and-anticholinergics",
+      "name": "Cholinergics and Anticholinergics",
+      "topics": [
+        {
+          "id": "cholinergics-and-anticholinergics",
+          "name": "Cholinergics and Anticholinergics",
+          "sourceFile": "brick",
           "questionCount": 2
         }
       ]
     },
     {
-      "id": "lab-diagnostics",
-      "name": "Lab & Diagnostics",
+      "id": "cholinesterase-inhibitors-and-reactivators",
+      "name": "Cholinesterase Inhibitors and Reactivators",
       "topics": [
         {
-          "id": "lab-diagnostics",
-          "name": "Lab & Diagnostics",
-          "sourceFile": "pharm bricks",
+          "id": "cholinesterase-inhibitors-and-reactivators",
+          "name": "Cholinesterase Inhibitors and Reactivators",
+          "sourceFile": "brick",
           "questionCount": 1
         }
       ]
     },
     {
-      "id": "pathology",
-      "name": "Pathology",
+      "id": "h1-blockers-antihistamines",
+      "name": "H1 Blockers: Antihistamines",
       "topics": [
         {
-          "id": "pathology",
-          "name": "Pathology",
-          "sourceFile": "pharm bricks",
+          "id": "h1-blockers-antihistamines",
+          "name": "H1 Blockers: Antihistamines",
+          "sourceFile": "brick",
           "questionCount": 1
         }
       ]
     },
     {
-      "id": "pharmacology",
-      "name": "Pharmacology",
+      "id": "metformin-glp-1-ra-and-sglt2-inhibitors",
+      "name": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
       "topics": [
         {
-          "id": "pharmacology",
-          "name": "Pharmacology",
-          "sourceFile": "pharm bricks",
-          "questionCount": 31
+          "id": "metformin-glp-1-ra-and-sglt2-inhibitors",
+          "name": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+          "sourceFile": "brick",
+          "questionCount": 1
         }
       ]
     },
     {
-      "id": "physiology-mechanisms",
-      "name": "Physiology & Mechanisms",
+      "id": "nonopioid-analgesics-acetaminophen",
+      "name": "Nonopioid Analgesics: Acetaminophen",
       "topics": [
         {
-          "id": "physiology-mechanisms",
-          "name": "Physiology & Mechanisms",
-          "sourceFile": "pharm bricks",
-          "questionCount": 17
+          "id": "nonopioid-analgesics-acetaminophen",
+          "name": "Nonopioid Analgesics: Acetaminophen",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "nonopioid-analgesics-aspirin",
+      "name": "Nonopioid Analgesics: Aspirin",
+      "topics": [
+        {
+          "id": "nonopioid-analgesics-aspirin",
+          "name": "Nonopioid Analgesics: Aspirin",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "nonopioid-analgesics-nsaids",
+      "name": "Nonopioid Analgesics: NSAIDs",
+      "topics": [
+        {
+          "id": "nonopioid-analgesics-nsaids",
+          "name": "Nonopioid Analgesics: NSAIDs",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "opioid-agonists",
+      "name": "Opioid Agonists",
+      "topics": [
+        {
+          "id": "opioid-agonists",
+          "name": "Opioid Agonists",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "pde-5-inhibitors",
+      "name": "PDE-5 Inhibitors",
+      "topics": [
+        {
+          "id": "pde-5-inhibitors",
+          "name": "PDE-5 Inhibitors",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "pharmacodynamics-quantal-dose-response-and-therapeutic-index",
+      "name": "Pharmacodynamics: Quantal Dose Response and Therapeutic Index",
+      "topics": [
+        {
+          "id": "pharmacodynamics-quantal-dose-response-and-therapeutic-index",
+          "name": "Pharmacodynamics: Quantal Dose Response and Therapeutic Index",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "pharmacodynamics-receptor-agonists-and-antagonists",
+      "name": "Pharmacodynamics: Receptor Agonists and Antagonists",
+      "topics": [
+        {
+          "id": "pharmacodynamics-receptor-agonists-and-antagonists",
+          "name": "Pharmacodynamics: Receptor Agonists and Antagonists",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "pharmacokinetics-drug-absorption-and-distribution",
+      "name": "Pharmacokinetics: Drug Absorption and Distribution",
+      "topics": [
+        {
+          "id": "pharmacokinetics-drug-absorption-and-distribution",
+          "name": "Pharmacokinetics: Drug Absorption and Distribution",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "pharmacokinetics-ph-and-pka",
+      "name": "Pharmacokinetics: pH and pKa",
+      "topics": [
+        {
+          "id": "pharmacokinetics-ph-and-pka",
+          "name": "Pharmacokinetics: pH and pKa",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "pharmacokinetics-volume-of-distribution-and-elimination-kinetics",
+      "name": "Pharmacokinetics: Volume of Distribution and Elimination Kinetics",
+      "topics": [
+        {
+          "id": "pharmacokinetics-volume-of-distribution-and-elimination-kinetics",
+          "name": "Pharmacokinetics: Volume of Distribution and Elimination Kinetics",
+          "sourceFile": "brick",
+          "questionCount": 5
+        }
+      ]
+    },
+    {
+      "id": "renin-angiotensin-aldosterone-system-inhibitors",
+      "name": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "topics": [
+        {
+          "id": "renin-angiotensin-aldosterone-system-inhibitors",
+          "name": "Renin-Angiotensin-Aldosterone System Inhibitors",
+          "sourceFile": "brick",
+          "questionCount": 3
+        }
+      ]
+    },
+    {
+      "id": "steroids",
+      "name": "Steroids",
+      "topics": [
+        {
+          "id": "steroids",
+          "name": "Steroids",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "vasopressors-and-inotropes",
+      "name": "Vasopressors and Inotropes",
+      "topics": [
+        {
+          "id": "vasopressors-and-inotropes",
+          "name": "Vasopressors and Inotropes",
+          "sourceFile": "brick",
+          "questionCount": 11
         }
       ]
     }

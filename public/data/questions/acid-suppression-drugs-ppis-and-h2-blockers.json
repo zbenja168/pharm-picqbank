@@ -1,0 +1,123 @@
+{
+  "categoryId": "acid-suppression-drugs-ppis-and-h2-blockers",
+  "categoryName": "Acid Suppression Drugs: PPIs and H2 Blockers",
+  "questions": [
+    {
+      "id": "phpic-015",
+      "topicId": "acid-suppression-drugs-ppis-and-h2-blockers",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Blockers",
+      "stem": "In this schematic of a parietal cell, one drug class is shown binding the histamine H2 receptor while another is shown acting directly at the pump. What is the mechanism by which the H2 receptor antagonist reduces acid output?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antagonism of the gastrin/CCK-B receptor"
+        },
+        {
+          "label": "B",
+          "text": "Neutralization of luminal gastric acid"
+        },
+        {
+          "label": "C",
+          "text": "Reversible blockade of the H2 receptor, lowering cAMP-dependent pump activation"
+        },
+        {
+          "label": "D",
+          "text": "Irreversible covalent inhibition of the H+/K+-ATPase"
+        },
+        {
+          "label": "E",
+          "text": "Blockade of the muscarinic M3 receptor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "H2 receptor antagonists reversibly block histamine at the H2 receptor, reducing the cAMP-dependent pathway that activates the proton pump. This is less complete than PPIs, which irreversibly inhibit the H+/K+-ATPase itself, the final common pathway.",
+        "whyCorrect": "H2 receptor antagonists reversibly block histamine at the H2 receptor, reducing the cAMP-dependent pathway that activates the proton pump. This is less complete than PPIs, which irreversibly inhibit the H+/K+-ATPase itself, the final common pathway.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-015_ph009_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-016",
+      "topicId": "acid-suppression-drugs-ppis-and-h2-blockers",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Blockers",
+      "stem": "This figure summarizes categories of harm linked to chronic use of the drug class named at top left. Grouping the listed effects (low Ca2+/Mg2+/Fe2+, osteoporosis, B12 deficiency; C. difficile colitis and pneumonia), what underlying pharmacologic change best explains most of these long-term risks?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stimulation of parietal cell apoptosis"
+        },
+        {
+          "label": "B",
+          "text": "Inhibition of hepatic CYP3A4 metabolism"
+        },
+        {
+          "label": "C",
+          "text": "Sustained elevation of gastric pH from proton pump inhibition"
+        },
+        {
+          "label": "D",
+          "text": "Direct chelation of dietary cations"
+        },
+        {
+          "label": "E",
+          "text": "Reversible H2 receptor blockade"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "PPIs irreversibly inhibit the H+/K+-ATPase, raising gastric pH. The persistently low acidity impairs absorption of Ca2+, Mg2+, Fe2+ and vitamin B12 and removes the acid barrier to enteric pathogens, driving increased risk of malabsorption, osteoporosis, C. difficile infection, and pneumonia.",
+        "whyCorrect": "PPIs irreversibly inhibit the H+/K+-ATPase, raising gastric pH. The persistently low acidity impairs absorption of Ca2+, Mg2+, Fe2+ and vitamin B12 and removes the acid barrier to enteric pathogens, driving increased risk of malabsorption, osteoporosis, C. difficile infection, and pneumonia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-016_ph009_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-040",
+      "topicId": "acid-suppression-drugs-ppis-and-h2-blockers",
+      "topicName": "Acid Suppression Drugs: PPIs and H2 Blockers",
+      "stem": "This diagram maps the regulation of gastric acid secretion across the cells of the stomach wall. Which cell type is the direct target of the secreted acid-producing signals and physically expresses the H+/K+-ATPase proton pump?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Parietal cell"
+        },
+        {
+          "label": "B",
+          "text": "ECL cell"
+        },
+        {
+          "label": "C",
+          "text": "D cell"
+        },
+        {
+          "label": "D",
+          "text": "G cell"
+        },
+        {
+          "label": "E",
+          "text": "Chief cell"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The parietal cell is the effector cell of gastric acid secretion; it houses the H+/K+-ATPase and responds to acetylcholine (M3), gastrin, and histamine (H2). G cells secrete gastrin, ECL cells release histamine, chief cells secrete pepsinogen, and D cells release somatostatin.",
+        "whyCorrect": "The parietal cell is the effector cell of gastric acid secretion; it houses the H+/K+-ATPase and responds to acetylcholine (M3), gastrin, and histamine (H2). G cells secrete gastrin, ECL cells release histamine, chief cells secrete pepsinogen, and D cells release somatostatin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-040_ph009_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

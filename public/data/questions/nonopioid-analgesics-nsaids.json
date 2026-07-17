@@ -1,0 +1,45 @@
+{
+  "categoryId": "nonopioid-analgesics-nsaids",
+  "categoryName": "Nonopioid Analgesics: NSAIDs",
+  "questions": [
+    {
+      "id": "phpic-028",
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics: NSAIDs",
+      "stem": "This figure classifies common NSAIDs by their COX selectivity (panel A) and plasma half-life (panel B), with the most COX-2 selective agents grouped at the bottom of panel A. A drug from that highly COX-2 selective group would be expected to carry the greatest risk of which adverse outcome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aplastic anemia"
+        },
+        {
+          "label": "B",
+          "text": "Gastric ulceration and GI bleeding"
+        },
+        {
+          "label": "C",
+          "text": "Cardiovascular thrombotic events"
+        },
+        {
+          "label": "D",
+          "text": "Bronchospasm"
+        },
+        {
+          "label": "E",
+          "text": "Hepatic failure"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Highly COX-2 selective agents reduce endothelial prostacyclin (PGI2) while leaving platelet-derived thromboxane A2 relatively intact, shifting the balance toward platelet aggregation and vasoconstriction. This underlies the increased risk of myocardial infarction and stroke that led to withdrawal of several coxibs.",
+        "whyCorrect": "Highly COX-2 selective agents reduce endothelial prostacyclin (PGI2) while leaving platelet-derived thromboxane A2 relatively intact, shifting the balance toward platelet aggregation and vasoconstriction. This underlies the increased risk of myocardial infarction and stroke that led to withdrawal of several coxibs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-028_ph026_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

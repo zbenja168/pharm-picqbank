@@ -1,0 +1,84 @@
+{
+  "categoryId": "cholinergics-and-anticholinergics",
+  "categoryName": "Cholinergics and Anticholinergics",
+  "questions": [
+    {
+      "id": "phpic-021",
+      "topicId": "cholinergics-and-anticholinergics",
+      "topicName": "Cholinergics and Anticholinergics",
+      "stem": "A patient presents with the constellation of findings depicted here (blind as a bat, dry as a bone, red as a beet, hot as a hare, mad as a hatter). Which agent is used to reverse this toxidrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atropine"
+        },
+        {
+          "label": "B",
+          "text": "Physostigmine"
+        },
+        {
+          "label": "C",
+          "text": "Flumazenil"
+        },
+        {
+          "label": "D",
+          "text": "Naloxone"
+        },
+        {
+          "label": "E",
+          "text": "Pralidoxime"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The illustration depicts the anticholinergic (antimuscarinic) toxidrome. Physostigmine, a centrally acting acetylcholinesterase inhibitor, raises synaptic acetylcholine to overcome muscarinic blockade and is the antidote. Atropine would worsen it, pralidoxime treats organophosphate poisoning, naloxone reverses opioids, and flumazenil reverses benzodiazepines.",
+        "whyCorrect": "The illustration depicts the anticholinergic (antimuscarinic) toxidrome. Physostigmine, a centrally acting acetylcholinesterase inhibitor, raises synaptic acetylcholine to overcome muscarinic blockade and is the antidote. Atropine would worsen it, pralidoxime treats organophosphate poisoning, naloxone reverses opioids, and flumazenil reverses benzodiazepines.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-021_ph017_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-043",
+      "topicId": "cholinergics-and-anticholinergics",
+      "topicName": "Cholinergics and Anticholinergics",
+      "stem": "Based on this illustration of a cholinergic synapse, how do the antagonist molecules shown at the target cell membrane produce their pharmacologic effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They block the release of acetylcholine from the synaptic vesicles"
+        },
+        {
+          "label": "B",
+          "text": "They competitively occupy the muscarinic receptors, preventing acetylcholine from binding"
+        },
+        {
+          "label": "C",
+          "text": "They directly activate the receptors to mimic acetylcholine"
+        },
+        {
+          "label": "D",
+          "text": "They enzymatically degrade acetylcholine within the synaptic cleft"
+        },
+        {
+          "label": "E",
+          "text": "They prevent the nerve impulse from reaching the presynaptic terminal"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Anticholinergics are muscarinic antagonists that act by competitive inhibition, binding the receptor without activating it so that endogenous acetylcholine cannot exert its effect on the target cell.",
+        "whyCorrect": "Anticholinergics are muscarinic antagonists that act by competitive inhibition, binding the receptor without activating it so that endogenous acetylcholine cannot exert its effect on the target cell.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-043_ph017_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

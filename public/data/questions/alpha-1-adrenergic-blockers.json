@@ -1,0 +1,45 @@
+{
+  "categoryId": "alpha-1-adrenergic-blockers",
+  "categoryName": "Alpha-1 Adrenergic Blockers",
+  "questions": [
+    {
+      "id": "phpic-011",
+      "topicId": "alpha-1-adrenergic-blockers",
+      "topicName": "Alpha-1 Adrenergic Blockers",
+      "stem": "This paired diagram contrasts the prostatic urethra in the left panel with the right panel, where smooth muscle has relaxed to widen the urethral lumen and improve urine flow. Which drug produces the change shown in the right panel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tamsulosin"
+        },
+        {
+          "label": "B",
+          "text": "Finasteride"
+        },
+        {
+          "label": "C",
+          "text": "Phenylephrine"
+        },
+        {
+          "label": "D",
+          "text": "Propranolol"
+        },
+        {
+          "label": "E",
+          "text": "Sildenafil"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The right panel shows relaxation of prostatic and bladder-neck smooth muscle with a dilated urethra, the effect of a selective alpha-1 (alpha-1A) receptor antagonist. Tamsulosin is the uroselective alpha-1A blocker used to relieve the obstructive urinary symptoms of benign prostatic hyperplasia. Finasteride shrinks the gland by a different (5-alpha-reductase) mechanism, sildenafil is a PDE-5 inhibitor, phenylephrine is an alpha-1 agonist that would worsen obstruction, and propranolol is a beta-blocker.",
+        "whyCorrect": "The right panel shows relaxation of prostatic and bladder-neck smooth muscle with a dilated urethra, the effect of a selective alpha-1 (alpha-1A) receptor antagonist. Tamsulosin is the uroselective alpha-1A blocker used to relieve the obstructive urinary symptoms of benign prostatic hyperplasia. Finasteride shrinks the gland by a different (5-alpha-reductase) mechanism, sildenafil is a PDE-5 inhibitor, phenylephrine is an alpha-1 agonist that would worsen obstruction, and propranolol is a beta-blocker.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-011_ph007_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

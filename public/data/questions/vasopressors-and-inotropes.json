@@ -1,0 +1,435 @@
+{
+  "categoryId": "vasopressors-and-inotropes",
+  "categoryName": "Vasopressors and Inotropes",
+  "questions": [
+    {
+      "id": "phpic-001",
+      "topicId": "vasopressors-and-inotropes",
+      "topicName": "Vasopressors and Inotropes",
+      "stem": "This diagram maps autonomic innervation onto the visceral organs lying below the diaphragm. The parasympathetic input to these organs generally promotes which overall functional state?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Digestion and elimination (rest-and-digest activity)"
+        },
+        {
+          "label": "B",
+          "text": "Increased heart rate and contractility"
+        },
+        {
+          "label": "C",
+          "text": "Vasoconstriction and raised blood pressure"
+        },
+        {
+          "label": "D",
+          "text": "Glycogenolysis and mobilization of glucose"
+        },
+        {
+          "label": "E",
+          "text": "Bronchodilation and pupil dilation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The organs illustrated (stomach, intestines, bladder, reproductive structures) receive parasympathetic innervation that promotes rest-and-digest functions: increased GI motility and secretion, and elimination of waste. The listed distractors are sympathetic (fight-or-flight) responses.",
+        "whyCorrect": "The organs illustrated (stomach, intestines, bladder, reproductive structures) receive parasympathetic innervation that promotes rest-and-digest functions: increased GI motility and secretion, and elimination of waste. The listed distractors are sympathetic (fight-or-flight) responses.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-001_ph008_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-006",
+      "topicId": "vasopressors-and-inotropes",
+      "topicName": "Vasopressors and Inotropes",
+      "stem": "This schematic classifies the adrenergic receptor family into its major branches and subtypes. Which intracellular signaling change results from activation of the beta-receptor branch shown here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased cGMP via guanylyl cyclase"
+        },
+        {
+          "label": "B",
+          "text": "Increased cAMP via Gs coupling"
+        },
+        {
+          "label": "C",
+          "text": "Direct opening of a ligand-gated ion channel"
+        },
+        {
+          "label": "D",
+          "text": "Decreased cAMP via Gi coupling"
+        },
+        {
+          "label": "E",
+          "text": "Increased IP3 and DAG via Gq coupling"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The beta-adrenergic receptors (beta1, beta2, beta3) are Gs-coupled GPCRs; activation stimulates adenylyl cyclase and raises intracellular cAMP, whereas alpha1 uses Gq (IP3/DAG) and alpha2 uses Gi (lowers cAMP).",
+        "whyCorrect": "The beta-adrenergic receptors (beta1, beta2, beta3) are Gs-coupled GPCRs; activation stimulates adenylyl cyclase and raises intracellular cAMP, whereas alpha1 uses Gq (IP3/DAG) and alpha2 uses Gi (lowers cAMP).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-006_ph002_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-007",
+      "topicId": "vasopressors-and-inotropes",
+      "topicName": "Vasopressors and Inotropes",
+      "stem": "This figure organizes the cholinergic receptors and their associated G proteins. Which class of receptor shown functions as a ligand-gated ion channel rather than a G-protein-coupled receptor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "M2 muscarinic receptors"
+        },
+        {
+          "label": "B",
+          "text": "M1 muscarinic receptors"
+        },
+        {
+          "label": "C",
+          "text": "M3 muscarinic receptors"
+        },
+        {
+          "label": "D",
+          "text": "M4 muscarinic receptors"
+        },
+        {
+          "label": "E",
+          "text": "Nicotinic receptors"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Nicotinic receptors (nM in muscle, nN in neurons) are ionotropic ligand-gated cation channels activated by ACh, while all muscarinic subtypes (M1-M5) are metabotropic GPCRs coupling to Gq or Gi.",
+        "whyCorrect": "Nicotinic receptors (nM in muscle, nN in neurons) are ionotropic ligand-gated cation channels activated by ACh, while all muscarinic subtypes (M1-M5) are metabotropic GPCRs coupling to Gq or Gi.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-007_ph002_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-008",
+      "topicId": "vasopressors-and-inotropes",
+      "topicName": "Vasopressors and Inotropes",
+      "stem": "This diagram links adrenergic receptor subtypes to their coupled G proteins. Activation of the beta1 receptors in the heart, indicated in this figure, produces which physiological effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vasoconstriction of cutaneous vessels"
+        },
+        {
+          "label": "B",
+          "text": "Bronchoconstriction of airway smooth muscle"
+        },
+        {
+          "label": "C",
+          "text": "Increased heart rate and contractility"
+        },
+        {
+          "label": "D",
+          "text": "Decreased heart rate and contractility"
+        },
+        {
+          "label": "E",
+          "text": "Increased gastrointestinal motility"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Beta1 receptors are Gs-coupled; cardiac beta1 activation raises cAMP, increasing sinoatrial rate (positive chronotropy) and myocardial contractility (positive inotropy).",
+        "whyCorrect": "Beta1 receptors are Gs-coupled; cardiac beta1 activation raises cAMP, increasing sinoatrial rate (positive chronotropy) and myocardial contractility (positive inotropy).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-008_ph002_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-009",
+      "topicId": "vasopressors-and-inotropes",
+      "topicName": "Vasopressors and Inotropes",
+      "stem": "This classification tree organizes one autonomic receptor family into alpha and beta branches with numbered subtypes. Which endogenous ligands primarily activate these receptors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetylcholine"
+        },
+        {
+          "label": "B",
+          "text": "Norepinephrine and epinephrine (catecholamines)"
+        },
+        {
+          "label": "C",
+          "text": "Histamine"
+        },
+        {
+          "label": "D",
+          "text": "Serotonin"
+        },
+        {
+          "label": "E",
+          "text": "Glutamate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The tree depicts adrenergic receptors (alpha1, alpha2, beta1-3), which are the receptors for the catecholamines norepinephrine and epinephrine.",
+        "whyCorrect": "The tree depicts adrenergic receptors (alpha1, alpha2, beta1-3), which are the receptors for the catecholamines norepinephrine and epinephrine.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-009_ph004_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-010",
+      "topicId": "vasopressors-and-inotropes",
+      "topicName": "Vasopressors and Inotropes",
+      "stem": "This schematic assigns a G-protein class to each adrenergic subtype. What second-messenger change results from activation of the Gs-coupled beta receptors shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased cAMP through stimulation of adenylyl cyclase"
+        },
+        {
+          "label": "B",
+          "text": "Decreased cAMP through inhibition of adenylyl cyclase"
+        },
+        {
+          "label": "C",
+          "text": "Increased IP3 and intracellular calcium via phospholipase C"
+        },
+        {
+          "label": "D",
+          "text": "Direct opening of a ligand-gated sodium channel"
+        },
+        {
+          "label": "E",
+          "text": "Increased cGMP via guanylyl cyclase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Beta-adrenergic receptors are Gs-coupled; their activation stimulates adenylyl cyclase, raising cAMP to produce effects such as increased cardiac contractility and rate.",
+        "whyCorrect": "Beta-adrenergic receptors are Gs-coupled; their activation stimulates adenylyl cyclase, raising cAMP to produce effects such as increased cardiac contractility and rate.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-010_ph004_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-012",
+      "topicId": "vasopressors-and-inotropes",
+      "topicName": "Vasopressors and Inotropes",
+      "stem": "This classification tree branches a single receptor family into an alpha limb and a beta limb, each with numbered subtypes. Which pair of endogenous ligands physiologically activates the entire receptor family shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dopamine and GABA"
+        },
+        {
+          "label": "B",
+          "text": "Acetylcholine and choline"
+        },
+        {
+          "label": "C",
+          "text": "Glutamate and glycine"
+        },
+        {
+          "label": "D",
+          "text": "Norepinephrine and epinephrine"
+        },
+        {
+          "label": "E",
+          "text": "Histamine and serotonin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The tree depicts the adrenergic (catecholaminergic) receptor family, split into alpha (alpha1, alpha2) and beta (beta1, beta2, beta3) subtypes. All of these receptors are activated by the endogenous catecholamines norepinephrine and epinephrine, which is why they are the targets of adrenergic agonists (sympathomimetics).",
+        "whyCorrect": "The tree depicts the adrenergic (catecholaminergic) receptor family, split into alpha (alpha1, alpha2) and beta (beta1, beta2, beta3) subtypes. All of these receptors are activated by the endogenous catecholamines norepinephrine and epinephrine, which is why they are the targets of adrenergic agonists (sympathomimetics).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-012_ph008_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-013",
+      "topicId": "vasopressors-and-inotropes",
+      "topicName": "Vasopressors and Inotropes",
+      "stem": "This schematic divides cholinergic receptors into a muscarinic branch (each subtype tagged with a G-protein) and a nicotinic branch (muscle and neuronal types shown without any G-protein tag). By what signaling mechanism do the nicotinic receptors in this branch transmit their signal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Through Gq-coupled activation of phospholipase C"
+        },
+        {
+          "label": "B",
+          "text": "Through Gs-coupled stimulation of adenylyl cyclase"
+        },
+        {
+          "label": "C",
+          "text": "Through Gi-coupled inhibition of adenylyl cyclase"
+        },
+        {
+          "label": "D",
+          "text": "Through intracellular steroid-hormone receptors"
+        },
+        {
+          "label": "E",
+          "text": "Directly as ligand-gated ion channels"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Unlike the muscarinic subtypes, which are G-protein-coupled receptors (hence the Gq/Gi tags in the figure), nicotinic receptors are ligand-gated ion channels that open directly on acetylcholine binding, allowing rapid cation influx and depolarization. The absence of a G-protein label on the nicotinic branch reflects this ionotropic mechanism.",
+        "whyCorrect": "Unlike the muscarinic subtypes, which are G-protein-coupled receptors (hence the Gq/Gi tags in the figure), nicotinic receptors are ligand-gated ion channels that open directly on acetylcholine binding, allowing rapid cation influx and depolarization. The absence of a G-protein label on the nicotinic branch reflects this ionotropic mechanism.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-013_ph008_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-014",
+      "topicId": "vasopressors-and-inotropes",
+      "topicName": "Vasopressors and Inotropes",
+      "stem": "In this adrenergic receptor tree, each subtype is paired with its coupled G protein. Activation of the alpha1 branch shown here produces which principal physiological effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased renal blood flow via vasodilation"
+        },
+        {
+          "label": "B",
+          "text": "Relaxation of bronchial smooth muscle (bronchodilation)"
+        },
+        {
+          "label": "C",
+          "text": "Contraction of vascular smooth muscle (vasoconstriction)"
+        },
+        {
+          "label": "D",
+          "text": "Reduced norepinephrine release from nerve terminals"
+        },
+        {
+          "label": "E",
+          "text": "Increased cardiac contractility and heart rate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The alpha1 subtype couples to Gq, activating phospholipase C, generating IP3/DAG and raising intracellular calcium, which drives vascular smooth-muscle contraction and vasoconstriction. Bronchodilation and increased contractility are beta effects, and presynaptic inhibition of norepinephrine release is an alpha2 effect.",
+        "whyCorrect": "The alpha1 subtype couples to Gq, activating phospholipase C, generating IP3/DAG and raising intracellular calcium, which drives vascular smooth-muscle contraction and vasoconstriction. Bronchodilation and increased contractility are beta effects, and presynaptic inhibition of norepinephrine release is an alpha2 effect.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-014_ph008_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-037",
+      "topicId": "vasopressors-and-inotropes",
+      "topicName": "Vasopressors and Inotropes",
+      "stem": "This figure shows cross-sections of a vessel in three states. The bottom vessel has a markedly reduced luminal diameter. Activation of which receptor on vascular smooth muscle produces this change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta1-adrenergic receptor"
+        },
+        {
+          "label": "B",
+          "text": "Alpha1-adrenergic receptor"
+        },
+        {
+          "label": "C",
+          "text": "M3 muscarinic receptor"
+        },
+        {
+          "label": "D",
+          "text": "Nicotinic receptor"
+        },
+        {
+          "label": "E",
+          "text": "Beta2-adrenergic receptor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Alpha1 receptors on vascular smooth muscle are Gq-coupled; activation raises intracellular Ca2+ and causes vasoconstriction (the narrowed lumen), whereas beta2 activation mediates vasodilation.",
+        "whyCorrect": "Alpha1 receptors on vascular smooth muscle are Gq-coupled; activation raises intracellular Ca2+ and causes vasoconstriction (the narrowed lumen), whereas beta2 activation mediates vasodilation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-037_ph002_f08.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-039",
+      "topicId": "vasopressors-and-inotropes",
+      "topicName": "Vasopressors and Inotropes",
+      "stem": "This illustration compares arterial cross-sections in three states of vessel diameter. Compared with the normal vessel, the state shown in the bottom row would have what effect on systemic vascular resistance and blood pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Has no effect on either resistance or blood pressure"
+        },
+        {
+          "label": "B",
+          "text": "Increases both systemic vascular resistance and blood pressure"
+        },
+        {
+          "label": "C",
+          "text": "Increases resistance but lowers blood pressure"
+        },
+        {
+          "label": "D",
+          "text": "Decreases resistance but raises blood pressure"
+        },
+        {
+          "label": "E",
+          "text": "Decreases both systemic vascular resistance and blood pressure"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The bottom vessel shows a narrowed lumen (vasoconstriction). Reducing vessel radius sharply raises resistance (resistance is inversely proportional to the fourth power of the radius), so systemic vascular resistance climbs and, with cardiac output held constant, mean arterial blood pressure rises. This is the basis of vasopressor action.",
+        "whyCorrect": "The bottom vessel shows a narrowed lumen (vasoconstriction). Reducing vessel radius sharply raises resistance (resistance is inversely proportional to the fourth power of the radius), so systemic vascular resistance climbs and, with cardiac output held constant, mean arterial blood pressure rises. This is the basis of vasopressor action.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-039_ph008_f05.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

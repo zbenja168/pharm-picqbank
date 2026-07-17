@@ -1,0 +1,45 @@
+{
+  "categoryId": "beta-agonists",
+  "categoryName": "Beta-Agonists",
+  "questions": [
+    {
+      "id": "phpic-041",
+      "topicId": "beta-agonists",
+      "topicName": "Beta-Agonists",
+      "stem": "This schematic organizes the adrenergic receptor family into its major branches and subtypes. To which single class of membrane receptors do ALL of the receptors depicted here belong?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "G-protein coupled receptors"
+        },
+        {
+          "label": "B",
+          "text": "Intracellular nuclear hormone receptors"
+        },
+        {
+          "label": "C",
+          "text": "Receptor tyrosine kinases"
+        },
+        {
+          "label": "D",
+          "text": "Ligand-gated ion channels"
+        },
+        {
+          "label": "E",
+          "text": "Voltage-gated ion channels"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Every adrenergic receptor shown in this classification tree (the alpha-1, alpha-2, and beta-1/2/3 subtypes) is a G-protein coupled receptor (GPCR). These seven-transmembrane receptors act through heterotrimeric G proteins to drive downstream second-messenger signaling rather than opening ion channels directly or possessing intrinsic kinase activity.",
+        "whyCorrect": "Every adrenergic receptor shown in this classification tree (the alpha-1, alpha-2, and beta-1/2/3 subtypes) is a G-protein coupled receptor (GPCR). These seven-transmembrane receptors act through heterotrimeric G proteins to drive downstream second-messenger signaling rather than opening ion channels directly or possessing intrinsic kinase activity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-041_ph011_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

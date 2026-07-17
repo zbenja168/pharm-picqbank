@@ -1,0 +1,201 @@
+{
+  "categoryId": "pharmacokinetics-volume-of-distribution-and-elimination-kinetics",
+  "categoryName": "Pharmacokinetics: Volume of Distribution and Elimination Kinetics",
+  "questions": [
+    {
+      "id": "phpic-031",
+      "topicId": "pharmacokinetics-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics: Volume of Distribution and Elimination Kinetics",
+      "stem": "This plasma drug concentration versus time plot is a straight, linearly declining line. What elimination kinetics does this pattern represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "First-order elimination"
+        },
+        {
+          "label": "B",
+          "text": "Zero-order elimination"
+        },
+        {
+          "label": "C",
+          "text": "Enterohepatic recirculation"
+        },
+        {
+          "label": "D",
+          "text": "Flow-limited elimination"
+        },
+        {
+          "label": "E",
+          "text": "Concentration-independent absorption"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A constant absolute amount of drug removed per unit time, independent of concentration, yields a straight line on a linear plot, characteristic of zero-order kinetics.",
+        "whyCorrect": "A constant absolute amount of drug removed per unit time, independent of concentration, yields a straight line on a linear plot, characteristic of zero-order kinetics.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-031_ph030_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-032",
+      "topicId": "pharmacokinetics-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics: Volume of Distribution and Elimination Kinetics",
+      "stem": "This schematic shows a constant 2.5 units/h of drug removed at every concentration step. Which drug is a classic clinical example of this saturable elimination pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Penicillin"
+        },
+        {
+          "label": "B",
+          "text": "Metoprolol"
+        },
+        {
+          "label": "C",
+          "text": "Ethanol"
+        },
+        {
+          "label": "D",
+          "text": "Gentamicin"
+        },
+        {
+          "label": "E",
+          "text": "Digoxin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ethanol (along with phenytoin and aspirin at high doses) is eliminated at a constant amount per unit time because its metabolic pathway is saturated, defining zero-order kinetics.",
+        "whyCorrect": "Ethanol (along with phenytoin and aspirin at high doses) is eliminated at a constant amount per unit time because its metabolic pathway is saturated, defining zero-order kinetics.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-032_ph030_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-033",
+      "topicId": "pharmacokinetics-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics: Volume of Distribution and Elimination Kinetics",
+      "stem": "On a linear y-axis, this plasma concentration versus time curve declines exponentially rather than as a straight line. What does the exponential shape indicate about elimination?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An increasing fraction is eliminated as concentration falls"
+        },
+        {
+          "label": "B",
+          "text": "Drug is eliminated only above a threshold concentration"
+        },
+        {
+          "label": "C",
+          "text": "Elimination stops once concentration reaches half the peak"
+        },
+        {
+          "label": "D",
+          "text": "A constant fraction of drug is eliminated per unit time"
+        },
+        {
+          "label": "E",
+          "text": "A constant absolute amount of drug is eliminated per unit time"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "First-order kinetics removes a constant proportion of drug per unit time, so the elimination rate is proportional to concentration and the curve decays exponentially on a linear scale.",
+        "whyCorrect": "First-order kinetics removes a constant proportion of drug per unit time, so the elimination rate is proportional to concentration and the curve decays exponentially on a linear scale.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-033_ph030_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-034",
+      "topicId": "pharmacokinetics-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics: Volume of Distribution and Elimination Kinetics",
+      "stem": "In this schematic the elimination rate halves as concentration halves (5 to 2.5 to 1.25 units/h). What quantity remains constant across all concentrations for such a drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The half-life"
+        },
+        {
+          "label": "B",
+          "text": "The maximum metabolic elimination capacity"
+        },
+        {
+          "label": "C",
+          "text": "The absolute amount of drug eliminated per hour"
+        },
+        {
+          "label": "D",
+          "text": "The fraction of drug bound to plasma protein"
+        },
+        {
+          "label": "E",
+          "text": "The time required to eliminate the entire dose"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Because a constant proportion is removed per unit time, the time for concentration to fall by half is fixed regardless of the starting concentration, so half-life is constant in first-order kinetics.",
+        "whyCorrect": "Because a constant proportion is removed per unit time, the time for concentration to fall by half is fixed regardless of the starting concentration, so half-life is constant in first-order kinetics.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-034_ph030_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-035",
+      "topicId": "pharmacokinetics-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics: Volume of Distribution and Elimination Kinetics",
+      "stem": "This graph compares steady-state acetaminophen concentrations for three formulations. The intravenous curve is nearly flat while the oral curves oscillate between peaks and troughs. What best explains the flat intravenous profile?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intravenous drug bypasses steady state entirely"
+        },
+        {
+          "label": "B",
+          "text": "Intravenous dosing uses a far larger total dose"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous drug is not subject to first-order elimination"
+        },
+        {
+          "label": "D",
+          "text": "Continuous infusion delivers drug at a rate matching elimination"
+        },
+        {
+          "label": "E",
+          "text": "Intravenous drug has a much shorter half-life"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A continuous IV infusion inputs drug at a constant rate equal to the elimination rate at steady state, so concentration plateaus without the peak-trough swings seen with intermittent oral dosing.",
+        "whyCorrect": "A continuous IV infusion inputs drug at a constant rate equal to the elimination rate at steady state, so concentration plateaus without the peak-trough swings seen with intermittent oral dosing.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-035_ph030_f07.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

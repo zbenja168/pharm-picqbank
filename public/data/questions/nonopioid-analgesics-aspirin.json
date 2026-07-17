@@ -1,0 +1,84 @@
+{
+  "categoryId": "nonopioid-analgesics-aspirin",
+  "categoryName": "Nonopioid Analgesics: Aspirin",
+  "questions": [
+    {
+      "id": "phpic-030",
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics: Aspirin",
+      "stem": "This diagram shows aspirin acetylating a serine residue on two related enzymes. Acetylation permanently inactivates the upper enzyme, but for the lower enzyme it does not abolish function — it switches the enzyme to a new catalytic activity. What new activity does the acetylated lower enzyme acquire?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enhanced cyclooxygenase activity"
+        },
+        {
+          "label": "B",
+          "text": "Phospholipase A2 activity"
+        },
+        {
+          "label": "C",
+          "text": "Lipoxygenase activity (producing lipoxins)"
+        },
+        {
+          "label": "D",
+          "text": "Thromboxane synthase activity"
+        },
+        {
+          "label": "E",
+          "text": "Peroxidase-only activity with no lipid product"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Aspirin irreversibly acetylates a serine in the active site of COX-1, fully inactivating it. For COX-2, the same acetylation does not stop the enzyme but converts its cyclooxygenase activity into a lipoxygenase (LOX) activity, generating anti-inflammatory lipoxins rather than prostaglandins.",
+        "whyCorrect": "Aspirin irreversibly acetylates a serine in the active site of COX-1, fully inactivating it. For COX-2, the same acetylation does not stop the enzyme but converts its cyclooxygenase activity into a lipoxygenase (LOX) activity, generating anti-inflammatory lipoxins rather than prostaglandins.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-030_ph029_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-052",
+      "topicId": "nonopioid-analgesics-aspirin",
+      "topicName": "Nonopioid Analgesics: Aspirin",
+      "stem": "This schematic traces how diverse stimuli lead through arachidonic acid to a family of tissue-specific products. The product shown at the far right is generated chiefly by platelets. What is its principal physiologic action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stimulates gastric acid secretion"
+        },
+        {
+          "label": "B",
+          "text": "Inhibits platelet aggregation and causes vasodilation"
+        },
+        {
+          "label": "C",
+          "text": "Triggers bronchodilation in the airways"
+        },
+        {
+          "label": "D",
+          "text": "Promotes platelet aggregation and vasoconstriction"
+        },
+        {
+          "label": "E",
+          "text": "Increases renal sodium excretion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The rightmost branch product is Thromboxane A2 (TxA2), synthesized largely by platelets. TxA2 is a potent promoter of platelet aggregation and vasoconstriction, which is why aspirin's inhibition of its synthesis produces an antithrombotic effect.",
+        "whyCorrect": "The rightmost branch product is Thromboxane A2 (TxA2), synthesized largely by platelets. TxA2 is a potent promoter of platelet aggregation and vasoconstriction, which is why aspirin's inhibition of its synthesis produces an antithrombotic effect.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-052_ph029_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

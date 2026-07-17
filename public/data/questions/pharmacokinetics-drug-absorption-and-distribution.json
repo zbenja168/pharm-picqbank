@@ -1,0 +1,84 @@
+{
+  "categoryId": "pharmacokinetics-drug-absorption-and-distribution",
+  "categoryName": "Pharmacokinetics: Drug Absorption and Distribution",
+  "questions": [
+    {
+      "id": "phpic-017",
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics: Drug Absorption and Distribution",
+      "stem": "This illustration contrasts two broad classes of drug administration routes based on where the drug is delivered relative to the gastrointestinal tract. Which route class is depicted by the pathways that deliver drug directly into the bloodstream, bypassing the GI tract?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transdermal routes"
+        },
+        {
+          "label": "B",
+          "text": "Inhalational routes"
+        },
+        {
+          "label": "C",
+          "text": "Enteral routes"
+        },
+        {
+          "label": "D",
+          "text": "Topical routes"
+        },
+        {
+          "label": "E",
+          "text": "Parenteral routes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Parenteral routes (e.g., intravenous, intramuscular, subcutaneous) deliver drug outside of and bypassing the gastrointestinal tract, entering the systemic circulation directly through vascular access, in contrast to enteral routes that use the GI tract.",
+        "whyCorrect": "Parenteral routes (e.g., intravenous, intramuscular, subcutaneous) deliver drug outside of and bypassing the gastrointestinal tract, entering the systemic circulation directly through vascular access, in contrast to enteral routes that use the GI tract.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-017_ph010_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-018",
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics: Drug Absorption and Distribution",
+      "stem": "This schematic traces an orally absorbed drug from the gut wall through the portal vein to the liver before it reaches the systemic circulation. What phenomenon does this pathway illustrate that reduces the fraction of active drug reaching the bloodstream?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterohepatic recirculation"
+        },
+        {
+          "label": "B",
+          "text": "First-pass metabolism"
+        },
+        {
+          "label": "C",
+          "text": "Renal first-pass clearance"
+        },
+        {
+          "label": "D",
+          "text": "Zero-order absorption kinetics"
+        },
+        {
+          "label": "E",
+          "text": "Plasma protein binding"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Orally absorbed drug travels via the portal vein to the liver, where hepatic (and gut wall) enzymes metabolize a portion before it enters the systemic circulation. This first-pass metabolism lowers oral bioavailability compared with routes that bypass the portal circulation.",
+        "whyCorrect": "Orally absorbed drug travels via the portal vein to the liver, where hepatic (and gut wall) enzymes metabolize a portion before it enters the systemic circulation. This first-pass metabolism lowers oral bioavailability compared with routes that bypass the portal circulation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-018_ph010_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

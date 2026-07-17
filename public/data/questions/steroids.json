@@ -1,11 +1,11 @@
 {
-  "categoryId": "pathology",
-  "categoryName": "Pathology",
+  "categoryId": "steroids",
+  "categoryName": "Steroids",
   "questions": [
     {
       "id": "phpic-004",
-      "topicId": "pathology",
-      "topicName": "Pathology",
+      "topicId": "steroids",
+      "topicName": "Steroids",
       "stem": "This illustration summarizes the long-term effects of chronic corticosteroid excess, including central obesity, a rounded face, a dorsocervical fat pad, and purple abdominal striae. What is the primary mechanism producing the purple striae and thin, fragile skin shown?",
       "choices": [
         {

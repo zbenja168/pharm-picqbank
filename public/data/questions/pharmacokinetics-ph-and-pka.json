@@ -1,0 +1,84 @@
+{
+  "categoryId": "pharmacokinetics-ph-and-pka",
+  "categoryName": "Pharmacokinetics: pH and pKa",
+  "questions": [
+    {
+      "id": "phpic-026",
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "stem": "This schematic contrasts two forms of a drug at a lipid bilayer, one blocked by a red X and one passing through. What property of the drug determines whether it can passively cross the membrane?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The surrounding temperature"
+        },
+        {
+          "label": "B",
+          "text": "Its molecular weight"
+        },
+        {
+          "label": "C",
+          "text": "Its ionization (charge) state"
+        },
+        {
+          "label": "D",
+          "text": "The total number of drug molecules present"
+        },
+        {
+          "label": "E",
+          "text": "The thickness of the lipid bilayer"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The neutral, uncharged (unionized) form of a drug is lipophilic and diffuses freely through the fatty acyl core of the lipid bilayer, whereas the charged (ionized) form is hydrophilic and is repelled, as shown by the blocked pathway. Passive crossing is therefore governed primarily by the drug's ionization state.",
+        "whyCorrect": "The neutral, uncharged (unionized) form of a drug is lipophilic and diffuses freely through the fatty acyl core of the lipid bilayer, whereas the charged (ionized) form is hydrophilic and is repelled, as shown by the blocked pathway. Passive crossing is therefore governed primarily by the drug's ionization state.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-026_ph025_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-027",
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "stem": "This illustration maps where weakly acidic versus weakly basic drugs are best absorbed along the GI tract. What is the underlying reason a weak acid is preferentially absorbed in the proximal duodenum?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The acidic pH ionizes the weak acid, boosting its absorption"
+        },
+        {
+          "label": "B",
+          "text": "The duodenum expresses active transporters specific for acids"
+        },
+        {
+          "label": "C",
+          "text": "Weak acids are chemically destroyed in alkaline segments"
+        },
+        {
+          "label": "D",
+          "text": "In the more acidic environment it stays unionized and lipophilic, so it can cross membranes"
+        },
+        {
+          "label": "E",
+          "text": "Acidic pH increases mucosal blood flow to speed absorption"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A weak acid in an acidic environment (pH below its pKa) remains protonated and unionized, making it lipophilic and able to diffuse across the enterocyte membrane. Weak bases behave oppositely, staying unionized in the more alkaline distal ileum. Absorption is thus driven by pH-dependent ionization, not by transporters, blood flow, or drug destruction.",
+        "whyCorrect": "A weak acid in an acidic environment (pH below its pKa) remains protonated and unionized, making it lipophilic and able to diffuse across the enterocyte membrane. Weak bases behave oppositely, staying unionized in the more alkaline distal ileum. Absorption is thus driven by pH-dependent ionization, not by transporters, blood flow, or drug destruction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-027_ph025_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

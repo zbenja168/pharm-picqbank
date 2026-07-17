@@ -1,0 +1,123 @@
+{
+  "categoryId": "calcium-channel-blockers",
+  "categoryName": "Calcium Channel Blockers",
+  "questions": [
+    {
+      "id": "phpic-019",
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "stem": "This schematic depicts a drug blocking the L-type membrane channel, preventing ion entry that would otherwise initiate processes such as muscle contraction, insulin secretion, and gene transcription. In vascular tissue, which therapeutic effect is a direct consequence of this drug action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vascular smooth muscle relaxation (vasodilation)"
+        },
+        {
+          "label": "B",
+          "text": "Increased cardiac contractility"
+        },
+        {
+          "label": "C",
+          "text": "Bronchoconstriction"
+        },
+        {
+          "label": "D",
+          "text": "Increased platelet aggregation"
+        },
+        {
+          "label": "E",
+          "text": "Enhanced insulin secretion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Blocking the L-type Ca2+ channel lowers intracellular calcium in vascular smooth muscle, reducing myosin light-chain phosphorylation and causing relaxation and vasodilation. The other options are the opposite of, or unrelated to, reduced calcium influx.",
+        "whyCorrect": "Blocking the L-type Ca2+ channel lowers intracellular calcium in vascular smooth muscle, reducing myosin light-chain phosphorylation and causing relaxation and vasodilation. The other options are the opposite of, or unrelated to, reduced calcium influx.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-019_ph015_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-020",
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "stem": "These are the chemical structures of several calcium channel blockers grouped by structural class. Pharmacologically, the two non-dihydropyridine agents shown differ from the dihydropyridines by having a greater effect on which tissue?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Renal tubular epithelium"
+        },
+        {
+          "label": "B",
+          "text": "Bronchial smooth muscle"
+        },
+        {
+          "label": "C",
+          "text": "Arteriolar smooth muscle"
+        },
+        {
+          "label": "D",
+          "text": "Skeletal muscle"
+        },
+        {
+          "label": "E",
+          "text": "The cardiac conduction system (SA and AV nodes)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Non-dihydropyridines (verapamil, diltiazem) act more strongly on cardiac conduction tissue, slowing SA/AV nodal firing (negative chronotropic/dromotropic effect), whereas dihydropyridines are relatively selective arterial vasodilators.",
+        "whyCorrect": "Non-dihydropyridines (verapamil, diltiazem) act more strongly on cardiac conduction tissue, slowing SA/AV nodal firing (negative chronotropic/dromotropic effect), whereas dihydropyridines are relatively selective arterial vasodilators.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-020_ph015_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-042",
+      "topicId": "calcium-channel-blockers",
+      "topicName": "Calcium Channel Blockers",
+      "stem": "This labeled schematic shows a motor-nerve action potential arriving at a muscle cell and triggering calcium handling across the sarcolemma, T-tubule, and internal calcium store. Blocking the L-type calcium channels depicted at the T-tubule/sarcolemma would most directly reduce which downstream event?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Potassium efflux from the muscle cell"
+        },
+        {
+          "label": "B",
+          "text": "Repolarization of the motor nerve action potential"
+        },
+        {
+          "label": "C",
+          "text": "Calcium-induced calcium release from the sarcoplasmic reticulum"
+        },
+        {
+          "label": "D",
+          "text": "Sodium influx through voltage-gated Na+ channels"
+        },
+        {
+          "label": "E",
+          "text": "Acetylcholine release from the motor nerve terminal"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The diagram depicts excitation-contraction coupling: depolarization opens L-type Ca2+ channels, and the resulting Ca2+ entry triggers further Ca2+ release from the sarcoplasmic reticulum (calcium-induced calcium release), which drives contraction. Blocking these channels reduces this trigger, not the upstream nerve signaling or Na+/K+ ionic currents.",
+        "whyCorrect": "The diagram depicts excitation-contraction coupling: depolarization opens L-type Ca2+ channels, and the resulting Ca2+ entry triggers further Ca2+ release from the sarcoplasmic reticulum (calcium-induced calcium release), which drives contraction. Blocking these channels reduces this trigger, not the upstream nerve signaling or Na+/K+ ionic currents.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-042_ph015_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

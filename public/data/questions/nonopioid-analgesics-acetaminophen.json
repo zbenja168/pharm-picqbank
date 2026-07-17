@@ -1,0 +1,123 @@
+{
+  "categoryId": "nonopioid-analgesics-acetaminophen",
+  "categoryName": "Nonopioid Analgesics: Acetaminophen",
+  "questions": [
+    {
+      "id": "phpic-003",
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics: Acetaminophen",
+      "stem": "This nomogram plots serum acetaminophen concentration against time since ingestion to guide antidote therapy. At what earliest time after ingestion is it considered reliable for risk stratification?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 hour after ingestion"
+        },
+        {
+          "label": "B",
+          "text": "24 hours after ingestion"
+        },
+        {
+          "label": "C",
+          "text": "4 hours after ingestion"
+        },
+        {
+          "label": "D",
+          "text": "12 hours after ingestion"
+        },
+        {
+          "label": "E",
+          "text": "8 hours after ingestion"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The Rumack-Matthew nomogram is validated only for single acute ingestions and is applied from 4 hours post-ingestion, once absorption and distribution are largely complete; levels drawn earlier can underestimate the peak. A concentration falling above the treatment line indicates a need for N-acetylcysteine.",
+        "whyCorrect": "The Rumack-Matthew nomogram is validated only for single acute ingestions and is applied from 4 hours post-ingestion, once absorption and distribution are largely complete; levels drawn earlier can underestimate the peak. A concentration falling above the treatment line indicates a need for N-acetylcysteine.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-003_ph001_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-005",
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics: Acetaminophen",
+      "stem": "This diagram depicts acetaminophen metabolism. During overdose, the reactive intermediate that accumulates causes hepatotoxicity primarily through which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complement activation leading to immune complex deposition"
+        },
+        {
+          "label": "B",
+          "text": "Covalent binding to hepatocyte proteins producing oxidative injury and centrilobular necrosis"
+        },
+        {
+          "label": "C",
+          "text": "Direct mutation of mitochondrial DNA in periportal cells"
+        },
+        {
+          "label": "D",
+          "text": "Mechanical obstruction of intrahepatic bile canaliculi"
+        },
+        {
+          "label": "E",
+          "text": "IgE-mediated hypersensitivity against hepatocyte membranes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A minor fraction of acetaminophen is oxidized by cytochrome P450 to NAPQI, normally detoxified by glutathione conjugation. When glucuronidation and sulfation are saturated and glutathione is depleted, NAPQI accumulates and binds covalently to hepatic proteins, causing oxidative and mitochondrial injury and centrilobular necrosis. N-acetylcysteine replenishes glutathione.",
+        "whyCorrect": "A minor fraction of acetaminophen is oxidized by cytochrome P450 to NAPQI, normally detoxified by glutathione conjugation. When glucuronidation and sulfation are saturated and glutathione is depleted, NAPQI accumulates and binds covalently to hepatic proteins, causing oxidative and mitochondrial injury and centrilobular necrosis. N-acetylcysteine replenishes glutathione.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-005_ph001_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-036",
+      "topicId": "nonopioid-analgesics-acetaminophen",
+      "topicName": "Nonopioid Analgesics: Acetaminophen",
+      "stem": "In the biosynthetic pathway shown, thromboxane A2 is produced in platelets. What is its principal physiologic action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increases renal sodium and water excretion"
+        },
+        {
+          "label": "B",
+          "text": "Promotes platelet aggregation and vasoconstriction"
+        },
+        {
+          "label": "C",
+          "text": "Inhibits platelet aggregation and causes vasodilation"
+        },
+        {
+          "label": "D",
+          "text": "Stimulates gastric mucus and bicarbonate secretion"
+        },
+        {
+          "label": "E",
+          "text": "Triggers bronchodilation of airway smooth muscle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The schematic traces membrane phospholipids through phospholipase A2 to arachidonic acid and, via COX-1/COX-2, to PGH2 and tissue-specific prostaglandins. Thromboxane A2, generated by platelets, drives platelet aggregation and vasoconstriction; prostacyclin (PGI2) opposes it with vasodilation and inhibition of aggregation.",
+        "whyCorrect": "The schematic traces membrane phospholipids through phospholipase A2 to arachidonic acid and, via COX-1/COX-2, to PGH2 and tissue-specific prostaglandins. Thromboxane A2, generated by platelets, drives platelet aggregation and vasoconstriction; prostacyclin (PGI2) opposes it with vasodilation and inhibition of aggregation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-036_ph001_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

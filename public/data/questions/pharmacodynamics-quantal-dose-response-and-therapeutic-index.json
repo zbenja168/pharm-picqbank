@@ -1,0 +1,162 @@
+{
+  "categoryId": "pharmacodynamics-quantal-dose-response-and-therapeutic-index",
+  "categoryName": "Pharmacodynamics: Quantal Dose Response and Therapeutic Index",
+  "questions": [
+    {
+      "id": "phpic-048",
+      "topicId": "pharmacodynamics-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics: Quantal Dose Response and Therapeutic Index",
+      "stem": "This plot shows a single drug's effect increasing with its concentration on a log scale, leveling off at a maximum. What type of dose-response relationship does it represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Log-kill survival curve"
+        },
+        {
+          "label": "B",
+          "text": "Quantal dose-response curve"
+        },
+        {
+          "label": "C",
+          "text": "Time-concentration curve"
+        },
+        {
+          "label": "D",
+          "text": "Cumulative frequency distribution"
+        },
+        {
+          "label": "E",
+          "text": "Graded dose-response curve"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A graded dose-response curve plots the continuous magnitude of drug effect against drug concentration for a single patient, rising sigmoidally to a maximum (Emax) with the half-maximal effect defining the EC50.",
+        "whyCorrect": "A graded dose-response curve plots the continuous magnitude of drug effect against drug concentration for a single patient, rising sigmoidally to a maximum (Emax) with the half-maximal effect defining the EC50.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-048_ph028_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-049",
+      "topicId": "pharmacodynamics-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics: Quantal Dose Response and Therapeutic Index",
+      "stem": "This bell-shaped frequency plot shows the number of patients responding at each dose, with the central peak (mu) marked. Which pharmacodynamic parameter does that central/median value define?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "TD50 (median toxic dose)"
+        },
+        {
+          "label": "B",
+          "text": "ED50 (median effective dose)"
+        },
+        {
+          "label": "C",
+          "text": "EC50 (half-maximal concentration)"
+        },
+        {
+          "label": "D",
+          "text": "LD50 (median lethal dose)"
+        },
+        {
+          "label": "E",
+          "text": "Therapeutic index"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A quantal dose-effect frequency curve is a normal (Gaussian) distribution; the dose at its center, where 50% of the population shows the defined all-or-none response, is the median effective dose, ED50.",
+        "whyCorrect": "A quantal dose-effect frequency curve is a normal (Gaussian) distribution; the dose at its center, where 50% of the population shows the defined all-or-none response, is the median effective dose, ED50.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-049_ph028_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-050",
+      "topicId": "pharmacodynamics-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics: Quantal Dose Response and Therapeutic Index",
+      "stem": "This figure shows two sigmoidal curves, one for efficacy and one for toxicity, plotted against log drug concentration. A drug whose two curves are farther apart on this axis is best described as having what property?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Shorter elimination half-life"
+        },
+        {
+          "label": "B",
+          "text": "Higher maximal efficacy"
+        },
+        {
+          "label": "C",
+          "text": "A wider safety margin / safer drug"
+        },
+        {
+          "label": "D",
+          "text": "Faster onset of action"
+        },
+        {
+          "label": "E",
+          "text": "Greater potency"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The greater the separation between the efficacy and toxicity curves, the larger the therapeutic index and the safer the drug, because effective and toxic doses overlap less.",
+        "whyCorrect": "The greater the separation between the efficacy and toxicity curves, the larger the therapeutic index and the safer the drug, because effective and toxic doses overlap less.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-050_ph028_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-051",
+      "topicId": "pharmacodynamics-quantal-dose-response-and-therapeutic-index",
+      "topicName": "Pharmacodynamics: Quantal Dose Response and Therapeutic Index",
+      "stem": "This figure plots therapeutic, toxic, and lethal effect curves with ED50, TD50, and LD50 marked. What quantity is obtained by dividing the lethal median dose by the effective median dose shown here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Maximal efficacy"
+        },
+        {
+          "label": "B",
+          "text": "Potency ratio"
+        },
+        {
+          "label": "C",
+          "text": "Therapeutic index"
+        },
+        {
+          "label": "D",
+          "text": "Bioavailability"
+        },
+        {
+          "label": "E",
+          "text": "Margin of safety"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The therapeutic index is the ratio of a dose producing toxicity/lethality to a dose producing the desired effect (e.g., LD50/ED50 or TD50/ED50); a larger ratio indicates a safer drug.",
+        "whyCorrect": "The therapeutic index is the ratio of a dose producing toxicity/lethality to a dose producing the desired effect (e.g., LD50/ED50 or TD50/ED50); a larger ratio indicates a safer drug.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-051_ph028_f05.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
