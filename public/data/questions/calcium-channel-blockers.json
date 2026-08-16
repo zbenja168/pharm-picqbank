@@ -10,7 +10,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Vascular smooth muscle relaxation (vasodilation)"
+          "text": "Vascular smooth muscle relaxation"
         },
         {
           "label": "B",
@@ -65,7 +65,7 @@
         },
         {
           "label": "E",
-          "text": "The cardiac conduction system (SA and AV nodes)"
+          "text": "The cardiac conduction system"
         }
       ],
       "correctAnswer": "E",
@@ -96,7 +96,7 @@
         },
         {
           "label": "C",
-          "text": "Calcium-induced calcium release from the sarcoplasmic reticulum"
+          "text": "Calcium-induced calcium release"
         },
         {
           "label": "D",
