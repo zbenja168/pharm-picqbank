@@ -1,0 +1,240 @@
+{
+  "categoryId": "w1s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "phpic-017",
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics: Drug Absorption and Distribution",
+      "stem": "This illustration contrasts two broad classes of drug administration routes based on where the drug is delivered relative to the gastrointestinal tract. Which route class is depicted by the pathways that deliver drug directly into the bloodstream, bypassing the GI tract?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transdermal routes"
+        },
+        {
+          "label": "B",
+          "text": "Inhalational routes"
+        },
+        {
+          "label": "C",
+          "text": "Enteral routes"
+        },
+        {
+          "label": "D",
+          "text": "Topical routes"
+        },
+        {
+          "label": "E",
+          "text": "Parenteral routes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Parenteral routes (e.g., intravenous, intramuscular, subcutaneous) deliver drug outside of and bypassing the gastrointestinal tract, entering the systemic circulation directly through vascular access, in contrast to enteral routes that use the GI tract.",
+        "whyCorrect": "Parenteral routes (e.g., intravenous, intramuscular, subcutaneous) deliver drug outside of and bypassing the gastrointestinal tract, entering the systemic circulation directly through vascular access, in contrast to enteral routes that use the GI tract.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-017_ph010_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-018",
+      "topicId": "pharmacokinetics-drug-absorption-and-distribution",
+      "topicName": "Pharmacokinetics: Drug Absorption and Distribution",
+      "stem": "This schematic traces an orally absorbed drug from the gut wall through the portal vein to the liver before it reaches the systemic circulation. What phenomenon does this pathway illustrate that reduces the fraction of active drug reaching the bloodstream?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterohepatic recirculation"
+        },
+        {
+          "label": "B",
+          "text": "First-pass metabolism"
+        },
+        {
+          "label": "C",
+          "text": "Renal first-pass clearance"
+        },
+        {
+          "label": "D",
+          "text": "Zero-order absorption kinetics"
+        },
+        {
+          "label": "E",
+          "text": "Plasma protein binding"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Orally absorbed drug travels via the portal vein to the liver, where hepatic (and gut wall) enzymes metabolize a portion before it enters the systemic circulation. This first-pass metabolism lowers oral bioavailability compared with routes that bypass the portal circulation.",
+        "whyCorrect": "Orally absorbed drug travels via the portal vein to the liver, where hepatic (and gut wall) enzymes metabolize a portion before it enters the systemic circulation. This first-pass metabolism lowers oral bioavailability compared with routes that bypass the portal circulation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-018_ph010_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-026",
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "stem": "This schematic contrasts two forms of a drug at a lipid bilayer, one blocked by a red X and one passing through. What property of the drug determines whether it can passively cross the membrane?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The surrounding temperature"
+        },
+        {
+          "label": "B",
+          "text": "Its molecular weight"
+        },
+        {
+          "label": "C",
+          "text": "Its ionization (charge) state"
+        },
+        {
+          "label": "D",
+          "text": "The total number of drug molecules present"
+        },
+        {
+          "label": "E",
+          "text": "The thickness of the lipid bilayer"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The neutral, uncharged (unionized) form of a drug is lipophilic and diffuses freely through the fatty acyl core of the lipid bilayer, whereas the charged (ionized) form is hydrophilic and is repelled, as shown by the blocked pathway. Passive crossing is therefore governed primarily by the drug's ionization state.",
+        "whyCorrect": "The neutral, uncharged (unionized) form of a drug is lipophilic and diffuses freely through the fatty acyl core of the lipid bilayer, whereas the charged (ionized) form is hydrophilic and is repelled, as shown by the blocked pathway. Passive crossing is therefore governed primarily by the drug's ionization state.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-026_ph025_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-027",
+      "topicId": "pharmacokinetics-ph-and-pka",
+      "topicName": "Pharmacokinetics: pH and pKa",
+      "stem": "This illustration maps where weakly acidic versus weakly basic drugs are best absorbed along the GI tract. What is the underlying reason a weak acid is preferentially absorbed in the proximal duodenum?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The acidic pH ionizes the weak acid, boosting its absorption"
+        },
+        {
+          "label": "B",
+          "text": "The duodenum expresses active transporters specific for acids"
+        },
+        {
+          "label": "C",
+          "text": "Weak acids are chemically destroyed in alkaline segments"
+        },
+        {
+          "label": "D",
+          "text": "In the more acidic environment it stays unionized and lipophilic"
+        },
+        {
+          "label": "E",
+          "text": "Acidic pH increases mucosal blood flow to speed absorption"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A weak acid in an acidic environment (pH below its pKa) remains protonated and unionized, making it lipophilic and able to diffuse across the enterocyte membrane. Weak bases behave oppositely, staying unionized in the more alkaline distal ileum. Absorption is thus driven by pH-dependent ionization, not by transporters, blood flow, or drug destruction.",
+        "whyCorrect": "A weak acid in an acidic environment (pH below its pKa) remains protonated and unionized, making it lipophilic and able to diffuse across the enterocyte membrane. Weak bases behave oppositely, staying unionized in the more alkaline distal ileum. Absorption is thus driven by pH-dependent ionization, not by transporters, blood flow, or drug destruction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-027_ph025_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-028",
+      "topicId": "nonopioid-analgesics-nsaids",
+      "topicName": "Nonopioid Analgesics: NSAIDs",
+      "stem": "This figure classifies common NSAIDs by their COX selectivity (panel A) and plasma half-life (panel B), with the most COX-2 selective agents grouped at the bottom of panel A. A drug from that highly COX-2 selective group would be expected to carry the greatest risk of which adverse outcome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aplastic anemia"
+        },
+        {
+          "label": "B",
+          "text": "Gastric ulceration and GI bleeding"
+        },
+        {
+          "label": "C",
+          "text": "Cardiovascular thrombotic events"
+        },
+        {
+          "label": "D",
+          "text": "Bronchospasm"
+        },
+        {
+          "label": "E",
+          "text": "Hepatic failure"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Highly COX-2 selective agents reduce endothelial prostacyclin (PGI2) while leaving platelet-derived thromboxane A2 relatively intact, shifting the balance toward platelet aggregation and vasoconstriction. This underlies the increased risk of myocardial infarction and stroke that led to withdrawal of several coxibs.",
+        "whyCorrect": "Highly COX-2 selective agents reduce endothelial prostacyclin (PGI2) while leaving platelet-derived thromboxane A2 relatively intact, shifting the balance toward platelet aggregation and vasoconstriction. This underlies the increased risk of myocardial infarction and stroke that led to withdrawal of several coxibs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-028_ph026_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-029",
+      "topicId": "pharmacodynamics-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics: Receptor Agonists and Antagonists",
+      "stem": "In this schematic, three drugs bind the same membrane receptor: the middle molecule triggers a cellular 'Effect' while the rightmost molecule occupies the receptor but produces 'No effect.' What best explains the mechanism of the rightmost drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It binds and fully activates the receptor to trigger signaling"
+        },
+        {
+          "label": "B",
+          "text": "It reduces the receptor's baseline constitutive activity below normal"
+        },
+        {
+          "label": "C",
+          "text": "It partially activates the receptor to give a submaximal response"
+        },
+        {
+          "label": "D",
+          "text": "It is the endogenous ligand that normally activates the receptor"
+        },
+        {
+          "label": "E",
+          "text": "It binds the receptor without activating it, blocking agonist access"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "An antagonist occupies the receptor and prevents agonist binding/activation, producing no downstream effect, in contrast to the agonist which activates signaling.",
+        "whyCorrect": "An antagonist occupies the receptor and prevents agonist binding/activation, producing no downstream effect, in contrast to the agonist which activates signaling.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-029_ph027_f01.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
