@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The diagram traces cholesterol and triglyceride handling across hepatic synthesis, VLDL/LDL/HDL trafficking in blood, and intestinal absorption/reabsorption of cholesterol and bile acids, i.e., integrated lipoprotein metabolism, the pathway statins act on.",
         "whyCorrect": "The diagram traces cholesterol and triglyceride handling across hepatic synthesis, VLDL/LDL/HDL trafficking in blood, and intestinal absorption/reabsorption of cholesterol and bile acids, i.e., integrated lipoprotein metabolism, the pathway statins act on.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Bilirubin metabolism involves heme breakdown, hepatic glucuronidation and biliary excretion, not VLDL, LDL and HDL trafficking.",
+          "C": "Renal sodium and water handling involves nephron segments and hormones like aldosterone and ADH, not enterocytes and lipoproteins.",
+          "D": "The coagulation cascade is a series of plasma clotting factors, not cholesterol absorption and lipoprotein transport.",
+          "E": "The urea cycle converts ammonia to urea in hepatocytes and does not involve the intestinal lumen or lipoproteins."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-038_ph005_f01.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Every adrenergic receptor shown in this classification tree (the alpha-1, alpha-2, and beta-1/2/3 subtypes) is a G-protein coupled receptor (GPCR). These seven-transmembrane receptors act through heterotrimeric G proteins to drive downstream second-messenger signaling rather than opening ion channels directly or possessing intrinsic kinase activity.",
         "whyCorrect": "Every adrenergic receptor shown in this classification tree (the alpha-1, alpha-2, and beta-1/2/3 subtypes) is a G-protein coupled receptor (GPCR). These seven-transmembrane receptors act through heterotrimeric G proteins to drive downstream second-messenger signaling rather than opening ion channels directly or possessing intrinsic kinase activity.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Nuclear hormone receptors bind lipophilic ligands like steroids and thyroid hormone inside the cell; catecholamines act at the surface.",
+          "C": "Receptor tyrosine kinases, like the insulin receptor, have intrinsic kinase activity, which adrenergic receptors lack.",
+          "D": "Ligand-gated ion channels include nicotinic and GABA-A receptors; no adrenergic receptor is an ion channel.",
+          "E": "Voltage-gated ion channels open in response to membrane potential, not hormone binding."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-041_ph011_f01.png",

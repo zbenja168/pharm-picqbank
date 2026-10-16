@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Organophosphorus inhibitors are tetrahedral, mimicking the transition state formed during carboxyl ester hydrolysis at the enzyme's active site, which allows them to bind acetylcholinesterase and phosphorylate it.",
         "whyCorrect": "Organophosphorus inhibitors are tetrahedral, mimicking the transition state formed during carboxyl ester hydrolysis at the enzyme's active site, which allows them to bind acetylcholinesterase and phosphorylate it.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pralidoxime is a separate reactivator that pulls the phosphate off the enzyme; its structure is not what organophosphates mimic.",
+          "B": "Acetylcholine has a planar ester carbonyl, not a tetrahedral center; organophosphates mimic the tetrahedral intermediate of its hydrolysis.",
+          "D": "Organophosphates target the acetylcholinesterase active-site serine, not muscarinic receptors.",
+          "E": "Carbamates form a carbamylated enzyme that hydrolyzes over minutes to hours; organophosphates are not modeled on that intermediate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-022_ph019_f03.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Most clinically used opioid agonists act primarily at mu (μ) receptors, which mediate analgesia, euphoria, respiratory depression, and dependence. Kappa and delta receptors modulate these effects and contribute to other actions but are not the main analgesic target.",
         "whyCorrect": "Most clinically used opioid agonists act primarily at mu (μ) receptors, which mediate analgesia, euphoria, respiratory depression, and dependence. Kappa and delta receptors modulate these effects and contribute to other actions but are not the main analgesic target.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The NOP (nociceptin) receptor is an opioid-related receptor that does not mediate the analgesia and euphoria of morphine-like drugs.",
+          "B": "Kappa receptors mediate spinal analgesia, dysphoria and diuresis, not the euphoria of typical opioid agonists.",
+          "C": "Sigma receptors are no longer classified as opioid receptors and mediate dysphoric and psychotomimetic effects.",
+          "E": "Delta receptors modulate analgesia and mood but are not the main target of clinically used opioids."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-023_ph022_f01.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "In the dorsal horn, presynaptic opioid receptors reduce calcium influx and inhibit release of excitatory neurotransmitters (e.g., substance P, glutamate) from primary afferents, while postsynaptic hyperpolarization decreases transmission of nociceptive signals, producing analgesia.",
         "whyCorrect": "In the dorsal horn, presynaptic opioid receptors reduce calcium influx and inhibit release of excitatory neurotransmitters (e.g., substance P, glutamate) from primary afferents, while postsynaptic hyperpolarization decreases transmission of nociceptive signals, producing analgesia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Opioids do not block sodium channels on motor neurons; that action belongs to local anesthetics and would cause weakness.",
+          "B": "Opioids reduce, not increase, substance P release from primary afferent terminals.",
+          "D": "Opioids decrease glutamate release onto second-order neurons; enhancing it would increase pain transmission.",
+          "E": "Opioids engage descending inhibitory, not excitatory, pathways from the brainstem, and the dorsal horn action itself is local inhibition of transmitter release."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-024_ph022_f02.png",

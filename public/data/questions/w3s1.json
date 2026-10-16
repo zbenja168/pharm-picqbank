@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Erection results from nitric oxide-driven relaxation of the arterial and trabecular smooth muscle within the corpora cavernosa, which increases arterial inflow and fills the sinusoidal spaces with blood, producing rigidity. This is the target pathway of PDE-5 inhibitors.",
         "whyCorrect": "Erection results from nitric oxide-driven relaxation of the arterial and trabecular smooth muscle within the corpora cavernosa, which increases arterial inflow and fills the sinusoidal spaces with blood, producing rigidity. This is the target pathway of PDE-5 inhibitors.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Erection depends on trapping blood, not lymph; venous outflow is compressed passively once the sinusoids fill.",
+          "B": "Skeletal muscles like the ischiocavernosus can enhance rigidity, but the primary event is smooth muscle relaxation with arterial inflow.",
+          "D": "Interstitial edema does not produce erection; rigidity comes from blood filling the cavernous sinusoids.",
+          "E": "Sympathetic tone causes vasoconstriction and detumescence; erection is a parasympathetic, NO-mediated event."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-002_ph013_f01.png",

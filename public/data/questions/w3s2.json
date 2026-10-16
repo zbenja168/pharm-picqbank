@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "H2 receptor antagonists reversibly block histamine at the H2 receptor, reducing the cAMP-dependent pathway that activates the proton pump. This is less complete than PPIs, which irreversibly inhibit the H+/K+-ATPase itself, the final common pathway.",
         "whyCorrect": "H2 receptor antagonists reversibly block histamine at the H2 receptor, reducing the cAMP-dependent pathway that activates the proton pump. This is less complete than PPIs, which irreversibly inhibit the H+/K+-ATPase itself, the final common pathway.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Gastrin/CCK-B antagonists block a different stimulatory receptor and are not a standard acid-suppressing class.",
+          "B": "Neutralizing luminal acid is how antacids such as calcium carbonate work; they do not reduce acid output.",
+          "D": "Irreversible covalent inhibition of the H+/K+-ATPase is the mechanism of proton pump inhibitors, the other drug class shown.",
+          "E": "Muscarinic M3 blockade interrupts vagal acetylcholine signaling to the parietal cell, a different receptor from the histamine H2 receptor."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-015_ph009_f02.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "PPIs irreversibly inhibit the H+/K+-ATPase, raising gastric pH. The persistently low acidity impairs absorption of Ca2+, Mg2+, Fe2+ and vitamin B12 and removes the acid barrier to enteric pathogens, driving increased risk of malabsorption, osteoporosis, C. difficile infection, and pneumonia.",
         "whyCorrect": "PPIs irreversibly inhibit the H+/K+-ATPase, raising gastric pH. The persistently low acidity impairs absorption of Ca2+, Mg2+, Fe2+ and vitamin B12 and removes the acid barrier to enteric pathogens, driving increased risk of malabsorption, osteoporosis, C. difficile infection, and pneumonia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "PPIs do not cause parietal cell apoptosis; long-term use tends to cause parietal cell hyperplasia from raised gastrin.",
+          "B": "Some PPIs inhibit CYP2C19, such as omeprazole with clopidogrel, but this does not explain malabsorption or infection risk.",
+          "D": "PPIs do not chelate cations; mineral malabsorption results from reduced gastric acidity.",
+          "E": "Reversible H2 receptor blockade is the mechanism of H2 blockers, not the drug class whose chronic harms are listed here."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-016_ph009_f03.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The parietal cell is the effector cell of gastric acid secretion; it houses the H+/K+-ATPase and responds to acetylcholine (M3), gastrin, and histamine (H2). G cells secrete gastrin, ECL cells release histamine, chief cells secrete pepsinogen, and D cells release somatostatin.",
         "whyCorrect": "The parietal cell is the effector cell of gastric acid secretion; it houses the H+/K+-ATPase and responds to acetylcholine (M3), gastrin, and histamine (H2). G cells secrete gastrin, ECL cells release histamine, chief cells secrete pepsinogen, and D cells release somatostatin.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "ECL cells release histamine that acts on the parietal cell; they do not house the proton pump.",
+          "C": "D cells release somatostatin, which inhibits acid secretion.",
+          "D": "G cells in the antrum secrete gastrin, which stimulates acid production indirectly and directly.",
+          "E": "Chief cells secrete pepsinogen and gastric lipase, not acid."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-040_ph009_f01.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Blocking the L-type Ca2+ channel lowers intracellular calcium in vascular smooth muscle, reducing myosin light-chain phosphorylation and causing relaxation and vasodilation. The other options are the opposite of, or unrelated to, reduced calcium influx.",
         "whyCorrect": "Blocking the L-type Ca2+ channel lowers intracellular calcium in vascular smooth muscle, reducing myosin light-chain phosphorylation and causing relaxation and vasodilation. The other options are the opposite of, or unrelated to, reduced calcium influx.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Reduced calcium entry decreases, not increases, cardiac contractility (negative inotropy), especially with non-dihydropyridines.",
+          "C": "Calcium channel blockade relaxes smooth muscle, so it would not cause bronchoconstriction.",
+          "D": "Lower intracellular calcium tends to reduce, not increase, platelet activation.",
+          "E": "Insulin release requires calcium entry through L-type channels in beta cells, so blockade would reduce it."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-019_ph015_f02.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Non-dihydropyridines (verapamil, diltiazem) act more strongly on cardiac conduction tissue, slowing SA/AV nodal firing (negative chronotropic/dromotropic effect), whereas dihydropyridines are relatively selective arterial vasodilators.",
         "whyCorrect": "Non-dihydropyridines (verapamil, diltiazem) act more strongly on cardiac conduction tissue, slowing SA/AV nodal firing (negative chronotropic/dromotropic effect), whereas dihydropyridines are relatively selective arterial vasodilators.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Calcium channel blockers do not act preferentially on renal tubular epithelium; their main targets are vascular and cardiac tissue.",
+          "B": "Bronchial smooth muscle is little affected by any calcium channel blocker class at therapeutic doses.",
+          "C": "Arteriolar smooth muscle is the preferred target of dihydropyridines like amlodipine and nifedipine, not of verapamil and diltiazem.",
+          "D": "Skeletal muscle contraction relies on sarcoplasmic reticulum calcium and is not meaningfully affected by either class."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-020_ph015_f03.png",
@@ -201,7 +226,7 @@
       "id": "phpic-042",
       "topicId": "calcium-channel-blockers",
       "topicName": "Calcium Channel Blockers",
-      "stem": "This labeled schematic shows a motor-nerve action potential arriving at a muscle cell and triggering calcium handling across the sarcolemma, T-tubule, and internal calcium store. Blocking the L-type calcium channels depicted at the T-tubule/sarcolemma would most directly reduce which downstream event?",
+      "stem": "This labeled schematic shows a motor-nerve action potential arriving at a skeletal muscle cell and triggering calcium handling across the sarcolemma, T-tubule, and internal calcium store. Loss of function of the L-type calcium channels (dihydropyridine receptors) depicted at the T-tubule would most directly reduce which downstream event?",
       "choices": [
         {
           "label": "A",
@@ -213,7 +238,7 @@
         },
         {
           "label": "C",
-          "text": "Calcium-induced calcium release"
+          "text": "Calcium release from the sarcoplasmic reticulum"
         },
         {
           "label": "D",
@@ -226,9 +251,14 @@
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "The diagram depicts excitation-contraction coupling: depolarization opens L-type Ca2+ channels, and the resulting Ca2+ entry triggers further Ca2+ release from the sarcoplasmic reticulum (calcium-induced calcium release), which drives contraction. Blocking these channels reduces this trigger, not the upstream nerve signaling or Na+/K+ ionic currents.",
-        "whyCorrect": "The diagram depicts excitation-contraction coupling: depolarization opens L-type Ca2+ channels, and the resulting Ca2+ entry triggers further Ca2+ release from the sarcoplasmic reticulum (calcium-induced calcium release), which drives contraction. Blocking these channels reduces this trigger, not the upstream nerve signaling or Na+/K+ ionic currents.",
-        "whyWrongByChoice": {}
+        "summary": "In skeletal muscle the T-tubule L-type channel (dihydropyridine receptor) acts mainly as a voltage sensor that is mechanically coupled to the ryanodine receptor (RyR1), so its depolarization-driven conformational change opens RyR1 and releases Ca2+ from the sarcoplasmic reticulum. (In cardiac muscle, Ca2+ entering through the channel instead triggers calcium-induced calcium release.) Upstream nerve signaling and Na+/K+ currents do not depend on this channel.",
+        "whyCorrect": "In skeletal muscle the T-tubule L-type channel (dihydropyridine receptor) acts mainly as a voltage sensor that is mechanically coupled to the ryanodine receptor (RyR1), so its depolarization-driven conformational change opens RyR1 and releases Ca2+ from the sarcoplasmic reticulum. (In cardiac muscle, Ca2+ entering through the channel instead triggers calcium-induced calcium release.) Upstream nerve signaling and Na+/K+ currents do not depend on this channel.",
+        "whyWrongByChoice": {
+          "A": "Potassium efflux drives repolarization of the muscle membrane and is not triggered by L-type calcium channels.",
+          "B": "The motor nerve action potential is presynaptic and upstream of the muscle's T-tubule calcium channels.",
+          "D": "Sodium influx through muscle voltage-gated Na+ channels generates the depolarization that opens L-type channels, so it comes before them.",
+          "E": "Acetylcholine release depends on presynaptic N- and P/Q-type calcium channels in the nerve terminal, not muscle L-type channels."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-042_ph015_f01.png",

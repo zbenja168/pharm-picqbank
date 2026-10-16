@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Parenteral routes (e.g., intravenous, intramuscular, subcutaneous) deliver drug outside of and bypassing the gastrointestinal tract, entering the systemic circulation directly through vascular access, in contrast to enteral routes that use the GI tract.",
         "whyCorrect": "Parenteral routes (e.g., intravenous, intramuscular, subcutaneous) deliver drug outside of and bypassing the gastrointestinal tract, entering the systemic circulation directly through vascular access, in contrast to enteral routes that use the GI tract.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Transdermal routes deliver drug slowly through the skin for systemic absorption, as with nicotine or fentanyl patches, not directly into the bloodstream.",
+          "B": "Inhalational routes deliver drug to the airways and alveoli for absorption across the lung, not by direct vascular access.",
+          "C": "Enteral routes use the GI tract, such as oral, sublingual or rectal administration, the opposite of bypassing it.",
+          "D": "Topical routes apply drug to a local surface like skin or mucosa, mainly for local effect rather than direct entry into the blood."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-017_ph010_f01.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Orally absorbed drug travels via the portal vein to the liver, where hepatic (and gut wall) enzymes metabolize a portion before it enters the systemic circulation. This first-pass metabolism lowers oral bioavailability compared with routes that bypass the portal circulation.",
         "whyCorrect": "Orally absorbed drug travels via the portal vein to the liver, where hepatic (and gut wall) enzymes metabolize a portion before it enters the systemic circulation. This first-pass metabolism lowers oral bioavailability compared with routes that bypass the portal circulation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Enterohepatic recirculation is biliary excretion of drug into the gut followed by reabsorption, which prolongs drug action rather than reducing bioavailability on first passage.",
+          "C": "The kidney eliminates drug after it reaches the systemic circulation; there is no renal first pass between gut and bloodstream.",
+          "D": "Zero-order kinetics describes a constant amount handled per unit time; it does not describe the gut-to-portal-to-liver route.",
+          "E": "Plasma protein binding happens after drug reaches the blood and limits free drug, but it does not remove drug before it enters the systemic circulation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-018_ph010_f02.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The neutral, uncharged (unionized) form of a drug is lipophilic and diffuses freely through the fatty acyl core of the lipid bilayer, whereas the charged (ionized) form is hydrophilic and is repelled, as shown by the blocked pathway. Passive crossing is therefore governed primarily by the drug's ionization state.",
         "whyCorrect": "The neutral, uncharged (unionized) form of a drug is lipophilic and diffuses freely through the fatty acyl core of the lipid bilayer, whereas the charged (ionized) form is hydrophilic and is repelled, as shown by the blocked pathway. Passive crossing is therefore governed primarily by the drug's ionization state.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Temperature affects diffusion rates slightly, but it does not decide whether a molecule can cross the bilayer at all.",
+          "B": "Molecular weight matters for very large molecules, but the figure contrasts two forms of the same drug that differ in charge, not size.",
+          "D": "The number of molecules sets the concentration gradient driving net flux, not whether a given form can pass the bilayer.",
+          "E": "Bilayer thickness is a property of the membrane, not the drug, and is the same for both forms shown."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-026_ph025_f01.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "A weak acid in an acidic environment (pH below its pKa) remains protonated and unionized, making it lipophilic and able to diffuse across the enterocyte membrane. Weak bases behave oppositely, staying unionized in the more alkaline distal ileum. Absorption is thus driven by pH-dependent ionization, not by transporters, blood flow, or drug destruction.",
         "whyCorrect": "A weak acid in an acidic environment (pH below its pKa) remains protonated and unionized, making it lipophilic and able to diffuse across the enterocyte membrane. Weak bases behave oppositely, staying unionized in the more alkaline distal ileum. Absorption is thus driven by pH-dependent ionization, not by transporters, blood flow, or drug destruction.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Ionization makes a drug charged and hydrophilic, which reduces membrane crossing; an acidic pH keeps a weak acid unionized.",
+          "B": "Passive absorption of weak acids and bases is driven by pH-dependent ionization, not by acid-specific transporters in the duodenum.",
+          "C": "Weak acids are not destroyed in alkaline segments; they become ionized there, which simply limits their diffusion.",
+          "E": "Local pH does not govern mucosal blood flow, and blood flow does not explain the site preference of weak acids versus bases."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-027_ph025_f02.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Highly COX-2 selective agents reduce endothelial prostacyclin (PGI2) while leaving platelet-derived thromboxane A2 relatively intact, shifting the balance toward platelet aggregation and vasoconstriction. This underlies the increased risk of myocardial infarction and stroke that led to withdrawal of several coxibs.",
         "whyCorrect": "Highly COX-2 selective agents reduce endothelial prostacyclin (PGI2) while leaving platelet-derived thromboxane A2 relatively intact, shifting the balance toward platelet aggregation and vasoconstriction. This underlies the increased risk of myocardial infarction and stroke that led to withdrawal of several coxibs.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Aplastic anemia is a rare idiosyncratic reaction, historically linked to phenylbutazone, not a class effect of COX-2 selectivity.",
+          "B": "GI ulceration and bleeding are greatest with nonselective or COX-1-leaning NSAIDs; sparing COX-1 is the reason coxibs reduce GI risk.",
+          "D": "Bronchospasm in aspirin-exacerbated respiratory disease is driven by COX-1 inhibition shunting to leukotrienes; selective COX-2 inhibitors are usually tolerated.",
+          "E": "Hepatic failure is not the signature risk of COX-2 selectivity; acetaminophen is the classic hepatotoxic analgesic."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-028_ph026_f03.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "An antagonist occupies the receptor and prevents agonist binding/activation, producing no downstream effect, in contrast to the agonist which activates signaling.",
         "whyCorrect": "An antagonist occupies the receptor and prevents agonist binding/activation, producing no downstream effect, in contrast to the agonist which activates signaling.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Binding and fully activating the receptor describes a full agonist like the middle molecule, which produces an effect.",
+          "B": "Reducing constitutive activity below baseline describes an inverse agonist, which produces an opposite effect rather than no effect.",
+          "C": "A partial agonist produces a submaximal response, still an effect, unlike the drug shown that produces none.",
+          "D": "The endogenous ligand activates its receptor and produces a response; the rightmost drug occupies the receptor without doing so."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-029_ph027_f01.png",

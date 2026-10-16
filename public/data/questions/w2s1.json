@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The organs illustrated (stomach, intestines, bladder, reproductive structures) receive parasympathetic innervation that promotes rest-and-digest functions: increased GI motility and secretion, and elimination of waste. The listed distractors are sympathetic (fight-or-flight) responses.",
         "whyCorrect": "The organs illustrated (stomach, intestines, bladder, reproductive structures) receive parasympathetic innervation that promotes rest-and-digest functions: increased GI motility and secretion, and elimination of waste. The listed distractors are sympathetic (fight-or-flight) responses.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Increased heart rate and contractility are sympathetic beta1 effects; parasympathetic vagal input slows the heart.",
+          "C": "Vasoconstriction and raised blood pressure are sympathetic alpha1 effects, part of the fight-or-flight response.",
+          "D": "Glycogenolysis and glucose mobilization are driven by sympathetic stimulation and epinephrine, not parasympathetic activity.",
+          "E": "Bronchodilation and pupil dilation are sympathetic effects; parasympathetic input causes bronchoconstriction and miosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-001_ph008_f04.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The beta-adrenergic receptors (beta1, beta2, beta3) are Gs-coupled GPCRs; activation stimulates adenylyl cyclase and raises intracellular cAMP, whereas alpha1 uses Gq (IP3/DAG) and alpha2 uses Gi (lowers cAMP).",
         "whyCorrect": "The beta-adrenergic receptors (beta1, beta2, beta3) are Gs-coupled GPCRs; activation stimulates adenylyl cyclase and raises intracellular cAMP, whereas alpha1 uses Gq (IP3/DAG) and alpha2 uses Gi (lowers cAMP).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Increased cGMP via guanylyl cyclase is the pathway of nitric oxide and natriuretic peptides, not beta-adrenergic receptors.",
+          "C": "Adrenergic receptors are all GPCRs; ligand-gated ion channels include nicotinic and GABA-A receptors.",
+          "D": "Decreased cAMP via Gi is the alpha2 pathway, which inhibits adenylyl cyclase.",
+          "E": "Increased IP3 and DAG via Gq is the alpha1 pathway, which raises intracellular calcium."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-006_ph002_f01.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Nicotinic receptors (nM in muscle, nN in neurons) are ionotropic ligand-gated cation channels activated by ACh, while all muscarinic subtypes (M1-M5) are metabotropic GPCRs coupling to Gq or Gi.",
         "whyCorrect": "Nicotinic receptors (nM in muscle, nN in neurons) are ionotropic ligand-gated cation channels activated by ACh, while all muscarinic subtypes (M1-M5) are metabotropic GPCRs coupling to Gq or Gi.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "M2 receptors are Gi-coupled GPCRs that slow the heart, not ion channels.",
+          "B": "M1 receptors are Gq-coupled GPCRs found in CNS and enteric neurons and gastric glands.",
+          "C": "M3 receptors are Gq-coupled GPCRs on smooth muscle and glands.",
+          "D": "M4 receptors are Gi-coupled GPCRs, mainly in the CNS."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-007_ph002_f02.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Beta1 receptors are Gs-coupled; cardiac beta1 activation raises cAMP, increasing sinoatrial rate (positive chronotropy) and myocardial contractility (positive inotropy).",
         "whyCorrect": "Beta1 receptors are Gs-coupled; cardiac beta1 activation raises cAMP, increasing sinoatrial rate (positive chronotropy) and myocardial contractility (positive inotropy).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cutaneous vasoconstriction is mediated by alpha1 receptors on vascular smooth muscle.",
+          "B": "Bronchoconstriction is a parasympathetic M3 effect; beta2 stimulation does the opposite.",
+          "D": "Decreased heart rate and contractility result from M2 muscarinic stimulation or beta1 blockade, not beta1 activation.",
+          "E": "Increased GI motility is a parasympathetic M3 effect; sympathetic stimulation slows the gut."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-008_ph002_f03.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "The tree depicts adrenergic receptors (alpha1, alpha2, beta1-3), which are the receptors for the catecholamines norepinephrine and epinephrine.",
         "whyCorrect": "The tree depicts adrenergic receptors (alpha1, alpha2, beta1-3), which are the receptors for the catecholamines norepinephrine and epinephrine.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Acetylcholine activates cholinergic receptors, which divide into muscarinic and nicotinic types rather than alpha and beta.",
+          "C": "Histamine acts on H1-H4 receptors, not on alpha and beta subtypes.",
+          "D": "Serotonin acts on 5-HT receptor families, not on the alpha and beta adrenergic branches.",
+          "E": "Glutamate acts on NMDA, AMPA, kainate and metabotropic receptors, not adrenergic receptors."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-009_ph004_f03.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Beta-adrenergic receptors are Gs-coupled; their activation stimulates adenylyl cyclase, raising cAMP to produce effects such as increased cardiac contractility and rate.",
         "whyCorrect": "Beta-adrenergic receptors are Gs-coupled; their activation stimulates adenylyl cyclase, raising cAMP to produce effects such as increased cardiac contractility and rate.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Decreased cAMP through inhibition of adenylyl cyclase is the Gi pathway of alpha2 receptors.",
+          "C": "Increased IP3 and calcium via phospholipase C is the Gq pathway of alpha1 receptors.",
+          "D": "Direct opening of a ligand-gated sodium channel describes nicotinic receptors, not GPCRs.",
+          "E": "Increased cGMP via guanylyl cyclase is the nitric oxide and natriuretic peptide pathway."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-010_ph004_f06.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "The tree depicts the adrenergic (catecholaminergic) receptor family, split into alpha (alpha1, alpha2) and beta (beta1, beta2, beta3) subtypes. All of these receptors are activated by the endogenous catecholamines norepinephrine and epinephrine, which is why they are the targets of adrenergic agonists (sympathomimetics).",
         "whyCorrect": "The tree depicts the adrenergic (catecholaminergic) receptor family, split into alpha (alpha1, alpha2) and beta (beta1, beta2, beta3) subtypes. All of these receptors are activated by the endogenous catecholamines norepinephrine and epinephrine, which is why they are the targets of adrenergic agonists (sympathomimetics).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Dopamine acts at D1-D5 receptors and GABA at GABA receptors; neither pair activates the full alpha and beta adrenergic family.",
+          "B": "Acetylcholine acts at muscarinic and nicotinic receptors, and choline is its weak precursor and breakdown product.",
+          "C": "Glutamate and glycine act at NMDA and other amino acid receptors in the CNS, not adrenergic receptors.",
+          "E": "Histamine and serotonin have their own receptor families (H and 5-HT), separate from adrenergic receptors."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-012_ph008_f01.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Unlike the muscarinic subtypes, which are G-protein-coupled receptors (hence the Gq/Gi tags in the figure), nicotinic receptors are ligand-gated ion channels that open directly on acetylcholine binding, allowing rapid cation influx and depolarization. The absence of a G-protein label on the nicotinic branch reflects this ionotropic mechanism.",
         "whyCorrect": "Unlike the muscarinic subtypes, which are G-protein-coupled receptors (hence the Gq/Gi tags in the figure), nicotinic receptors are ligand-gated ion channels that open directly on acetylcholine binding, allowing rapid cation influx and depolarization. The absence of a G-protein label on the nicotinic branch reflects this ionotropic mechanism.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Gq-coupled activation of phospholipase C is the mechanism of M1, M3 and M5 muscarinic receptors.",
+          "B": "Gs-coupled stimulation of adenylyl cyclase is used by beta-adrenergic receptors, not by any cholinergic receptor.",
+          "C": "Gi-coupled inhibition of adenylyl cyclase is the mechanism of M2 and M4 muscarinic receptors.",
+          "D": "Intracellular steroid receptors bind lipophilic hormones and act on gene transcription, which is far too slow for nicotinic transmission."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-013_ph008_f02.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "The alpha1 subtype couples to Gq, activating phospholipase C, generating IP3/DAG and raising intracellular calcium, which drives vascular smooth-muscle contraction and vasoconstriction. Bronchodilation and increased contractility are beta effects, and presynaptic inhibition of norepinephrine release is an alpha2 effect.",
         "whyCorrect": "The alpha1 subtype couples to Gq, activating phospholipase C, generating IP3/DAG and raising intracellular calcium, which drives vascular smooth-muscle contraction and vasoconstriction. Bronchodilation and increased contractility are beta effects, and presynaptic inhibition of norepinephrine release is an alpha2 effect.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Renal vasodilation and increased renal blood flow are mediated by D1 dopamine receptors, not alpha1.",
+          "B": "Bronchodilation is a beta2 effect via Gs and cAMP.",
+          "D": "Reduced norepinephrine release is a presynaptic alpha2 (Gi) effect.",
+          "E": "Increased cardiac contractility and heart rate are beta1 effects."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-014_ph008_f03.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Alpha1 receptors on vascular smooth muscle are Gq-coupled; activation raises intracellular Ca2+ and causes vasoconstriction (the narrowed lumen), whereas beta2 activation mediates vasodilation.",
         "whyCorrect": "Alpha1 receptors on vascular smooth muscle are Gq-coupled; activation raises intracellular Ca2+ and causes vasoconstriction (the narrowed lumen), whereas beta2 activation mediates vasodilation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Beta1 receptors are mainly on the heart and juxtaglomerular cells; they do not constrict vascular smooth muscle.",
+          "C": "M3 receptors on endothelium release nitric oxide, causing vasodilation rather than narrowing.",
+          "D": "Nicotinic receptors sit at autonomic ganglia and the neuromuscular junction, not on vascular smooth muscle.",
+          "E": "Beta2 receptors on vascular smooth muscle mediate vasodilation, which would widen the lumen."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-037_ph002_f08.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "The bottom vessel shows a narrowed lumen (vasoconstriction). Reducing vessel radius sharply raises resistance (resistance is inversely proportional to the fourth power of the radius), so systemic vascular resistance climbs and, with cardiac output held constant, mean arterial blood pressure rises. This is the basis of vasopressor action.",
         "whyCorrect": "The bottom vessel shows a narrowed lumen (vasoconstriction). Reducing vessel radius sharply raises resistance (resistance is inversely proportional to the fourth power of the radius), so systemic vascular resistance climbs and, with cardiac output held constant, mean arterial blood pressure rises. This is the basis of vasopressor action.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Narrowing the lumen sharply raises resistance because resistance varies inversely with the fourth power of the radius.",
+          "C": "Higher resistance with unchanged cardiac output raises, not lowers, mean arterial pressure.",
+          "D": "Vasoconstriction increases resistance; decreased resistance would come from the dilated vessel.",
+          "E": "Decreased resistance and pressure describe vasodilation, the opposite of the narrowed vessel."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-039_ph008_f05.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Chronic glucocorticoid exposure suppresses fibroblast activity and collagen synthesis while promoting protein breakdown, thinning the dermis. The weakened, thin skin stretches over expanding central fat and tears, exposing dermal vasculature as the characteristic wide purple striae seen in iatrogenic Cushing syndrome.",
         "whyCorrect": "Chronic glucocorticoid exposure suppresses fibroblast activity and collagen synthesis while promoting protein breakdown, thinning the dermis. The weakened, thin skin stretches over expanding central fat and tears, exposing dermal vasculature as the characteristic wide purple striae seen in iatrogenic Cushing syndrome.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Sodium and water retention from mineralocorticoid effects causes edema and hypertension, but not thin skin with purple striae.",
+          "C": "Subcutaneous fat necrosis and calcification occur in pancreatitis or newborn trauma, not glucocorticoid excess.",
+          "D": "Venous congestion causes stasis changes and edema of the legs, not abdominal striae and fragile skin.",
+          "E": "MSH-driven hyperpigmentation occurs with high ACTH, as in Addison disease or ectopic ACTH, and does not cause striae."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-004_ph003_f03.png",

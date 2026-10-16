@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The illustration depicts the anticholinergic (antimuscarinic) toxidrome. Physostigmine, a centrally acting acetylcholinesterase inhibitor, raises synaptic acetylcholine to overcome muscarinic blockade and is the antidote. Atropine would worsen it, pralidoxime treats organophosphate poisoning, naloxone reverses opioids, and flumazenil reverses benzodiazepines.",
         "whyCorrect": "The illustration depicts the anticholinergic (antimuscarinic) toxidrome. Physostigmine, a centrally acting acetylcholinesterase inhibitor, raises synaptic acetylcholine to overcome muscarinic blockade and is the antidote. Atropine would worsen it, pralidoxime treats organophosphate poisoning, naloxone reverses opioids, and flumazenil reverses benzodiazepines.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Atropine is a muscarinic antagonist that causes this toxidrome; giving it would worsen symptoms.",
+          "C": "Flumazenil reverses benzodiazepine sedation and does not counter muscarinic blockade.",
+          "D": "Naloxone reverses opioid toxicity, with miosis and respiratory depression, not anticholinergic signs.",
+          "E": "Pralidoxime regenerates acetylcholinesterase after organophosphate poisoning, the opposite (cholinergic) toxidrome."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-021_ph017_f02.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Anticholinergics are muscarinic antagonists that act by competitive inhibition, binding the receptor without activating it so that endogenous acetylcholine cannot exert its effect on the target cell.",
         "whyCorrect": "Anticholinergics are muscarinic antagonists that act by competitive inhibition, binding the receptor without activating it so that endogenous acetylcholine cannot exert its effect on the target cell.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Blocking vesicular acetylcholine release is how botulinum toxin works, acting presynaptically rather than at the target cell receptor.",
+          "C": "Directly activating receptors to mimic acetylcholine describes agonists like bethanechol or pilocarpine.",
+          "D": "Degrading acetylcholine in the cleft is the job of acetylcholinesterase, not a receptor antagonist.",
+          "E": "Preventing nerve impulse propagation describes local anesthetics or sodium channel blockers acting on the axon."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-043_ph017_f01.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The diagram depicts the H1 histamine receptor, a seven-transmembrane G protein-coupled receptor. Histamine released from the activated mast cell binds this GPCR to trigger downstream effects (itching, swelling, inflammation); an H1 antagonist occupies the receptor and leaves it inactive, preventing signaling. H1 receptors are not ion channels, kinase receptors, or nuclear receptors.",
         "whyCorrect": "The diagram depicts the H1 histamine receptor, a seven-transmembrane G protein-coupled receptor. Histamine released from the activated mast cell binds this GPCR to trigger downstream effects (itching, swelling, inflammation); an H1 antagonist occupies the receptor and leaves it inactive, preventing signaling. H1 receptors are not ion channels, kinase receptors, or nuclear receptors.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Receptor tyrosine kinases, such as insulin and growth factor receptors, have intrinsic enzymatic activity, unlike H1 receptors.",
+          "C": "Ligand-gated ion channels open a pore directly, as with nicotinic or 5-HT3 receptors; H1 signals through Gq.",
+          "D": "Nuclear hormone receptors are intracellular and bind lipophilic ligands like steroids, not histamine at the cell surface.",
+          "E": "Guanylyl cyclase-linked receptors bind natriuretic peptides and generate cGMP, which is not how histamine acts at H1."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-044_ph018_f01.png",

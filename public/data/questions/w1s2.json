@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "A graded dose-response curve plots the continuous magnitude of drug effect against drug concentration for a single patient, rising sigmoidally to a maximum (Emax) with the half-maximal effect defining the EC50.",
         "whyCorrect": "A graded dose-response curve plots the continuous magnitude of drug effect against drug concentration for a single patient, rising sigmoidally to a maximum (Emax) with the half-maximal effect defining the EC50.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A log-kill curve plots surviving tumor cell fraction against chemotherapy cycles, not effect versus concentration.",
+          "B": "A quantal curve plots the percentage of a population showing an all-or-none response, not the continuous effect magnitude in one system.",
+          "C": "A time-concentration curve plots drug level against time, a pharmacokinetic plot rather than an effect plot.",
+          "D": "A cumulative frequency distribution is how quantal data are displayed across a population, not a single drug's graded effect."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-048_ph028_f01.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "A quantal dose-effect frequency curve is a normal (Gaussian) distribution; the dose at its center, where 50% of the population shows the defined all-or-none response, is the median effective dose, ED50.",
         "whyCorrect": "A quantal dose-effect frequency curve is a normal (Gaussian) distribution; the dose at its center, where 50% of the population shows the defined all-or-none response, is the median effective dose, ED50.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "TD50 is the median dose producing a toxic effect, which comes from a separate toxicity distribution, not the therapeutic response peak.",
+          "C": "EC50 is the concentration giving half-maximal effect on a graded curve in one system, not the median of a population frequency plot.",
+          "D": "LD50 is the median lethal dose, determined from death as the endpoint in animal studies.",
+          "E": "Therapeutic index is a ratio such as TD50/ED50 that compares two curves, not a single central value on one distribution."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-049_ph028_f02.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The greater the separation between the efficacy and toxicity curves, the larger the therapeutic index and the safer the drug, because effective and toxic doses overlap less.",
         "whyCorrect": "The greater the separation between the efficacy and toxicity curves, the larger the therapeutic index and the safer the drug, because effective and toxic doses overlap less.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Half-life describes how fast a drug is eliminated and has no bearing on how far apart the efficacy and toxicity curves lie.",
+          "B": "Maximal efficacy is the height of the efficacy curve's plateau, not its separation from the toxicity curve.",
+          "D": "Onset of action depends on route and absorption kinetics, not on the concentration gap between benefit and harm.",
+          "E": "Potency is the position of the efficacy curve along the concentration axis, independent of where the toxicity curve sits."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-050_ph028_f04.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The therapeutic index is the ratio of a dose producing toxicity/lethality to a dose producing the desired effect (e.g., LD50/ED50 or TD50/ED50); a larger ratio indicates a safer drug.",
         "whyCorrect": "The therapeutic index is the ratio of a dose producing toxicity/lethality to a dose producing the desired effect (e.g., LD50/ED50 or TD50/ED50); a larger ratio indicates a safer drug.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Maximal efficacy (Emax) is the plateau of a graded dose-response curve, not a ratio of two doses.",
+          "B": "A potency ratio compares equi-effective doses of two different drugs, not lethal and effective doses of the same drug.",
+          "D": "Bioavailability is the fraction of an administered dose reaching the systemic circulation, a pharmacokinetic measure.",
+          "E": "Margin of safety is usually defined from curve extremes, such as LD1/ED99, rather than the ratio of median doses."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-051_ph028_f05.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Aspirin irreversibly acetylates a serine in the active site of COX-1, fully inactivating it. For COX-2, the same acetylation does not stop the enzyme but converts its cyclooxygenase activity into a lipoxygenase (LOX) activity, generating anti-inflammatory lipoxins rather than prostaglandins.",
         "whyCorrect": "Aspirin irreversibly acetylates a serine in the active site of COX-1, fully inactivating it. For COX-2, the same acetylation does not stop the enzyme but converts its cyclooxygenase activity into a lipoxygenase (LOX) activity, generating anti-inflammatory lipoxins rather than prostaglandins.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Acetylation never enhances cyclooxygenase activity; it blocks prostaglandin formation in both enzymes.",
+          "B": "Phospholipase A2 releases arachidonic acid from membranes upstream of COX and is a separate enzyme.",
+          "D": "Thromboxane synthase is a distinct platelet enzyme acting on PGH2, and aspirin reduces thromboxane production.",
+          "E": "Acetylated COX-2 still produces a lipid product, 15R-HETE, which leukocytes convert to aspirin-triggered lipoxins."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-030_ph029_f02.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "The rightmost branch product is Thromboxane A2 (TxA2), synthesized largely by platelets. TxA2 is a potent promoter of platelet aggregation and vasoconstriction, which is why aspirin's inhibition of its synthesis produces an antithrombotic effect.",
         "whyCorrect": "The rightmost branch product is Thromboxane A2 (TxA2), synthesized largely by platelets. TxA2 is a potent promoter of platelet aggregation and vasoconstriction, which is why aspirin's inhibition of its synthesis produces an antithrombotic effect.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Gastric acid secretion is driven by histamine, gastrin and acetylcholine; prostaglandins actually inhibit acid and protect the mucosa.",
+          "B": "Inhibiting aggregation and causing vasodilation are actions of prostacyclin (PGI2) from endothelium, which opposes thromboxane.",
+          "C": "Thromboxane A2 constricts airway smooth muscle; bronchodilation is attributed to PGE2.",
+          "E": "Renal sodium excretion is promoted by PGE2 and PGI2 in the kidney, not by platelet-derived thromboxane."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-052_ph029_f01.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "A constant absolute amount of drug removed per unit time, independent of concentration, yields a straight line on a linear plot, characteristic of zero-order kinetics.",
         "whyCorrect": "A constant absolute amount of drug removed per unit time, independent of concentration, yields a straight line on a linear plot, characteristic of zero-order kinetics.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "First-order elimination removes a constant fraction per unit time, giving an exponential curve on a linear axis rather than a straight line.",
+          "C": "Enterohepatic recirculation creates secondary peaks or bumps on the concentration curve, not a straight decline.",
+          "D": "Flow-limited elimination applies to high-extraction drugs and still follows first-order exponential decay.",
+          "E": "Absorption kinetics shape the rising phase; the declining straight line reflects elimination, not absorption."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-031_ph030_f03.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Ethanol (along with phenytoin and aspirin at high doses) is eliminated at a constant amount per unit time because its metabolic pathway is saturated, defining zero-order kinetics.",
         "whyCorrect": "Ethanol (along with phenytoin and aspirin at high doses) is eliminated at a constant amount per unit time because its metabolic pathway is saturated, defining zero-order kinetics.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Penicillin is eliminated by first-order renal tubular secretion, with a constant fraction cleared per unit time.",
+          "B": "Metoprolol is cleared by CYP2D6 with first-order kinetics at therapeutic doses.",
+          "D": "Gentamicin is renally filtered with first-order elimination proportional to concentration and renal function.",
+          "E": "Digoxin is renally excreted with first-order kinetics and a long, constant half-life of about 36-40 hours."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-032_ph030_f04.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "First-order kinetics removes a constant proportion of drug per unit time, so the elimination rate is proportional to concentration and the curve decays exponentially on a linear scale.",
         "whyCorrect": "First-order kinetics removes a constant proportion of drug per unit time, so the elimination rate is proportional to concentration and the curve decays exponentially on a linear scale.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "An increasing fraction eliminated as concentration falls has no standard kinetic basis; first-order removes the same fraction at every concentration.",
+          "B": "Threshold-dependent elimination is not a recognized kinetic order and would not produce smooth exponential decay.",
+          "C": "Elimination continues past half the peak; each successive half-life removes another half of what remains.",
+          "E": "A constant absolute amount per unit time defines zero-order kinetics, which gives a straight line on a linear plot."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-033_ph030_f05.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Because a constant proportion is removed per unit time, the time for concentration to fall by half is fixed regardless of the starting concentration, so half-life is constant in first-order kinetics.",
         "whyCorrect": "Because a constant proportion is removed per unit time, the time for concentration to fall by half is fixed regardless of the starting concentration, so half-life is constant in first-order kinetics.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Maximum elimination capacity is approached only in zero-order kinetics; here the rate changes with concentration, so the drug is well below that capacity.",
+          "C": "The absolute amount eliminated per hour falls as concentration falls (5, then 2.5, then 1.25), so it is not constant.",
+          "D": "Protein binding fraction is a distribution property that is not shown here and does not define first-order elimination.",
+          "E": "Time to eliminate the whole dose grows with dose; in first-order kinetics roughly 4-5 half-lives are needed to clear about 94-97%."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-034_ph030_f06.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "A continuous IV infusion inputs drug at a constant rate equal to the elimination rate at steady state, so concentration plateaus without the peak-trough swings seen with intermittent oral dosing.",
         "whyCorrect": "A continuous IV infusion inputs drug at a constant rate equal to the elimination rate at steady state, so concentration plateaus without the peak-trough swings seen with intermittent oral dosing.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "IV infusions still approach steady state over about 4-5 half-lives; the flat line is the steady-state plateau, not a bypass of it.",
+          "B": "A larger total dose would raise the average concentration but would not by itself remove peak-trough fluctuation.",
+          "C": "Acetaminophen is eliminated by first-order kinetics regardless of route at therapeutic doses.",
+          "E": "Half-life is a property of the drug and patient, not the route; a shorter half-life would increase fluctuation, not flatten it."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-035_ph030_f07.png",

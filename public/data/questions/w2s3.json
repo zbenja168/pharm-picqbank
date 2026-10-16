@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The right panel shows relaxation of prostatic and bladder-neck smooth muscle with a dilated urethra, the effect of a selective alpha-1 (alpha-1A) receptor antagonist. Tamsulosin is the uroselective alpha-1A blocker used to relieve the obstructive urinary symptoms of benign prostatic hyperplasia. Finasteride shrinks the gland by a different (5-alpha-reductase) mechanism, sildenafil is a PDE-5 inhibitor, phenylephrine is an alpha-1 agonist that would worsen obstruction, and propranolol is a beta-blocker.",
         "whyCorrect": "The right panel shows relaxation of prostatic and bladder-neck smooth muscle with a dilated urethra, the effect of a selective alpha-1 (alpha-1A) receptor antagonist. Tamsulosin is the uroselective alpha-1A blocker used to relieve the obstructive urinary symptoms of benign prostatic hyperplasia. Finasteride shrinks the gland by a different (5-alpha-reductase) mechanism, sildenafil is a PDE-5 inhibitor, phenylephrine is an alpha-1 agonist that would worsen obstruction, and propranolol is a beta-blocker.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Finasteride inhibits 5-alpha-reductase, shrinking the gland over months by lowering DHT rather than relaxing smooth muscle.",
+          "C": "Phenylephrine is an alpha1 agonist that contracts prostatic and bladder-neck smooth muscle, worsening obstruction.",
+          "D": "Propranolol is a beta-blocker with no meaningful effect on alpha1-mediated prostatic smooth muscle tone.",
+          "E": "Sildenafil is a PDE-5 inhibitor used for erectile dysfunction; tadalafil has a BPH indication, but sildenafil does not produce this alpha1-blockade effect."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-011_ph007_f01.png",

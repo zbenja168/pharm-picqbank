@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The diagram shows renin acting on angiotensinogen to form angiotensin I, ACE converting it to angiotensin II, and downstream aldosterone secretion, which is the classic renin-angiotensin-aldosterone system (RAAS) that regulates blood pressure and volume.",
         "whyCorrect": "The diagram shows renin acting on angiotensinogen to form angiotensin I, ACE converting it to angiotensin II, and downstream aldosterone secretion, which is the classic renin-angiotensin-aldosterone system (RAAS) that regulates blood pressure and volume.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The baroreceptor reflex is a neural loop from carotid and aortic sensors through the brainstem, not an enzyme cascade starting in the kidney.",
+          "B": "The HPA axis runs from CRH to ACTH to cortisol, starting in the hypothalamus, not the kidney.",
+          "C": "The kallikrein-kinin system generates bradykinin, which ACE degrades, but it does not produce angiotensin or aldosterone.",
+          "D": "ANP comes from atrial myocytes in response to stretch and opposes, rather than drives, aldosterone secretion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-045_ph023_f01.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Angiotensin II normally constricts the efferent arteriole to maintain glomerular pressure and filtration. When RAAS inhibitors dilate the efferent arteriole, glomerular hydrostatic pressure and GFR fall, which can precipitate prerenal acute kidney injury in low-flow states.",
         "whyCorrect": "Angiotensin II normally constricts the efferent arteriole to maintain glomerular pressure and filtration. When RAAS inhibitors dilate the efferent arteriole, glomerular hydrostatic pressure and GFR fall, which can precipitate prerenal acute kidney injury in low-flow states.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Efferent dilation lets blood leave the glomerulus more easily, lowering, not raising, glomerular hydrostatic pressure.",
+          "B": "Loss of angiotensin II tone acts on the efferent arteriole; afferent constriction comes from NSAIDs or sympathetic tone.",
+          "C": "Bowman capsule does not reabsorb sodium; reabsorption happens along the tubule.",
+          "D": "Lower glomerular pressure after efferent dilation does not rupture capillaries; it reduces filtration."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-046_ph023_f03.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "NSAIDs inhibit prostaglandin synthesis, constricting the afferent arteriole and reducing renal blood flow. Combined with RAAS inhibitors that dilate the efferent arteriole, this greatly increases the risk of acute kidney injury.",
         "whyCorrect": "NSAIDs inhibit prostaglandin synthesis, constricting the afferent arteriole and reducing renal blood flow. Combined with RAAS inhibitors that dilate the efferent arteriole, this greatly increases the risk of acute kidney injury.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Angiotensin receptor blockers act on the efferent arteriole by removing angiotensin II tone, the RAAS effect already shown.",
+          "B": "Potassium-sparing diuretics act in the collecting duct and do not reduce prostaglandin-mediated afferent dilation.",
+          "C": "Direct renin inhibitors such as aliskiren block RAAS upstream and also act on the efferent side, not via prostaglandins.",
+          "D": "Mineralocorticoid antagonists block aldosterone in the collecting duct and do not affect afferent prostaglandins."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-047_ph023_f05.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The agent depicted is metformin. In skeletal muscle it activates AMPK, the cellular sensor of AMP:ATP and ADP:ATP ratios, which drives GLUT-4 translocation to the membrane and increases insulin-mediated glucose uptake. Metformin also decreases hepatic gluconeogenesis and glycogenolysis and reduces intestinal glucose absorption, together improving insulin sensitivity.",
         "whyCorrect": "The agent depicted is metformin. In skeletal muscle it activates AMPK, the cellular sensor of AMP:ATP and ADP:ATP ratios, which drives GLUT-4 translocation to the membrane and increases insulin-mediated glucose uptake. Metformin also decreases hepatic gluconeogenesis and glycogenolysis and reduces intestinal glucose absorption, together improving insulin sensitivity.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Protein kinase A is activated by cAMP downstream of Gs-coupled receptors such as glucagon receptors, not by metformin.",
+          "B": "SGLT2 is a renal sodium-glucose transporter inhibited by gliflozins, not an energy-sensing pathway in muscle.",
+          "C": "mTORC1 promotes growth in nutrient-rich states and is inhibited, not activated, by AMPK signaling.",
+          "D": "PKG is activated by cGMP from nitric oxide or natriuretic peptides and is not the metformin pathway."
+        }
       },
       "difficulty": "medium",
       "imageRef": "phpic-025_ph024_f02.png",
