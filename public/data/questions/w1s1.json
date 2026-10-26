@@ -3,6 +3,50 @@
   "categoryName": "Session 1",
   "questions": [
     {
+      "id": "phpic-029",
+      "topicId": "pharmacodynamics-receptor-agonists-and-antagonists",
+      "topicName": "Pharmacodynamics: Receptor Agonists and Antagonists",
+      "stem": "In this schematic, three drugs bind the same membrane receptor: the middle molecule triggers a cellular 'Effect' while the rightmost molecule occupies the receptor but produces 'No effect.' What best explains the mechanism of the rightmost drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It binds and fully activates the receptor to trigger signaling"
+        },
+        {
+          "label": "B",
+          "text": "It reduces the receptor's baseline constitutive activity below normal"
+        },
+        {
+          "label": "C",
+          "text": "It partially activates the receptor to give a submaximal response"
+        },
+        {
+          "label": "D",
+          "text": "It is the endogenous ligand that normally activates the receptor"
+        },
+        {
+          "label": "E",
+          "text": "It binds the receptor without activating it, blocking agonist access"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "An antagonist occupies the receptor and prevents agonist binding/activation, producing no downstream effect, in contrast to the agonist which activates signaling.",
+        "whyCorrect": "An antagonist occupies the receptor and prevents agonist binding/activation, producing no downstream effect, in contrast to the agonist which activates signaling.",
+        "whyWrongByChoice": {
+          "A": "Binding and fully activating the receptor describes a full agonist like the middle molecule, which produces an effect.",
+          "B": "Reducing constitutive activity below baseline describes an inverse agonist, which produces an opposite effect rather than no effect.",
+          "C": "A partial agonist produces a submaximal response, still an effect, unlike the drug shown that produces none.",
+          "D": "The endogenous ligand activates its receptor and produces a response; the rightmost drug occupies the receptor without doing so."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-029_ph027_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
       "id": "phpic-017",
       "topicId": "pharmacokinetics-drug-absorption-and-distribution",
       "topicName": "Pharmacokinetics: Drug Absorption and Distribution",
@@ -218,50 +262,6 @@
       },
       "difficulty": "medium",
       "imageRef": "phpic-028_ph026_f03.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "phpic-029",
-      "topicId": "pharmacodynamics-receptor-agonists-and-antagonists",
-      "topicName": "Pharmacodynamics: Receptor Agonists and Antagonists",
-      "stem": "In this schematic, three drugs bind the same membrane receptor: the middle molecule triggers a cellular 'Effect' while the rightmost molecule occupies the receptor but produces 'No effect.' What best explains the mechanism of the rightmost drug?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "It binds and fully activates the receptor to trigger signaling"
-        },
-        {
-          "label": "B",
-          "text": "It reduces the receptor's baseline constitutive activity below normal"
-        },
-        {
-          "label": "C",
-          "text": "It partially activates the receptor to give a submaximal response"
-        },
-        {
-          "label": "D",
-          "text": "It is the endogenous ligand that normally activates the receptor"
-        },
-        {
-          "label": "E",
-          "text": "It binds the receptor without activating it, blocking agonist access"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "An antagonist occupies the receptor and prevents agonist binding/activation, producing no downstream effect, in contrast to the agonist which activates signaling.",
-        "whyCorrect": "An antagonist occupies the receptor and prevents agonist binding/activation, producing no downstream effect, in contrast to the agonist which activates signaling.",
-        "whyWrongByChoice": {
-          "A": "Binding and fully activating the receptor describes a full agonist like the middle molecule, which produces an effect.",
-          "B": "Reducing constitutive activity below baseline describes an inverse agonist, which produces an opposite effect rather than no effect.",
-          "C": "A partial agonist produces a submaximal response, still an effect, unlike the drug shown that produces none.",
-          "D": "The endogenous ligand activates its receptor and produces a response; the rightmost drug occupies the receptor without doing so."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "phpic-029_ph027_f01.png",
       "tags": [
         "picture"
       ]

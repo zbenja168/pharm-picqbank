@@ -1,0 +1,534 @@
+{
+  "categoryId": "more",
+  "categoryName": "More topics",
+  "questions": [
+    {
+      "id": "phpic-004",
+      "topicId": "steroids",
+      "topicName": "Steroids",
+      "stem": "This illustration summarizes the long-term effects of chronic corticosteroid excess, including central obesity, a rounded face, a dorsocervical fat pad, and purple abdominal striae. What is the primary mechanism producing the purple striae and thin, fragile skin shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucocorticoid-induced inhibition of collagen synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Dermal edema from sodium and water retention"
+        },
+        {
+          "label": "C",
+          "text": "Subcutaneous fat necrosis and calcification"
+        },
+        {
+          "label": "D",
+          "text": "Chronic venous congestion of dermal vessels"
+        },
+        {
+          "label": "E",
+          "text": "Increased melanocyte-stimulating hormone and melanin deposition"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic glucocorticoid exposure suppresses fibroblast activity and collagen synthesis while promoting protein breakdown, thinning the dermis. The weakened, thin skin stretches over expanding central fat and tears, exposing dermal vasculature as the characteristic wide purple striae seen in iatrogenic Cushing syndrome.",
+        "whyCorrect": "Chronic glucocorticoid exposure suppresses fibroblast activity and collagen synthesis while promoting protein breakdown, thinning the dermis. The weakened, thin skin stretches over expanding central fat and tears, exposing dermal vasculature as the characteristic wide purple striae seen in iatrogenic Cushing syndrome.",
+        "whyWrongByChoice": {
+          "B": "Sodium and water retention from mineralocorticoid effects causes edema and hypertension, but not thin skin with purple striae.",
+          "C": "Subcutaneous fat necrosis and calcification occur in pancreatitis or newborn trauma, not glucocorticoid excess.",
+          "D": "Venous congestion causes stasis changes and edema of the legs, not abdominal striae and fragile skin.",
+          "E": "MSH-driven hyperpigmentation occurs with high ACTH, as in Addison disease or ectopic ACTH, and does not cause striae."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-004_ph003_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-002",
+      "topicId": "pde-5-inhibitors",
+      "topicName": "PDE-5 Inhibitors",
+      "stem": "This diagram depicts the paired spongy erectile columns that run the length of the penis. During normal sexual arousal, what event directly causes these structures to become rigid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Venous constriction traps lymphatic fluid within the tissue"
+        },
+        {
+          "label": "B",
+          "text": "Contraction of the surrounding skeletal muscle compresses the shaft"
+        },
+        {
+          "label": "C",
+          "text": "Smooth muscle relaxation allows blood to fill the sinusoidal spaces"
+        },
+        {
+          "label": "D",
+          "text": "Accumulation of interstitial edema stiffens the connective tissue"
+        },
+        {
+          "label": "E",
+          "text": "Increased sympathetic tone drives arterial vasoconstriction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Erection results from nitric oxide-driven relaxation of the arterial and trabecular smooth muscle within the corpora cavernosa, which increases arterial inflow and fills the sinusoidal spaces with blood, producing rigidity. This is the target pathway of PDE-5 inhibitors.",
+        "whyCorrect": "Erection results from nitric oxide-driven relaxation of the arterial and trabecular smooth muscle within the corpora cavernosa, which increases arterial inflow and fills the sinusoidal spaces with blood, producing rigidity. This is the target pathway of PDE-5 inhibitors.",
+        "whyWrongByChoice": {
+          "A": "Erection depends on trapping blood, not lymph; venous outflow is compressed passively once the sinusoids fill.",
+          "B": "Skeletal muscles like the ischiocavernosus can enhance rigidity, but the primary event is smooth muscle relaxation with arterial inflow.",
+          "D": "Interstitial edema does not produce erection; rigidity comes from blood filling the cavernous sinusoids.",
+          "E": "Sympathetic tone causes vasoconstriction and detumescence; erection is a parasympathetic, NO-mediated event."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-002_ph013_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-021",
+      "topicId": "cholinergics-and-anticholinergics",
+      "topicName": "Cholinergics and Anticholinergics",
+      "stem": "A patient presents with the constellation of findings depicted here (blind as a bat, dry as a bone, red as a beet, hot as a hare, mad as a hatter). Which agent is used to reverse this toxidrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atropine"
+        },
+        {
+          "label": "B",
+          "text": "Physostigmine"
+        },
+        {
+          "label": "C",
+          "text": "Flumazenil"
+        },
+        {
+          "label": "D",
+          "text": "Naloxone"
+        },
+        {
+          "label": "E",
+          "text": "Pralidoxime"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The illustration depicts the anticholinergic (antimuscarinic) toxidrome. Physostigmine, a centrally acting acetylcholinesterase inhibitor, raises synaptic acetylcholine to overcome muscarinic blockade and is the antidote. Atropine would worsen it, pralidoxime treats organophosphate poisoning, naloxone reverses opioids, and flumazenil reverses benzodiazepines.",
+        "whyCorrect": "The illustration depicts the anticholinergic (antimuscarinic) toxidrome. Physostigmine, a centrally acting acetylcholinesterase inhibitor, raises synaptic acetylcholine to overcome muscarinic blockade and is the antidote. Atropine would worsen it, pralidoxime treats organophosphate poisoning, naloxone reverses opioids, and flumazenil reverses benzodiazepines.",
+        "whyWrongByChoice": {
+          "A": "Atropine is a muscarinic antagonist that causes this toxidrome; giving it would worsen symptoms.",
+          "C": "Flumazenil reverses benzodiazepine sedation and does not counter muscarinic blockade.",
+          "D": "Naloxone reverses opioid toxicity, with miosis and respiratory depression, not anticholinergic signs.",
+          "E": "Pralidoxime regenerates acetylcholinesterase after organophosphate poisoning, the opposite (cholinergic) toxidrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-021_ph017_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-043",
+      "topicId": "cholinergics-and-anticholinergics",
+      "topicName": "Cholinergics and Anticholinergics",
+      "stem": "Based on this illustration of a cholinergic synapse, how do the antagonist molecules shown at the target cell membrane produce their pharmacologic effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They block the release of acetylcholine from the synaptic vesicles"
+        },
+        {
+          "label": "B",
+          "text": "They competitively occupy the muscarinic receptors"
+        },
+        {
+          "label": "C",
+          "text": "They directly activate the receptors to mimic acetylcholine"
+        },
+        {
+          "label": "D",
+          "text": "They enzymatically degrade acetylcholine within the synaptic cleft"
+        },
+        {
+          "label": "E",
+          "text": "They prevent the nerve impulse from reaching the presynaptic terminal"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Anticholinergics are muscarinic antagonists that act by competitive inhibition, binding the receptor without activating it so that endogenous acetylcholine cannot exert its effect on the target cell.",
+        "whyCorrect": "Anticholinergics are muscarinic antagonists that act by competitive inhibition, binding the receptor without activating it so that endogenous acetylcholine cannot exert its effect on the target cell.",
+        "whyWrongByChoice": {
+          "A": "Blocking vesicular acetylcholine release is how botulinum toxin works, acting presynaptically rather than at the target cell receptor.",
+          "C": "Directly activating receptors to mimic acetylcholine describes agonists like bethanechol or pilocarpine.",
+          "D": "Degrading acetylcholine in the cleft is the job of acetylcholinesterase, not a receptor antagonist.",
+          "E": "Preventing nerve impulse propagation describes local anesthetics or sodium channel blockers acting on the axon."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-043_ph017_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-044",
+      "topicId": "h1-blockers-antihistamines",
+      "topicName": "H1 Blockers: Antihistamines",
+      "stem": "The schematic contrasts the normal action of the labeled mediator on its receptor (left) with drug therapy that occupies the same receptor (right). To which receptor superfamily does the receptor depicted in this diagram belong?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "G protein-coupled receptor"
+        },
+        {
+          "label": "B",
+          "text": "Receptor tyrosine kinase"
+        },
+        {
+          "label": "C",
+          "text": "Ligand-gated ion channel"
+        },
+        {
+          "label": "D",
+          "text": "Intracellular nuclear hormone receptor"
+        },
+        {
+          "label": "E",
+          "text": "Guanylyl cyclase-linked receptor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The diagram depicts the H1 histamine receptor, a seven-transmembrane G protein-coupled receptor. Histamine released from the activated mast cell binds this GPCR to trigger downstream effects (itching, swelling, inflammation); an H1 antagonist occupies the receptor and leaves it inactive, preventing signaling. H1 receptors are not ion channels, kinase receptors, or nuclear receptors.",
+        "whyCorrect": "The diagram depicts the H1 histamine receptor, a seven-transmembrane G protein-coupled receptor. Histamine released from the activated mast cell binds this GPCR to trigger downstream effects (itching, swelling, inflammation); an H1 antagonist occupies the receptor and leaves it inactive, preventing signaling. H1 receptors are not ion channels, kinase receptors, or nuclear receptors.",
+        "whyWrongByChoice": {
+          "B": "Receptor tyrosine kinases, such as insulin and growth factor receptors, have intrinsic enzymatic activity, unlike H1 receptors.",
+          "C": "Ligand-gated ion channels open a pore directly, as with nicotinic or 5-HT3 receptors; H1 signals through Gq.",
+          "D": "Nuclear hormone receptors are intracellular and bind lipophilic ligands like steroids, not histamine at the cell surface.",
+          "E": "Guanylyl cyclase-linked receptors bind natriuretic peptides and generate cGMP, which is not how histamine acts at H1."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-044_ph018_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-022",
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "stem": "This general chemical structure has a tetrahedral phosphorus center. Its shape is pharmacologically significant because it resembles what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The oxime reactivator (2-PAM) structure"
+        },
+        {
+          "label": "B",
+          "text": "The acetylcholine molecule itself"
+        },
+        {
+          "label": "C",
+          "text": "The transition state of ester hydrolysis"
+        },
+        {
+          "label": "D",
+          "text": "The muscarinic receptor binding pocket"
+        },
+        {
+          "label": "E",
+          "text": "The carbamate ester reaction intermediate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Organophosphorus inhibitors are tetrahedral, mimicking the transition state formed during carboxyl ester hydrolysis at the enzyme's active site, which allows them to bind acetylcholinesterase and phosphorylate it.",
+        "whyCorrect": "Organophosphorus inhibitors are tetrahedral, mimicking the transition state formed during carboxyl ester hydrolysis at the enzyme's active site, which allows them to bind acetylcholinesterase and phosphorylate it.",
+        "whyWrongByChoice": {
+          "A": "Pralidoxime is a separate reactivator that pulls the phosphate off the enzyme; its structure is not what organophosphates mimic.",
+          "B": "Acetylcholine has a planar ester carbonyl, not a tetrahedral center; organophosphates mimic the tetrahedral intermediate of its hydrolysis.",
+          "D": "Organophosphates target the acetylcholinesterase active-site serine, not muscarinic receptors.",
+          "E": "Carbamates form a carbamylated enzyme that hydrolyzes over minutes to hours; organophosphates are not modeled on that intermediate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-022_ph019_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-023",
+      "topicId": "opioid-agonists",
+      "topicName": "Opioid Agonists",
+      "stem": "This figure maps the distribution of the three primary opioid receptor subtypes across CNS regions such as the thalamus, caudate, putamen, hippocampus, amygdala, and nucleus accumbens. Which receptor subtype is primarily responsible for the analgesic and euphoric effects of most clinically used opioid agonists?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nociceptin (NOP) receptor"
+        },
+        {
+          "label": "B",
+          "text": "Kappa (κ) receptor"
+        },
+        {
+          "label": "C",
+          "text": "Sigma (σ) receptor"
+        },
+        {
+          "label": "D",
+          "text": "Mu (μ) receptor"
+        },
+        {
+          "label": "E",
+          "text": "Delta (δ) receptor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Most clinically used opioid agonists act primarily at mu (μ) receptors, which mediate analgesia, euphoria, respiratory depression, and dependence. Kappa and delta receptors modulate these effects and contribute to other actions but are not the main analgesic target.",
+        "whyCorrect": "Most clinically used opioid agonists act primarily at mu (μ) receptors, which mediate analgesia, euphoria, respiratory depression, and dependence. Kappa and delta receptors modulate these effects and contribute to other actions but are not the main analgesic target.",
+        "whyWrongByChoice": {
+          "A": "The NOP (nociceptin) receptor is an opioid-related receptor that does not mediate the analgesia and euphoria of morphine-like drugs.",
+          "B": "Kappa receptors mediate spinal analgesia, dysphoria and diuresis, not the euphoria of typical opioid agonists.",
+          "C": "Sigma receptors are no longer classified as opioid receptors and mediate dysphoric and psychotomimetic effects.",
+          "E": "Delta receptors modulate analgesia and mood but are not the main target of clinically used opioids."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-023_ph022_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-024",
+      "topicId": "opioid-agonists",
+      "topicName": "Opioid Agonists",
+      "stem": "This schematic shows sites of opioid receptor action along the neuraxis, including the dorsal horn of the spinal cord. What is the primary mechanism by which opioid receptor activation at the dorsal horn produces analgesia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of voltage-gated sodium channels on motor neurons"
+        },
+        {
+          "label": "B",
+          "text": "Increased substance P release from primary afferents"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of nociceptive neurotransmitter release"
+        },
+        {
+          "label": "D",
+          "text": "Enhancement of glutamate release onto second-order neurons"
+        },
+        {
+          "label": "E",
+          "text": "Activation of descending serotonergic excitation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In the dorsal horn, presynaptic opioid receptors reduce calcium influx and inhibit release of excitatory neurotransmitters (e.g., substance P, glutamate) from primary afferents, while postsynaptic hyperpolarization decreases transmission of nociceptive signals, producing analgesia.",
+        "whyCorrect": "In the dorsal horn, presynaptic opioid receptors reduce calcium influx and inhibit release of excitatory neurotransmitters (e.g., substance P, glutamate) from primary afferents, while postsynaptic hyperpolarization decreases transmission of nociceptive signals, producing analgesia.",
+        "whyWrongByChoice": {
+          "A": "Opioids do not block sodium channels on motor neurons; that action belongs to local anesthetics and would cause weakness.",
+          "B": "Opioids reduce, not increase, substance P release from primary afferent terminals.",
+          "D": "Opioids decrease glutamate release onto second-order neurons; enhancing it would increase pain transmission.",
+          "E": "Opioids engage descending inhibitory, not excitatory, pathways from the brainstem, and the dorsal horn action itself is local inhibition of transmitter release."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-024_ph022_f02.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-045",
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "stem": "This schematic traces the sequence of hormones and enzymes shown moving from the kidney to the lung and adrenal gland. Which physiologic system is being depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sympathetic baroreceptor reflex"
+        },
+        {
+          "label": "B",
+          "text": "Hypothalamic-pituitary-adrenal axis"
+        },
+        {
+          "label": "C",
+          "text": "Kallikrein-kinin bradykinin cascade"
+        },
+        {
+          "label": "D",
+          "text": "Atrial natriuretic peptide pathway"
+        },
+        {
+          "label": "E",
+          "text": "Renin-angiotensin-aldosterone system"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The diagram shows renin acting on angiotensinogen to form angiotensin I, ACE converting it to angiotensin II, and downstream aldosterone secretion, which is the classic renin-angiotensin-aldosterone system (RAAS) that regulates blood pressure and volume.",
+        "whyCorrect": "The diagram shows renin acting on angiotensinogen to form angiotensin I, ACE converting it to angiotensin II, and downstream aldosterone secretion, which is the classic renin-angiotensin-aldosterone system (RAAS) that regulates blood pressure and volume.",
+        "whyWrongByChoice": {
+          "A": "The baroreceptor reflex is a neural loop from carotid and aortic sensors through the brainstem, not an enzyme cascade starting in the kidney.",
+          "B": "The HPA axis runs from CRH to ACTH to cortisol, starting in the hypothalamus, not the kidney.",
+          "C": "The kallikrein-kinin system generates bradykinin, which ACE degrades, but it does not produce angiotensin or aldosterone.",
+          "D": "ANP comes from atrial myocytes in response to stretch and opposes, rather than drives, aldosterone secretion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-045_ph023_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-046",
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "stem": "Comparing the left and right glomeruli in this figure, the right one shows a dilated efferent arteriole after RAAS blockade. What is the direct consequence of losing angiotensin II-mediated efferent arteriolar tone shown here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased glomerular hydrostatic pressure"
+        },
+        {
+          "label": "B",
+          "text": "Constriction of the afferent arteriole"
+        },
+        {
+          "label": "C",
+          "text": "Increased sodium reabsorption in Bowman capsule"
+        },
+        {
+          "label": "D",
+          "text": "Rupture of the glomerular capillary tuft"
+        },
+        {
+          "label": "E",
+          "text": "Decreased glomerular filtration rate"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Angiotensin II normally constricts the efferent arteriole to maintain glomerular pressure and filtration. When RAAS inhibitors dilate the efferent arteriole, glomerular hydrostatic pressure and GFR fall, which can precipitate prerenal acute kidney injury in low-flow states.",
+        "whyCorrect": "Angiotensin II normally constricts the efferent arteriole to maintain glomerular pressure and filtration. When RAAS inhibitors dilate the efferent arteriole, glomerular hydrostatic pressure and GFR fall, which can precipitate prerenal acute kidney injury in low-flow states.",
+        "whyWrongByChoice": {
+          "A": "Efferent dilation lets blood leave the glomerulus more easily, lowering, not raising, glomerular hydrostatic pressure.",
+          "B": "Loss of angiotensin II tone acts on the efferent arteriole; afferent constriction comes from NSAIDs or sympathetic tone.",
+          "C": "Bowman capsule does not reabsorb sodium; reabsorption happens along the tubule.",
+          "D": "Lower glomerular pressure after efferent dilation does not rupture capillaries; it reduces filtration."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-046_ph023_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-047",
+      "topicId": "renin-angiotensin-aldosterone-system-inhibitors",
+      "topicName": "Renin-Angiotensin-Aldosterone System Inhibitors",
+      "stem": "This diagram of a glomerulus shows a second drug class acting on the afferent arteriole by reducing vasodilator prostaglandins, compounding the efferent effect of RAAS inhibitors. Which drug class produces the afferent effect shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Angiotensin receptor blockers"
+        },
+        {
+          "label": "B",
+          "text": "Potassium-sparing diuretics"
+        },
+        {
+          "label": "C",
+          "text": "Direct renin inhibitors"
+        },
+        {
+          "label": "D",
+          "text": "Mineralocorticoid receptor antagonists"
+        },
+        {
+          "label": "E",
+          "text": "NSAIDs"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "NSAIDs inhibit prostaglandin synthesis, constricting the afferent arteriole and reducing renal blood flow. Combined with RAAS inhibitors that dilate the efferent arteriole, this greatly increases the risk of acute kidney injury.",
+        "whyCorrect": "NSAIDs inhibit prostaglandin synthesis, constricting the afferent arteriole and reducing renal blood flow. Combined with RAAS inhibitors that dilate the efferent arteriole, this greatly increases the risk of acute kidney injury.",
+        "whyWrongByChoice": {
+          "A": "Angiotensin receptor blockers act on the efferent arteriole by removing angiotensin II tone, the RAAS effect already shown.",
+          "B": "Potassium-sparing diuretics act in the collecting duct and do not reduce prostaglandin-mediated afferent dilation.",
+          "C": "Direct renin inhibitors such as aliskiren block RAAS upstream and also act on the efferent side, not via prostaglandins.",
+          "D": "Mineralocorticoid antagonists block aldosterone in the collecting duct and do not affect afferent prostaglandins."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-047_ph023_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-025",
+      "topicId": "metformin-glp-1-ra-and-sglt2-inhibitors",
+      "topicName": "Metformin, GLP-1 RA, and SGLT2 Inhibitors",
+      "stem": "This figure maps the multi-organ actions of a first-line biguanide acting on liver, intestine, and skeletal muscle. Which cellular energy-sensing pathway does it activate in skeletal muscle to enhance glucose uptake?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Protein kinase A (PKA)"
+        },
+        {
+          "label": "B",
+          "text": "Sodium-glucose cotransporter 2 (SGLT2)"
+        },
+        {
+          "label": "C",
+          "text": "mTOR complex 1 (mTORC1)"
+        },
+        {
+          "label": "D",
+          "text": "Cyclic GMP-dependent protein kinase (PKG)"
+        },
+        {
+          "label": "E",
+          "text": "AMP-activated protein kinase (AMPK)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The agent depicted is metformin. In skeletal muscle it activates AMPK, the cellular sensor of AMP:ATP and ADP:ATP ratios, which drives GLUT-4 translocation to the membrane and increases insulin-mediated glucose uptake. Metformin also decreases hepatic gluconeogenesis and glycogenolysis and reduces intestinal glucose absorption, together improving insulin sensitivity.",
+        "whyCorrect": "The agent depicted is metformin. In skeletal muscle it activates AMPK, the cellular sensor of AMP:ATP and ADP:ATP ratios, which drives GLUT-4 translocation to the membrane and increases insulin-mediated glucose uptake. Metformin also decreases hepatic gluconeogenesis and glycogenolysis and reduces intestinal glucose absorption, together improving insulin sensitivity.",
+        "whyWrongByChoice": {
+          "A": "Protein kinase A is activated by cAMP downstream of Gs-coupled receptors such as glucagon receptors, not by metformin.",
+          "B": "SGLT2 is a renal sodium-glucose transporter inhibited by gliflozins, not an energy-sensing pathway in muscle.",
+          "C": "mTORC1 promotes growth in nutrient-rich states and is inhibited, not activated, by AMPK signaling.",
+          "D": "PKG is activated by cGMP from nitric oxide or natriuretic peptides and is not the metformin pathway."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-025_ph024_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

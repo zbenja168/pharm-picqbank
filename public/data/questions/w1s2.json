@@ -3,6 +3,226 @@
   "categoryName": "Session 2",
   "questions": [
     {
+      "id": "phpic-031",
+      "topicId": "pharmacokinetics-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics: Volume of Distribution and Elimination Kinetics",
+      "stem": "This plasma drug concentration versus time plot is a straight, linearly declining line. What elimination kinetics does this pattern represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "First-order elimination"
+        },
+        {
+          "label": "B",
+          "text": "Zero-order elimination"
+        },
+        {
+          "label": "C",
+          "text": "Enterohepatic recirculation"
+        },
+        {
+          "label": "D",
+          "text": "Flow-limited elimination"
+        },
+        {
+          "label": "E",
+          "text": "Concentration-independent absorption"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A constant absolute amount of drug removed per unit time, independent of concentration, yields a straight line on a linear plot, characteristic of zero-order kinetics.",
+        "whyCorrect": "A constant absolute amount of drug removed per unit time, independent of concentration, yields a straight line on a linear plot, characteristic of zero-order kinetics.",
+        "whyWrongByChoice": {
+          "A": "First-order elimination removes a constant fraction per unit time, giving an exponential curve on a linear axis rather than a straight line.",
+          "C": "Enterohepatic recirculation creates secondary peaks or bumps on the concentration curve, not a straight decline.",
+          "D": "Flow-limited elimination applies to high-extraction drugs and still follows first-order exponential decay.",
+          "E": "Absorption kinetics shape the rising phase; the declining straight line reflects elimination, not absorption."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-031_ph030_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-032",
+      "topicId": "pharmacokinetics-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics: Volume of Distribution and Elimination Kinetics",
+      "stem": "This schematic shows a constant 2.5 units/h of drug removed at every concentration step. Which drug is a classic clinical example of this saturable elimination pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Penicillin"
+        },
+        {
+          "label": "B",
+          "text": "Metoprolol"
+        },
+        {
+          "label": "C",
+          "text": "Ethanol"
+        },
+        {
+          "label": "D",
+          "text": "Gentamicin"
+        },
+        {
+          "label": "E",
+          "text": "Digoxin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ethanol (along with phenytoin and aspirin at high doses) is eliminated at a constant amount per unit time because its metabolic pathway is saturated, defining zero-order kinetics.",
+        "whyCorrect": "Ethanol (along with phenytoin and aspirin at high doses) is eliminated at a constant amount per unit time because its metabolic pathway is saturated, defining zero-order kinetics.",
+        "whyWrongByChoice": {
+          "A": "Penicillin is eliminated by first-order renal tubular secretion, with a constant fraction cleared per unit time.",
+          "B": "Metoprolol is cleared by CYP2D6 with first-order kinetics at therapeutic doses.",
+          "D": "Gentamicin is renally filtered with first-order elimination proportional to concentration and renal function.",
+          "E": "Digoxin is renally excreted with first-order kinetics and a long, constant half-life of about 36-40 hours."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-032_ph030_f04.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-033",
+      "topicId": "pharmacokinetics-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics: Volume of Distribution and Elimination Kinetics",
+      "stem": "On a linear y-axis, this plasma concentration versus time curve declines exponentially rather than as a straight line. What does the exponential shape indicate about elimination?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An increasing fraction is eliminated as concentration falls"
+        },
+        {
+          "label": "B",
+          "text": "Drug is eliminated only above a threshold concentration"
+        },
+        {
+          "label": "C",
+          "text": "Elimination stops once concentration reaches half the peak"
+        },
+        {
+          "label": "D",
+          "text": "A constant fraction of drug is eliminated per unit time"
+        },
+        {
+          "label": "E",
+          "text": "A constant absolute amount of drug is eliminated per unit time"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "First-order kinetics removes a constant proportion of drug per unit time, so the elimination rate is proportional to concentration and the curve decays exponentially on a linear scale.",
+        "whyCorrect": "First-order kinetics removes a constant proportion of drug per unit time, so the elimination rate is proportional to concentration and the curve decays exponentially on a linear scale.",
+        "whyWrongByChoice": {
+          "A": "An increasing fraction eliminated as concentration falls has no standard kinetic basis; first-order removes the same fraction at every concentration.",
+          "B": "Threshold-dependent elimination is not a recognized kinetic order and would not produce smooth exponential decay.",
+          "C": "Elimination continues past half the peak; each successive half-life removes another half of what remains.",
+          "E": "A constant absolute amount per unit time defines zero-order kinetics, which gives a straight line on a linear plot."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-033_ph030_f05.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-034",
+      "topicId": "pharmacokinetics-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics: Volume of Distribution and Elimination Kinetics",
+      "stem": "In this schematic the elimination rate halves as concentration halves (5 to 2.5 to 1.25 units/h). What quantity remains constant across all concentrations for such a drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The half-life"
+        },
+        {
+          "label": "B",
+          "text": "The maximum metabolic elimination capacity"
+        },
+        {
+          "label": "C",
+          "text": "The absolute amount of drug eliminated per hour"
+        },
+        {
+          "label": "D",
+          "text": "The fraction of drug bound to plasma protein"
+        },
+        {
+          "label": "E",
+          "text": "The time required to eliminate the entire dose"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Because a constant proportion is removed per unit time, the time for concentration to fall by half is fixed regardless of the starting concentration, so half-life is constant in first-order kinetics.",
+        "whyCorrect": "Because a constant proportion is removed per unit time, the time for concentration to fall by half is fixed regardless of the starting concentration, so half-life is constant in first-order kinetics.",
+        "whyWrongByChoice": {
+          "B": "Maximum elimination capacity is approached only in zero-order kinetics; here the rate changes with concentration, so the drug is well below that capacity.",
+          "C": "The absolute amount eliminated per hour falls as concentration falls (5, then 2.5, then 1.25), so it is not constant.",
+          "D": "Protein binding fraction is a distribution property that is not shown here and does not define first-order elimination.",
+          "E": "Time to eliminate the whole dose grows with dose; in first-order kinetics roughly 4-5 half-lives are needed to clear about 94-97%."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-034_ph030_f06.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-035",
+      "topicId": "pharmacokinetics-volume-of-distribution-and-elimination-kinetics",
+      "topicName": "Pharmacokinetics: Volume of Distribution and Elimination Kinetics",
+      "stem": "This graph compares steady-state acetaminophen concentrations for three formulations. The intravenous curve is nearly flat while the oral curves oscillate between peaks and troughs. What best explains the flat intravenous profile?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intravenous drug bypasses steady state entirely"
+        },
+        {
+          "label": "B",
+          "text": "Intravenous dosing uses a far larger total dose"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous drug is not subject to first-order elimination"
+        },
+        {
+          "label": "D",
+          "text": "Continuous infusion delivers drug at a rate matching elimination"
+        },
+        {
+          "label": "E",
+          "text": "Intravenous drug has a much shorter half-life"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A continuous IV infusion inputs drug at a constant rate equal to the elimination rate at steady state, so concentration plateaus without the peak-trough swings seen with intermittent oral dosing.",
+        "whyCorrect": "A continuous IV infusion inputs drug at a constant rate equal to the elimination rate at steady state, so concentration plateaus without the peak-trough swings seen with intermittent oral dosing.",
+        "whyWrongByChoice": {
+          "A": "IV infusions still approach steady state over about 4-5 half-lives; the flat line is the steady-state plateau, not a bypass of it.",
+          "B": "A larger total dose would raise the average concentration but would not by itself remove peak-trough fluctuation.",
+          "C": "Acetaminophen is eliminated by first-order kinetics regardless of route at therapeutic doses.",
+          "E": "Half-life is a property of the drug and patient, not the route; a shorter half-life would increase fluctuation, not flatten it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-035_ph030_f07.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
       "id": "phpic-048",
       "topicId": "pharmacodynamics-quantal-dose-response-and-therapeutic-index",
       "topicName": "Pharmacodynamics: Quantal Dose Response and Therapeutic Index",
@@ -262,226 +482,6 @@
       },
       "difficulty": "medium",
       "imageRef": "phpic-052_ph029_f01.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "phpic-031",
-      "topicId": "pharmacokinetics-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics: Volume of Distribution and Elimination Kinetics",
-      "stem": "This plasma drug concentration versus time plot is a straight, linearly declining line. What elimination kinetics does this pattern represent?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "First-order elimination"
-        },
-        {
-          "label": "B",
-          "text": "Zero-order elimination"
-        },
-        {
-          "label": "C",
-          "text": "Enterohepatic recirculation"
-        },
-        {
-          "label": "D",
-          "text": "Flow-limited elimination"
-        },
-        {
-          "label": "E",
-          "text": "Concentration-independent absorption"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "A constant absolute amount of drug removed per unit time, independent of concentration, yields a straight line on a linear plot, characteristic of zero-order kinetics.",
-        "whyCorrect": "A constant absolute amount of drug removed per unit time, independent of concentration, yields a straight line on a linear plot, characteristic of zero-order kinetics.",
-        "whyWrongByChoice": {
-          "A": "First-order elimination removes a constant fraction per unit time, giving an exponential curve on a linear axis rather than a straight line.",
-          "C": "Enterohepatic recirculation creates secondary peaks or bumps on the concentration curve, not a straight decline.",
-          "D": "Flow-limited elimination applies to high-extraction drugs and still follows first-order exponential decay.",
-          "E": "Absorption kinetics shape the rising phase; the declining straight line reflects elimination, not absorption."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "phpic-031_ph030_f03.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "phpic-032",
-      "topicId": "pharmacokinetics-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics: Volume of Distribution and Elimination Kinetics",
-      "stem": "This schematic shows a constant 2.5 units/h of drug removed at every concentration step. Which drug is a classic clinical example of this saturable elimination pattern?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Penicillin"
-        },
-        {
-          "label": "B",
-          "text": "Metoprolol"
-        },
-        {
-          "label": "C",
-          "text": "Ethanol"
-        },
-        {
-          "label": "D",
-          "text": "Gentamicin"
-        },
-        {
-          "label": "E",
-          "text": "Digoxin"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Ethanol (along with phenytoin and aspirin at high doses) is eliminated at a constant amount per unit time because its metabolic pathway is saturated, defining zero-order kinetics.",
-        "whyCorrect": "Ethanol (along with phenytoin and aspirin at high doses) is eliminated at a constant amount per unit time because its metabolic pathway is saturated, defining zero-order kinetics.",
-        "whyWrongByChoice": {
-          "A": "Penicillin is eliminated by first-order renal tubular secretion, with a constant fraction cleared per unit time.",
-          "B": "Metoprolol is cleared by CYP2D6 with first-order kinetics at therapeutic doses.",
-          "D": "Gentamicin is renally filtered with first-order elimination proportional to concentration and renal function.",
-          "E": "Digoxin is renally excreted with first-order kinetics and a long, constant half-life of about 36-40 hours."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "phpic-032_ph030_f04.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "phpic-033",
-      "topicId": "pharmacokinetics-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics: Volume of Distribution and Elimination Kinetics",
-      "stem": "On a linear y-axis, this plasma concentration versus time curve declines exponentially rather than as a straight line. What does the exponential shape indicate about elimination?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "An increasing fraction is eliminated as concentration falls"
-        },
-        {
-          "label": "B",
-          "text": "Drug is eliminated only above a threshold concentration"
-        },
-        {
-          "label": "C",
-          "text": "Elimination stops once concentration reaches half the peak"
-        },
-        {
-          "label": "D",
-          "text": "A constant fraction of drug is eliminated per unit time"
-        },
-        {
-          "label": "E",
-          "text": "A constant absolute amount of drug is eliminated per unit time"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "First-order kinetics removes a constant proportion of drug per unit time, so the elimination rate is proportional to concentration and the curve decays exponentially on a linear scale.",
-        "whyCorrect": "First-order kinetics removes a constant proportion of drug per unit time, so the elimination rate is proportional to concentration and the curve decays exponentially on a linear scale.",
-        "whyWrongByChoice": {
-          "A": "An increasing fraction eliminated as concentration falls has no standard kinetic basis; first-order removes the same fraction at every concentration.",
-          "B": "Threshold-dependent elimination is not a recognized kinetic order and would not produce smooth exponential decay.",
-          "C": "Elimination continues past half the peak; each successive half-life removes another half of what remains.",
-          "E": "A constant absolute amount per unit time defines zero-order kinetics, which gives a straight line on a linear plot."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "phpic-033_ph030_f05.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "phpic-034",
-      "topicId": "pharmacokinetics-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics: Volume of Distribution and Elimination Kinetics",
-      "stem": "In this schematic the elimination rate halves as concentration halves (5 to 2.5 to 1.25 units/h). What quantity remains constant across all concentrations for such a drug?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "The half-life"
-        },
-        {
-          "label": "B",
-          "text": "The maximum metabolic elimination capacity"
-        },
-        {
-          "label": "C",
-          "text": "The absolute amount of drug eliminated per hour"
-        },
-        {
-          "label": "D",
-          "text": "The fraction of drug bound to plasma protein"
-        },
-        {
-          "label": "E",
-          "text": "The time required to eliminate the entire dose"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Because a constant proportion is removed per unit time, the time for concentration to fall by half is fixed regardless of the starting concentration, so half-life is constant in first-order kinetics.",
-        "whyCorrect": "Because a constant proportion is removed per unit time, the time for concentration to fall by half is fixed regardless of the starting concentration, so half-life is constant in first-order kinetics.",
-        "whyWrongByChoice": {
-          "B": "Maximum elimination capacity is approached only in zero-order kinetics; here the rate changes with concentration, so the drug is well below that capacity.",
-          "C": "The absolute amount eliminated per hour falls as concentration falls (5, then 2.5, then 1.25), so it is not constant.",
-          "D": "Protein binding fraction is a distribution property that is not shown here and does not define first-order elimination.",
-          "E": "Time to eliminate the whole dose grows with dose; in first-order kinetics roughly 4-5 half-lives are needed to clear about 94-97%."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "phpic-034_ph030_f06.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "phpic-035",
-      "topicId": "pharmacokinetics-volume-of-distribution-and-elimination-kinetics",
-      "topicName": "Pharmacokinetics: Volume of Distribution and Elimination Kinetics",
-      "stem": "This graph compares steady-state acetaminophen concentrations for three formulations. The intravenous curve is nearly flat while the oral curves oscillate between peaks and troughs. What best explains the flat intravenous profile?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Intravenous drug bypasses steady state entirely"
-        },
-        {
-          "label": "B",
-          "text": "Intravenous dosing uses a far larger total dose"
-        },
-        {
-          "label": "C",
-          "text": "Intravenous drug is not subject to first-order elimination"
-        },
-        {
-          "label": "D",
-          "text": "Continuous infusion delivers drug at a rate matching elimination"
-        },
-        {
-          "label": "E",
-          "text": "Intravenous drug has a much shorter half-life"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "A continuous IV infusion inputs drug at a constant rate equal to the elimination rate at steady state, so concentration plateaus without the peak-trough swings seen with intermittent oral dosing.",
-        "whyCorrect": "A continuous IV infusion inputs drug at a constant rate equal to the elimination rate at steady state, so concentration plateaus without the peak-trough swings seen with intermittent oral dosing.",
-        "whyWrongByChoice": {
-          "A": "IV infusions still approach steady state over about 4-5 half-lives; the flat line is the steady-state plateau, not a bypass of it.",
-          "B": "A larger total dose would raise the average concentration but would not by itself remove peak-trough fluctuation.",
-          "C": "Acetaminophen is eliminated by first-order kinetics regardless of route at therapeutic doses.",
-          "E": "Half-life is a property of the drug and patient, not the route; a shorter half-life would increase fluctuation, not flatten it."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "phpic-035_ph030_f07.png",
       "tags": [
         "picture"
       ]

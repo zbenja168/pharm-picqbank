@@ -487,45 +487,45 @@
       ]
     },
     {
-      "id": "phpic-004",
-      "topicId": "steroids",
-      "topicName": "Steroids",
-      "stem": "This illustration summarizes the long-term effects of chronic corticosteroid excess, including central obesity, a rounded face, a dorsocervical fat pad, and purple abdominal striae. What is the primary mechanism producing the purple striae and thin, fragile skin shown?",
+      "id": "phpic-041",
+      "topicId": "beta-agonists",
+      "topicName": "Beta-Agonists",
+      "stem": "This schematic organizes the adrenergic receptor family into its major branches and subtypes. To which single class of membrane receptors do ALL of the receptors depicted here belong?",
       "choices": [
         {
           "label": "A",
-          "text": "Glucocorticoid-induced inhibition of collagen synthesis"
+          "text": "G-protein coupled receptors"
         },
         {
           "label": "B",
-          "text": "Dermal edema from sodium and water retention"
+          "text": "Intracellular nuclear hormone receptors"
         },
         {
           "label": "C",
-          "text": "Subcutaneous fat necrosis and calcification"
+          "text": "Receptor tyrosine kinases"
         },
         {
           "label": "D",
-          "text": "Chronic venous congestion of dermal vessels"
+          "text": "Ligand-gated ion channels"
         },
         {
           "label": "E",
-          "text": "Increased melanocyte-stimulating hormone and melanin deposition"
+          "text": "Voltage-gated ion channels"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Chronic glucocorticoid exposure suppresses fibroblast activity and collagen synthesis while promoting protein breakdown, thinning the dermis. The weakened, thin skin stretches over expanding central fat and tears, exposing dermal vasculature as the characteristic wide purple striae seen in iatrogenic Cushing syndrome.",
-        "whyCorrect": "Chronic glucocorticoid exposure suppresses fibroblast activity and collagen synthesis while promoting protein breakdown, thinning the dermis. The weakened, thin skin stretches over expanding central fat and tears, exposing dermal vasculature as the characteristic wide purple striae seen in iatrogenic Cushing syndrome.",
+        "summary": "Every adrenergic receptor shown in this classification tree (the alpha-1, alpha-2, and beta-1/2/3 subtypes) is a G-protein coupled receptor (GPCR). These seven-transmembrane receptors act through heterotrimeric G proteins to drive downstream second-messenger signaling rather than opening ion channels directly or possessing intrinsic kinase activity.",
+        "whyCorrect": "Every adrenergic receptor shown in this classification tree (the alpha-1, alpha-2, and beta-1/2/3 subtypes) is a G-protein coupled receptor (GPCR). These seven-transmembrane receptors act through heterotrimeric G proteins to drive downstream second-messenger signaling rather than opening ion channels directly or possessing intrinsic kinase activity.",
         "whyWrongByChoice": {
-          "B": "Sodium and water retention from mineralocorticoid effects causes edema and hypertension, but not thin skin with purple striae.",
-          "C": "Subcutaneous fat necrosis and calcification occur in pancreatitis or newborn trauma, not glucocorticoid excess.",
-          "D": "Venous congestion causes stasis changes and edema of the legs, not abdominal striae and fragile skin.",
-          "E": "MSH-driven hyperpigmentation occurs with high ACTH, as in Addison disease or ectopic ACTH, and does not cause striae."
+          "B": "Nuclear hormone receptors bind lipophilic ligands like steroids and thyroid hormone inside the cell; catecholamines act at the surface.",
+          "C": "Receptor tyrosine kinases, like the insulin receptor, have intrinsic kinase activity, which adrenergic receptors lack.",
+          "D": "Ligand-gated ion channels include nicotinic and GABA-A receptors; no adrenergic receptor is an ion channel.",
+          "E": "Voltage-gated ion channels open in response to membrane potential, not hormone binding."
         }
       },
       "difficulty": "medium",
-      "imageRef": "phpic-004_ph003_f03.png",
+      "imageRef": "phpic-041_ph011_f01.png",
       "tags": [
         "picture"
       ]

@@ -3,89 +3,45 @@
   "categoryName": "Session 2",
   "questions": [
     {
-      "id": "phpic-038",
-      "topicId": "antihyperlipidemic-drugs-statins",
-      "topicName": "Antihyperlipidemic Drugs: Statins",
-      "stem": "This integrated schematic is used to review the pathway that statins ultimately modulate, spanning the liver, blood, enterocyte, and intestinal lumen. Which overall physiological process does it depict?",
+      "id": "phpic-011",
+      "topicId": "alpha-1-adrenergic-blockers",
+      "topicName": "Alpha-1 Adrenergic Blockers",
+      "stem": "This paired diagram contrasts the prostatic urethra in the left panel with the right panel, where smooth muscle has relaxed to widen the urethral lumen and improve urine flow. Which drug produces the change shown in the right panel?",
       "choices": [
         {
           "label": "A",
-          "text": "Bilirubin conjugation and excretion"
+          "text": "Tamsulosin"
         },
         {
           "label": "B",
-          "text": "Lipoprotein synthesis, transport, and clearance"
+          "text": "Finasteride"
         },
         {
           "label": "C",
-          "text": "Renal handling of sodium and water"
+          "text": "Phenylephrine"
         },
         {
           "label": "D",
-          "text": "The coagulation cascade"
+          "text": "Propranolol"
         },
         {
           "label": "E",
-          "text": "The urea cycle"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "The diagram traces cholesterol and triglyceride handling across hepatic synthesis, VLDL/LDL/HDL trafficking in blood, and intestinal absorption/reabsorption of cholesterol and bile acids, i.e., integrated lipoprotein metabolism, the pathway statins act on.",
-        "whyCorrect": "The diagram traces cholesterol and triglyceride handling across hepatic synthesis, VLDL/LDL/HDL trafficking in blood, and intestinal absorption/reabsorption of cholesterol and bile acids, i.e., integrated lipoprotein metabolism, the pathway statins act on.",
-        "whyWrongByChoice": {
-          "A": "Bilirubin metabolism involves heme breakdown, hepatic glucuronidation and biliary excretion, not VLDL, LDL and HDL trafficking.",
-          "C": "Renal sodium and water handling involves nephron segments and hormones like aldosterone and ADH, not enterocytes and lipoproteins.",
-          "D": "The coagulation cascade is a series of plasma clotting factors, not cholesterol absorption and lipoprotein transport.",
-          "E": "The urea cycle converts ammonia to urea in hepatocytes and does not involve the intestinal lumen or lipoproteins."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": "phpic-038_ph005_f01.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "phpic-041",
-      "topicId": "beta-agonists",
-      "topicName": "Beta-Agonists",
-      "stem": "This schematic organizes the adrenergic receptor family into its major branches and subtypes. To which single class of membrane receptors do ALL of the receptors depicted here belong?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "G-protein coupled receptors"
-        },
-        {
-          "label": "B",
-          "text": "Intracellular nuclear hormone receptors"
-        },
-        {
-          "label": "C",
-          "text": "Receptor tyrosine kinases"
-        },
-        {
-          "label": "D",
-          "text": "Ligand-gated ion channels"
-        },
-        {
-          "label": "E",
-          "text": "Voltage-gated ion channels"
+          "text": "Sildenafil"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Every adrenergic receptor shown in this classification tree (the alpha-1, alpha-2, and beta-1/2/3 subtypes) is a G-protein coupled receptor (GPCR). These seven-transmembrane receptors act through heterotrimeric G proteins to drive downstream second-messenger signaling rather than opening ion channels directly or possessing intrinsic kinase activity.",
-        "whyCorrect": "Every adrenergic receptor shown in this classification tree (the alpha-1, alpha-2, and beta-1/2/3 subtypes) is a G-protein coupled receptor (GPCR). These seven-transmembrane receptors act through heterotrimeric G proteins to drive downstream second-messenger signaling rather than opening ion channels directly or possessing intrinsic kinase activity.",
+        "summary": "The right panel shows relaxation of prostatic and bladder-neck smooth muscle with a dilated urethra, the effect of a selective alpha-1 (alpha-1A) receptor antagonist. Tamsulosin is the uroselective alpha-1A blocker used to relieve the obstructive urinary symptoms of benign prostatic hyperplasia. Finasteride shrinks the gland by a different (5-alpha-reductase) mechanism, sildenafil is a PDE-5 inhibitor, phenylephrine is an alpha-1 agonist that would worsen obstruction, and propranolol is a beta-blocker.",
+        "whyCorrect": "The right panel shows relaxation of prostatic and bladder-neck smooth muscle with a dilated urethra, the effect of a selective alpha-1 (alpha-1A) receptor antagonist. Tamsulosin is the uroselective alpha-1A blocker used to relieve the obstructive urinary symptoms of benign prostatic hyperplasia. Finasteride shrinks the gland by a different (5-alpha-reductase) mechanism, sildenafil is a PDE-5 inhibitor, phenylephrine is an alpha-1 agonist that would worsen obstruction, and propranolol is a beta-blocker.",
         "whyWrongByChoice": {
-          "B": "Nuclear hormone receptors bind lipophilic ligands like steroids and thyroid hormone inside the cell; catecholamines act at the surface.",
-          "C": "Receptor tyrosine kinases, like the insulin receptor, have intrinsic kinase activity, which adrenergic receptors lack.",
-          "D": "Ligand-gated ion channels include nicotinic and GABA-A receptors; no adrenergic receptor is an ion channel.",
-          "E": "Voltage-gated ion channels open in response to membrane potential, not hormone binding."
+          "B": "Finasteride inhibits 5-alpha-reductase, shrinking the gland over months by lowering DHT rather than relaxing smooth muscle.",
+          "C": "Phenylephrine is an alpha1 agonist that contracts prostatic and bladder-neck smooth muscle, worsening obstruction.",
+          "D": "Propranolol is a beta-blocker with no meaningful effect on alpha1-mediated prostatic smooth muscle tone.",
+          "E": "Sildenafil is a PDE-5 inhibitor used for erectile dysfunction; tadalafil has a BPH indication, but sildenafil does not produce this alpha1-blockade effect."
         }
       },
       "difficulty": "medium",
-      "imageRef": "phpic-041_ph011_f01.png",
+      "imageRef": "phpic-011_ph007_f01.png",
       "tags": [
         "picture"
       ]

@@ -5,6 +5,12 @@
       "name": "Session 1",
       "topics": [
         {
+          "id": "pharmacodynamics-receptor-agonists-and-antagonists",
+          "name": "Pharmacodynamics: Receptor Agonists and Antagonists",
+          "sourceFile": "brick",
+          "questionCount": 1
+        },
+        {
           "id": "pharmacokinetics-drug-absorption-and-distribution",
           "name": "Pharmacokinetics: Drug Absorption and Distribution",
           "sourceFile": "brick",
@@ -21,12 +27,6 @@
           "name": "Nonopioid Analgesics: NSAIDs",
           "sourceFile": "brick",
           "questionCount": 1
-        },
-        {
-          "id": "pharmacodynamics-receptor-agonists-and-antagonists",
-          "name": "Pharmacodynamics: Receptor Agonists and Antagonists",
-          "sourceFile": "brick",
-          "questionCount": 1
         }
       ],
       "week": 1,
@@ -38,6 +38,12 @@
       "name": "Session 2",
       "topics": [
         {
+          "id": "pharmacokinetics-volume-of-distribution-and-elimination-kinetics",
+          "name": "Pharmacokinetics: Volume of Distribution and Elimination Kinetics",
+          "sourceFile": "brick",
+          "questionCount": 5
+        },
+        {
           "id": "pharmacodynamics-quantal-dose-response-and-therapeutic-index",
           "name": "Pharmacodynamics: Quantal Dose Response and Therapeutic Index",
           "sourceFile": "brick",
@@ -48,12 +54,6 @@
           "name": "Nonopioid Analgesics: Aspirin",
           "sourceFile": "brick",
           "questionCount": 2
-        },
-        {
-          "id": "pharmacokinetics-volume-of-distribution-and-elimination-kinetics",
-          "name": "Pharmacokinetics: Volume of Distribution and Elimination Kinetics",
-          "sourceFile": "brick",
-          "questionCount": 5
         }
       ],
       "week": 1,
@@ -86,8 +86,8 @@
           "questionCount": 11
         },
         {
-          "id": "steroids",
-          "name": "Steroids",
+          "id": "beta-agonists",
+          "name": "Beta-Agonists",
           "sourceFile": "brick",
           "questionCount": 1
         }
@@ -101,14 +101,8 @@
       "name": "Session 2",
       "topics": [
         {
-          "id": "antihyperlipidemic-drugs-statins",
-          "name": "Antihyperlipidemic Drugs: Statins",
-          "sourceFile": "brick",
-          "questionCount": 1
-        },
-        {
-          "id": "beta-agonists",
-          "name": "Beta-Agonists",
+          "id": "alpha-1-adrenergic-blockers",
+          "name": "Alpha-1 Adrenergic Blockers",
           "sourceFile": "brick",
           "questionCount": 1
         }
@@ -122,40 +116,16 @@
       "name": "Session 3",
       "topics": [
         {
-          "id": "alpha-1-adrenergic-blockers",
-          "name": "Alpha-1 Adrenergic Blockers",
-          "sourceFile": "brick",
-          "questionCount": 1
-        }
-      ],
-      "week": 2,
-      "weekName": "Week 2",
-      "weekSubtitle": ""
-    },
-    {
-      "id": "w3s1",
-      "name": "Session 1",
-      "topics": [
-        {
-          "id": "pde-5-inhibitors",
-          "name": "PDE-5 Inhibitors",
-          "sourceFile": "brick",
-          "questionCount": 1
-        }
-      ],
-      "week": 3,
-      "weekName": "Week 3",
-      "weekSubtitle": ""
-    },
-    {
-      "id": "w3s2",
-      "name": "Session 2",
-      "topics": [
-        {
           "id": "acid-suppression-drugs-ppis-and-h2-blockers",
           "name": "Acid Suppression Drugs: PPIs and H2 Blockers",
           "sourceFile": "brick",
           "questionCount": 3
+        },
+        {
+          "id": "antihyperlipidemic-drugs-statins",
+          "name": "Antihyperlipidemic Drugs: Statins",
+          "sourceFile": "brick",
+          "questionCount": 1
         },
         {
           "id": "calcium-channel-blockers",
@@ -164,14 +134,26 @@
           "questionCount": 3
         }
       ],
-      "week": 3,
-      "weekName": "Week 3",
+      "week": 2,
+      "weekName": "Week 2",
       "weekSubtitle": ""
     },
     {
-      "id": "w3s3",
-      "name": "Session 3",
+      "id": "more",
+      "name": "More topics",
       "topics": [
+        {
+          "id": "steroids",
+          "name": "Steroids",
+          "sourceFile": "brick",
+          "questionCount": 1
+        },
+        {
+          "id": "pde-5-inhibitors",
+          "name": "PDE-5 Inhibitors",
+          "sourceFile": "brick",
+          "questionCount": 1
+        },
         {
           "id": "cholinergics-and-anticholinergics",
           "name": "Cholinergics and Anticholinergics",
@@ -183,16 +165,7 @@
           "name": "H1 Blockers: Antihistamines",
           "sourceFile": "brick",
           "questionCount": 1
-        }
-      ],
-      "week": 3,
-      "weekName": "Week 3",
-      "weekSubtitle": ""
-    },
-    {
-      "id": "w4s1",
-      "name": "Session 1",
-      "topics": [
+        },
         {
           "id": "cholinesterase-inhibitors-and-reactivators",
           "name": "Cholinesterase Inhibitors and Reactivators",
@@ -204,16 +177,7 @@
           "name": "Opioid Agonists",
           "sourceFile": "brick",
           "questionCount": 2
-        }
-      ],
-      "week": 4,
-      "weekName": "Week 4",
-      "weekSubtitle": ""
-    },
-    {
-      "id": "w4s2",
-      "name": "Session 2",
-      "topics": [
+        },
         {
           "id": "renin-angiotensin-aldosterone-system-inhibitors",
           "name": "Renin-Angiotensin-Aldosterone System Inhibitors",
@@ -227,9 +191,9 @@
           "questionCount": 1
         }
       ],
-      "week": 4,
-      "weekName": "Week 4",
-      "weekSubtitle": ""
+      "week": 3,
+      "weekName": "More",
+      "weekSubtitle": "Topics outside the class schedule"
     }
   ],
   "totalQuestions": 52
