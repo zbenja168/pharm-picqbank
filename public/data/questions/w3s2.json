@@ -1,0 +1,50 @@
+{
+  "categoryId": "w3s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "phpic-022",
+      "topicId": "cholinesterase-inhibitors-and-reactivators",
+      "topicName": "Cholinesterase Inhibitors and Reactivators",
+      "stem": "This general chemical structure has a tetrahedral phosphorus center. Its shape is pharmacologically significant because it resembles what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The oxime reactivator (2-PAM) structure"
+        },
+        {
+          "label": "B",
+          "text": "The acetylcholine molecule itself"
+        },
+        {
+          "label": "C",
+          "text": "The transition state of ester hydrolysis"
+        },
+        {
+          "label": "D",
+          "text": "The muscarinic receptor binding pocket"
+        },
+        {
+          "label": "E",
+          "text": "The carbamate ester reaction intermediate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Organophosphorus inhibitors are tetrahedral, mimicking the transition state formed during carboxyl ester hydrolysis at the enzyme's active site, which allows them to bind acetylcholinesterase and phosphorylate it.",
+        "whyCorrect": "Organophosphorus inhibitors are tetrahedral, mimicking the transition state formed during carboxyl ester hydrolysis at the enzyme's active site, which allows them to bind acetylcholinesterase and phosphorylate it.",
+        "whyWrongByChoice": {
+          "A": "Pralidoxime is a separate reactivator that pulls the phosphate off the enzyme; its structure is not what organophosphates mimic.",
+          "B": "Acetylcholine has a planar ester carbonyl, not a tetrahedral center; organophosphates mimic the tetrahedral intermediate of its hydrolysis.",
+          "D": "Organophosphates target the acetylcholinesterase active-site serine, not muscarinic receptors.",
+          "E": "Carbamates form a carbamylated enzyme that hydrolyzes over minutes to hours; organophosphates are not modeled on that intermediate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-022_ph019_f03.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

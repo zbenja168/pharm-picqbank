@@ -139,6 +139,51 @@
       "weekSubtitle": ""
     },
     {
+      "id": "w3s1",
+      "name": "Session 1",
+      "topics": [
+        {
+          "id": "cholinergics-and-anticholinergics",
+          "name": "Cholinergics and Anticholinergics",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w3s2",
+      "name": "Session 2",
+      "topics": [
+        {
+          "id": "cholinesterase-inhibitors-and-reactivators",
+          "name": "Cholinesterase Inhibitors and Reactivators",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w3s3",
+      "name": "Session 3",
+      "topics": [
+        {
+          "id": "pde-5-inhibitors",
+          "name": "PDE-5 Inhibitors",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
+    },
+    {
       "id": "more",
       "name": "More topics",
       "topics": [
@@ -149,26 +194,8 @@
           "questionCount": 1
         },
         {
-          "id": "pde-5-inhibitors",
-          "name": "PDE-5 Inhibitors",
-          "sourceFile": "brick",
-          "questionCount": 1
-        },
-        {
-          "id": "cholinergics-and-anticholinergics",
-          "name": "Cholinergics and Anticholinergics",
-          "sourceFile": "brick",
-          "questionCount": 2
-        },
-        {
           "id": "h1-blockers-antihistamines",
           "name": "H1 Blockers: Antihistamines",
-          "sourceFile": "brick",
-          "questionCount": 1
-        },
-        {
-          "id": "cholinesterase-inhibitors-and-reactivators",
-          "name": "Cholinesterase Inhibitors and Reactivators",
           "sourceFile": "brick",
           "questionCount": 1
         },
@@ -191,7 +218,7 @@
           "questionCount": 1
         }
       ],
-      "week": 3,
+      "week": 4,
       "weekName": "More",
       "weekSubtitle": "Topics outside the class schedule"
     }
