@@ -1,0 +1,138 @@
+{
+  "categoryId": "w4s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "phpic-004",
+      "topicId": "steroids",
+      "topicName": "Steroids",
+      "stem": "This illustration summarizes the long-term effects of chronic corticosteroid excess, including central obesity, a rounded face, a dorsocervical fat pad, and purple abdominal striae. What is the primary mechanism producing the purple striae and thin, fragile skin shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucocorticoid-induced inhibition of collagen synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Dermal edema from sodium and water retention"
+        },
+        {
+          "label": "C",
+          "text": "Subcutaneous fat necrosis and calcification"
+        },
+        {
+          "label": "D",
+          "text": "Chronic venous congestion of dermal vessels"
+        },
+        {
+          "label": "E",
+          "text": "Increased melanocyte-stimulating hormone and melanin deposition"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic glucocorticoid exposure suppresses fibroblast activity and collagen synthesis while promoting protein breakdown, thinning the dermis. The weakened, thin skin stretches over expanding central fat and tears, exposing dermal vasculature as the characteristic wide purple striae seen in iatrogenic Cushing syndrome.",
+        "whyCorrect": "Chronic glucocorticoid exposure suppresses fibroblast activity and collagen synthesis while promoting protein breakdown, thinning the dermis. The weakened, thin skin stretches over expanding central fat and tears, exposing dermal vasculature as the characteristic wide purple striae seen in iatrogenic Cushing syndrome.",
+        "whyWrongByChoice": {
+          "B": "Sodium and water retention from mineralocorticoid effects causes edema and hypertension, but not thin skin with purple striae.",
+          "C": "Subcutaneous fat necrosis and calcification occur in pancreatitis or newborn trauma, not glucocorticoid excess.",
+          "D": "Venous congestion causes stasis changes and edema of the legs, not abdominal striae and fragile skin.",
+          "E": "MSH-driven hyperpigmentation occurs with high ACTH, as in Addison disease or ectopic ACTH, and does not cause striae."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-004_ph003_f03.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-023",
+      "topicId": "opioid-agonists",
+      "topicName": "Opioid Agonists",
+      "stem": "This figure maps the distribution of the three primary opioid receptor subtypes across CNS regions such as the thalamus, caudate, putamen, hippocampus, amygdala, and nucleus accumbens. Which receptor subtype is primarily responsible for the analgesic and euphoric effects of most clinically used opioid agonists?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nociceptin (NOP) receptor"
+        },
+        {
+          "label": "B",
+          "text": "Kappa (κ) receptor"
+        },
+        {
+          "label": "C",
+          "text": "Sigma (σ) receptor"
+        },
+        {
+          "label": "D",
+          "text": "Mu (μ) receptor"
+        },
+        {
+          "label": "E",
+          "text": "Delta (δ) receptor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Most clinically used opioid agonists act primarily at mu (μ) receptors, which mediate analgesia, euphoria, respiratory depression, and dependence. Kappa and delta receptors modulate these effects and contribute to other actions but are not the main analgesic target.",
+        "whyCorrect": "Most clinically used opioid agonists act primarily at mu (μ) receptors, which mediate analgesia, euphoria, respiratory depression, and dependence. Kappa and delta receptors modulate these effects and contribute to other actions but are not the main analgesic target.",
+        "whyWrongByChoice": {
+          "A": "The NOP (nociceptin) receptor is an opioid-related receptor that does not mediate the analgesia and euphoria of morphine-like drugs.",
+          "B": "Kappa receptors mediate spinal analgesia, dysphoria and diuresis, not the euphoria of typical opioid agonists.",
+          "C": "Sigma receptors are no longer classified as opioid receptors and mediate dysphoric and psychotomimetic effects.",
+          "E": "Delta receptors modulate analgesia and mood but are not the main target of clinically used opioids."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-023_ph022_f01.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "phpic-024",
+      "topicId": "opioid-agonists",
+      "topicName": "Opioid Agonists",
+      "stem": "This schematic shows sites of opioid receptor action along the neuraxis, including the dorsal horn of the spinal cord. What is the primary mechanism by which opioid receptor activation at the dorsal horn produces analgesia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of voltage-gated sodium channels on motor neurons"
+        },
+        {
+          "label": "B",
+          "text": "Increased substance P release from primary afferents"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of nociceptive neurotransmitter release"
+        },
+        {
+          "label": "D",
+          "text": "Enhancement of glutamate release onto second-order neurons"
+        },
+        {
+          "label": "E",
+          "text": "Activation of descending serotonergic excitation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In the dorsal horn, presynaptic opioid receptors reduce calcium influx and inhibit release of excitatory neurotransmitters (e.g., substance P, glutamate) from primary afferents, while postsynaptic hyperpolarization decreases transmission of nociceptive signals, producing analgesia.",
+        "whyCorrect": "In the dorsal horn, presynaptic opioid receptors reduce calcium influx and inhibit release of excitatory neurotransmitters (e.g., substance P, glutamate) from primary afferents, while postsynaptic hyperpolarization decreases transmission of nociceptive signals, producing analgesia.",
+        "whyWrongByChoice": {
+          "A": "Opioids do not block sodium channels on motor neurons; that action belongs to local anesthetics and would cause weakness.",
+          "B": "Opioids reduce, not increase, substance P release from primary afferent terminals.",
+          "D": "Opioids decrease glutamate release onto second-order neurons; enhancing it would increase pain transmission.",
+          "E": "Opioids engage descending inhibitory, not excitatory, pathways from the brainstem, and the dorsal horn action itself is local inhibition of transmitter release."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": "phpic-024_ph022_f02.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

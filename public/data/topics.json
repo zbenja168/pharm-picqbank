@@ -184,8 +184,8 @@
       "weekSubtitle": ""
     },
     {
-      "id": "more",
-      "name": "More topics",
+      "id": "w4s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "steroids",
@@ -194,17 +194,20 @@
           "questionCount": 1
         },
         {
-          "id": "h1-blockers-antihistamines",
-          "name": "H1 Blockers: Antihistamines",
-          "sourceFile": "brick",
-          "questionCount": 1
-        },
-        {
           "id": "opioid-agonists",
           "name": "Opioid Agonists",
           "sourceFile": "brick",
           "questionCount": 2
-        },
+        }
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w4s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "renin-angiotensin-aldosterone-system-inhibitors",
           "name": "Renin-Angiotensin-Aldosterone System Inhibitors",
@@ -219,8 +222,23 @@
         }
       ],
       "week": 4,
-      "weekName": "More",
-      "weekSubtitle": "Topics outside the class schedule"
+      "weekName": "Week 4",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w4s3",
+      "name": "Session 3",
+      "topics": [
+        {
+          "id": "h1-blockers-antihistamines",
+          "name": "H1 Blockers: Antihistamines",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": ""
     }
   ],
   "totalQuestions": 52
