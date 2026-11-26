@@ -31,23 +31,15 @@ export function HomePage({
 
   return (
     <div className="min-h-screen bg-slate-900">
-      <header className="bg-slate-800 border-b border-slate-700 sticky top-0 z-10">
-        <div className="max-w-5xl mx-auto px-4 py-4 flex items-center justify-between">
-          <div>
-            <h1 className="text-xl font-bold text-slate-100">Pharmacology Picture QBank</h1>
-            <p className="text-sm text-slate-400">Image-based pharmacology figures</p>
-          </div>
-          <a
-            href="https://zbenja168.github.io/immuno-qbank/"
-            className="text-xs px-3 py-1.5 rounded-lg border border-slate-600 text-slate-400 hover:text-teal-400 hover:border-teal-600 transition-colors"
-          >
-            Text QBank &rarr;
-          </a>
-          <div className="flex items-center gap-3">
+      <main className="max-w-5xl mx-auto px-4 py-6 sm:py-8">
+        {/* Progress shortcuts: the header above carries the title and the
+            course's sibling tools, so these sit at the top of the content. */}
+        {(stats.total > 0 || missedCount > 0 || bookmarkCount > 0) && (
+          <div className="mb-6 flex items-center gap-2 flex-wrap">
             {stats.total > 0 && (
               <button
                 onClick={onGoToDashboard}
-                className="px-4 py-2 text-sm rounded-lg border border-slate-600 text-slate-300 hover:bg-slate-700 transition-colors"
+                className="px-4 py-2 min-h-10 text-sm rounded-lg border border-slate-600 text-slate-300 hover:bg-slate-700 transition-colors"
               >
                 Dashboard ({stats.percentage}%)
               </button>
@@ -55,26 +47,22 @@ export function HomePage({
             {missedCount > 0 && (
               <button
                 onClick={() => onGoToReview('incorrect')}
-                className="px-4 py-2 text-sm rounded-lg border border-amber-600 bg-amber-500/10 text-amber-400 font-medium hover:bg-amber-500/20 transition-colors"
+                className="px-4 py-2 min-h-10 text-sm rounded-lg border border-amber-600 bg-amber-500/10 text-amber-400 font-medium hover:bg-amber-500/20 transition-colors"
                 title="Redo the questions you got wrong"
               >
-                🔁 Missed ({missedCount})
+                Missed ({missedCount})
               </button>
             )}
             {bookmarkCount > 0 && (
               <button
                 onClick={() => onGoToReview()}
-                className="px-4 py-2 text-sm rounded-lg border border-amber-700 text-amber-400 hover:bg-amber-900/30 transition-colors"
+                className="px-4 py-2 min-h-10 text-sm rounded-lg border border-amber-700 text-amber-400 hover:bg-amber-900/30 transition-colors"
               >
                 Bookmarked ({bookmarkCount})
               </button>
             )}
           </div>
-        </div>
-      </header>
-
-      <main className="max-w-5xl mx-auto px-4 py-8">
-        <BrandCard />
+        )}
 
         {/* Stats summary */}
         {stats.total > 0 && (<>
@@ -107,7 +95,7 @@ export function HomePage({
         </>)}
 
         {/* Filter controls */}
-        <div className="flex items-center justify-between mb-4">
+        <div className="flex items-center justify-between mb-4 gap-3 flex-wrap">
           <h2 className="text-lg font-semibold text-slate-200">Select Topics</h2>
           <div className="flex items-center gap-3">
             <button onClick={onSelectAll} className="text-sm text-blue-400 hover:text-blue-300">Select All</button>
@@ -131,7 +119,7 @@ export function HomePage({
               <div key={cat.id}>
                 {startsWeek && (
                   <div className={`flex items-baseline gap-3 flex-wrap rounded-lg border border-blue-900/60 bg-blue-950/30 px-4 py-3 ${i === 0 ? 'mb-3' : 'mt-6 mb-3'}`}>
-                    <span className="text-base font-bold text-blue-300">{cat.weekName}</span>
+                    <span className="text-base font-bold text-blue-300 at-wrap">{cat.weekName}</span>
                     {cat.weekSubtitle && (
                       <span className="text-sm text-slate-300">{cat.weekSubtitle}</span>
                     )}
@@ -154,17 +142,19 @@ export function HomePage({
         </div>
 
         {/* Start button */}
-        <div className="sticky bottom-0 bg-gradient-to-t from-slate-900 via-slate-900 to-transparent pt-4 pb-6">
+        <div className="at-sticky-bottom sticky bottom-0 bg-gradient-to-t from-slate-900 via-slate-900 to-transparent pt-4 pb-6">
           <button
             onClick={onStartQuiz}
             disabled={selectedCount === 0}
-            className="w-full py-4 rounded-xl bg-blue-600 text-white font-semibold text-lg hover:bg-blue-500 disabled:bg-slate-700 disabled:text-slate-500 disabled:cursor-not-allowed transition-colors shadow-lg"
+            className="w-full py-4 rounded-xl at-btn-primary font-semibold text-lg transition-colors shadow-lg"
           >
             {selectedCount > 0
               ? `Start Quiz (${selectedCount} questions)`
               : 'Select topics to begin'}
           </button>
         </div>
+
+        <BrandCard kind="qbank" />
       </main>
     </div>
   );

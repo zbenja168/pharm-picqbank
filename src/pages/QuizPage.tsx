@@ -4,6 +4,7 @@ import { ProgressData, AnswerRecord, Session } from '../types/progress';
 import { QuestionCard } from '../components/Question/QuestionCard';
 import { useTimer } from '../hooks/useTimer';
 import { track } from '../utils/track';
+import { SITE } from '../siteConfig';
 
 interface Props {
   questions: Question[];
@@ -76,7 +77,7 @@ export function QuizPage({
       <div className="min-h-screen flex items-center justify-center bg-slate-900">
         <div className="text-center">
           <p className="text-slate-400 mb-4">No questions available.</p>
-          <button onClick={onExit} className="px-6 py-2 rounded-lg bg-blue-600 text-white">
+          <button onClick={onExit} className="px-6 py-2 rounded-lg at-btn-primary font-semibold">
             Go Back
           </button>
         </div>
@@ -88,7 +89,7 @@ export function QuizPage({
     <div className="min-h-screen bg-slate-900">
       <header className="bg-slate-800 border-b border-slate-700 sticky top-0 z-10">
         <div className="max-w-4xl mx-auto px-4 py-3 flex items-center justify-between">
-          <h1 className="text-lg font-bold text-slate-100">Pharmacology Picture QBank</h1>
+          <div className="text-base font-bold text-slate-100 truncate min-w-0">{SITE.title}</div>
           <div className="flex items-center gap-4">
             <span className="text-sm text-slate-400">
               {sessionAnswers.size} answered

@@ -7,6 +7,7 @@ import { QuizPage } from './pages/QuizPage';
 import { DashboardPage } from './pages/DashboardPage';
 import { ReviewPage, type ReviewMode } from './pages/ReviewPage';
 import { BrandBadge } from './components/Brand';
+import { SiteHeader } from './components/SiteHeader';
 import { track } from './utils/track';
 
 type Page = 'home' | 'quiz' | 'dashboard' | 'review';
@@ -143,6 +144,7 @@ export default function App() {
   return (
     <>
       <BrandBadge />
+      <SiteHeader />
       <AppShell />
     </>
   );

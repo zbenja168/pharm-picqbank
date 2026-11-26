@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { Category } from '../../types/topic';
+import { lectureName } from '../SiteHeader';
 
 interface Props {
   category: Category;
@@ -31,7 +32,7 @@ export function CategoryAccordion({ category, selectedTopicIds, onToggleTopic, o
           {allSelected && <svg className="w-3 h-3 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" /></svg>}
           {someSelected && <div className="w-2 h-0.5 bg-blue-400 rounded" />}
         </button>
-        <span className="font-semibold text-slate-200 flex-1">{category.name}</span>
+        <span className="font-semibold text-slate-200 flex-1 at-wrap">{lectureName(category.name)}</span>
         <span className="text-sm text-slate-400">{selectedCount}/{category.topics.length}</span>
         <svg className={`w-4 h-4 text-slate-500 transition-transform ${open ? 'rotate-180' : ''}`} fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" /></svg>
       </div>
@@ -45,7 +46,7 @@ export function CategoryAccordion({ category, selectedTopicIds, onToggleTopic, o
                 onChange={() => onToggleTopic(topic.id)}
                 className="w-4 h-4 rounded border-slate-500 text-blue-500 focus:ring-blue-500 bg-slate-700"
               />
-              <span className="text-sm text-slate-300 flex-1">{topic.name}</span>
+              <span className="text-sm text-slate-300 flex-1 at-wrap">{lectureName(topic.name)}</span>
               <span className="text-xs text-slate-500">{topic.questionCount}q</span>
             </label>
           ))}
